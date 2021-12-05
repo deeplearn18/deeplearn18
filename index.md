@@ -1,3 +1,8 @@
+# 好专利，找爱知
+
+![](/img/ahaipr.jpeg)
+> 这是一门可以从事终生的好职业和好事业，能够将自己的兴趣及特长充分融合且创造价值及意义，还有，可以单人也可团队。
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/deeplearn18/deeplearn18/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
