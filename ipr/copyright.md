@@ -818,6 +818,6 @@ Google做为安卓的推动者，其实开发了两块代码：第一块代码�
 ## 参考
 
 1. [著作权侵权抗辩全面总结](https://mp.weixin.qq.com/s/2Z_yyH9Aa5GKLQjVXGasFQ)
-
+2. [得到品控手册之法律篇](https://www.jianshu.com/p/5353508d2a65)
 
 [返回主页](/)
