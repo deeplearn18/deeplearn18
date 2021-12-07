@@ -16,6 +16,9 @@
 
 ## 法律
 
+[专利链接md](/ipr/patent.md)
+[专利链接html](/ipr/patent.html)
+
 ### [专利法](https://coolipr.com/Patent.html)
 
 中华人民共和国专利法
