@@ -6,7 +6,7 @@
 
 ## 法律法规
 
-![](/img/benchmarking)
+![](/img/benchmarking.jpeg)
 > 知己知彼，百战不殆。
 
 ### 美国
