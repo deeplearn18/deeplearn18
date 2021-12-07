@@ -236,5 +236,6 @@
 
 1. [官方解读：《商标审查审理指南》](https://mp.weixin.qq.com/s/QHaT9R65X2rZA3Vdp3NkBg)
 2. [中国商标法律保护和执法指南](https://mp.weixin.qq.com/s/XVkA161k0XHGEnutCuEG-A)
+3. [品牌的故事](https://www.jianshu.com/p/862cf4e09c4b)
 
 [返回主页](/)
