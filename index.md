@@ -25,6 +25,7 @@
 ### [反垄断](/ipr/antitrust.md)
 ### [SEP](/ipr/SEP.md)
 ### [Product](/ipr/product.md)
+### [Oversea](/ipr/oversea.md)
 
 ## 实务
 
@@ -140,6 +141,9 @@
 3. [智慧芽](https://www.zhihuiya.com)
 4. [智燃界](https://www.zhiranjie.com)
 5. [北美智权](http://cn.naipo.com)
+6. [IPRdaily中文网](http://www.iprdaily.cn/)
+7. [爱集微](https://www.laoyaoba.com/)
+8. [科技產業資訊室](https://iknow.stpi.narl.org.tw/DefaultPhone.aspx)
 
 ### 书籍
 
