@@ -1758,4 +1758,6 @@
 
 ## 参考
 
+1. [浅析合同知识产权条款的设计与审查](https://mp.weixin.qq.com/s/EOjSplZJAf1viAYxU3ZwLA)
+
 [返回主页](/)
