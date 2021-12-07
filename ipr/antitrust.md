@@ -280,5 +280,7 @@ Former  Assistant General Counsel of General Motors
 2. [洞悉变化，看明趋势——解读《反垄断法（修正草案）》](https://www.chinalawinsight.com/2021/10/articles/corporate-ma/%E6%B4%9E%E6%82%89%E5%8F%98%E5%8C%96%EF%BC%8C%E7%9C%8B%E6%98%8E%E8%B6%8B%E5%8A%BF-%E8%A7%A3%E8%AF%BB%E3%80%8A%E5%8F%8D%E5%9E%84%E6%96%AD%E6%B3%95%EF%BC%88%E4%BF%AE%E6%AD%A3%E8%8D%89/)
 3. [China: 反垄断法修正草案解读](https://www.mondaq.com/china/anti-trustcompetition-law/1126198/21453224042602927861204622749133609266963529935835)
 4. [中国反垄断年度执法报告（2020）](http://www.gov.cn/xinwen/2021-09/24/5639102/files/77006c5bccc04555aa05f30c9a296267.pdf)
+5. [国家反垄断局正式挂牌 中国反垄断迈上新台阶](http://guoqing.china.com.cn/2021-11/19/content_77881388.htm)
+6. [国家市场监督管理总局](https://www.samr.gov.cn/fldj/)
 
 [返回主页](/)
