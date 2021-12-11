@@ -16,6 +16,25 @@ patent agent
 
 专利代理师是取得执业资格，代理他人进行专利申请和办理其他专利事务的人。专利代理师执业应具备一定的条件，经考核批准，由国家知识产权局颁发专利代理师资格证，实习满一年，通过专利代理管理系统进行执业备案 [8]  。根据国际惯例，专利代理师须由品学兼优的工业产权工作者担任。各国在制订的专利代理法规中都规定有根据专利代理师的行为随时可取消专利代理师资格的条款。专利代理师的具体业务大致可分为提供专利咨询、代办申请手续、维持专利有效、担任诉讼代理人等。申请人委托专利代理机构向专利局申请专利和办理其他专利事务的，应当同时提交委托书，写明委托权限。
 
+## 概览
+
+![](https://coolipr.com/img/AgentExam2021001.jpeg)
+![](https://coolipr.com/img/AgentExam2021002.jpeg)
+![](https://coolipr.com/img/AgentExam2021003.jpeg)
+![](https://coolipr.com/img/AgentExam2021004.jpeg)
+![](https://coolipr.com/img/AgentExam2021009.jpeg)
+![](https://coolipr.com/img/AgentExam2021010.jpeg)
+![](https://coolipr.com/img/AgentExam2021011.jpeg)
+![](https://coolipr.com/img/AgentExam2021013.jpeg)
+![](https://coolipr.com/img/AgentExam2021018.jpeg)
+![](https://coolipr.com/img/AgentExam2021020.jpeg)
+![](https://coolipr.com/img/AgentExam2021021.jpeg)
+![](https://coolipr.com/img/AgentExam2021024.jpeg)
+![](https://coolipr.com/img/AgentExam2021026.jpeg)
+![](https://coolipr.com/img/AgentExam2021031.jpeg)
+![](https://coolipr.com/img/AgentExam2021032.jpeg)
+
+
 ## 专利法
 
 ### 1、专利法重点法条（第一章）总则
