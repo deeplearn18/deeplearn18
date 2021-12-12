@@ -15,7 +15,7 @@
 ![](https://coolipr.com/img/PatentInformation001.jpeg)
 ![](https://coolipr.com/img/PatentInformation002.jpeg)
 
-## 法律
+## 法律法规
 
 ### [专利](/ipr/patent.md)
 ### [商标](/ipr/trademark.md)
@@ -24,64 +24,13 @@
 ### [反不正当竞争](/ipr/competition.md)
 ### [反垄断](/ipr/antitrust.md)
 ### [SEP](/ipr/SEP.md)
-### [License](/ipr/license.md)
+### [License](/ipr/negotiation.md)
 ### [PCT](/ipr/pct.md)
 ### [Oversea](/ipr/oversea.md)
 ### [Agent](/ipr/agent.md)
 ### [Product](/ipr/product.md)
 
-## 实务
-
-### 储备
-
-#### [专利布局的核心是什么？　圈地成为钉子户！](http://www.scienbizip.com/index.php?s=/sys/98.html)
-
-![](http://www.scienbizip.com/sbp/Uploads/2018-03-14/5aa8ce36baef3.png)
-
-[不同产业生命周期状态下的企业专利策略探讨](http://www.iprdaily.cn/article_4165.html)
-
-#### [一文读懂“专利挖掘方法”](http://www.iprdaily.cn/article1_26497_20201207.html)
-
-“专利挖掘”指有意识地对创新成果进行创新性的剖析与甄选，进而从最合理的权利保护角度确定用于专利申请的技术创新点和技术方案的过程。
-
-![](/img/patdig001.png)
-![](/img/patdig002.png)
-![](/img/patdig003.png)
-![](/img/patdig004.png)
-![](/img/patdig005.png)
-![](/img/patdig006.png)
-
-### 风控
-
-#### [如何进行FTO分析与报告制作](https://mp.weixin.qq.com/s/_qcKF-KA9i2TvJqUEWh1EA)
-
-[企业被起诉专利侵权是FTO或专利风险分析没做好吗？](https://mp.weixin.qq.com/s/-i7Vq72OwnIxRMjm1SyvLA)
-
-
-#### [跨境电商知识产权风险简析](https://mp.weixin.qq.com/s/rEnKC7gekyo_G0mV8Ed36g)
-
-![](/img/ipramazon.jpg)
-
-大体而言，这些针对跨境电子商户的侵权诉讼包括连环相扣的三部曲。如果被告不积极应诉，则这三部曲进展很快。
-
-● 第一步
-以临时禁令（TRO）冻结电子商户的店铺和支付平台账户。TRO的有效期限很短，一般不超过14天，但其无须经过听证程序，甚至无须通知被申请人，目的是有效防止被申请人在得知消息后转移财产或者毁灭证据等。
-
-● 第二步
-在TRO失效之前（通常一周之内），原告提出颁布初步禁令（Preliminary Injunction）的动议（Motion），以确保听证后颁布的初步禁令能够与TRO无缝对接。
-
-● 第三步
-在颁布初步禁令后，很快就发出了传票（Summons），被告通常须在21日内应诉（出庭，或递交答辩状），否则法庭作出缺席判决（Default Judgment）。
-
-通常，判决会在法院收到诉状之后的一个半月左右作出，赔偿金为10万到200万美元不等。对于不积极应诉的被告，程序就此完结，其被冻结的支付平台账户中的资金即被划走作为赔偿金。而如果被冻账户的资金不足以支付赔偿金，被冻账户一般会被永久限制。而且，原告会持续监控被告的网上行为，一旦发现涉诉店铺的其他收款账号（甚至包括国内银行账户），原告会继续申请法院强制执行。
-
-在上述过程中，美国法院并不会执着于找到电子商户或者支付平台账户背后的实际控制企业或者个人，而是径直以电子商户或者支付账户所能联系的电子邮件账户为对象。
-
-### 运营
-
-### 管理
-
-#### [企业知识产权策略](http://www.scienbizip.com/index.php?s=/sys/8.html)
+## [企业知识产权策略](http://www.scienbizip.com/index.php?s=/sys/8.html)
 
 ![](https://coolipr.com/img/IRP.png)
 > [IRP资源整合规划](http://www.scienbizip.com/index.php?s=/sys/6.html)
@@ -136,6 +85,8 @@
 7. [鲜枣课堂：微信号：xzclasscom](https://mp.weixin.qq.com/s/yQ_lqvIR-Gqx9RgB0OOCKQ)
 8. [北美智权：微信公众号→ NAIP_IPServices](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=Mzg4MjAzNjgwMw==&scene=124#wechat_redirect)
 9. [通信知识分类整理](https://mp.weixin.qq.com/s/yQ_lqvIR-Gqx9RgB0OOCKQ)
+10. [百科君的IP杂谈 微信号: IP-BlaBla](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzUxNzAyNjcxNQ==&scene=124#wechat_redirect)
+
 
 ### 网站
 
@@ -158,3 +109,6 @@
 2. [2020年中国法院10大知识产权案件和50件典型知识产权案例](http://www.court.gov.cn/zixun-xiangqing-297991.html)
 3. [RPX公布NPE专利诉讼最新趋势](https://mp.weixin.qq.com/s/3MM1XwbKToGkGoo1WlCvSg)
 4. [百年法律大事记：一图梳理“法治中国”的发展史](https://mp.weixin.qq.com/s/8CsvJW9_ahBOSxbaQf5zHg)
+5. [如何进行FTO分析与报告制作](https://mp.weixin.qq.com/s/_qcKF-KA9i2TvJqUEWh1EA)
+6. [企业被起诉专利侵权是FTO或专利风险分析没做好吗？](https://mp.weixin.qq.com/s/-i7Vq72OwnIxRMjm1SyvLA)
+7. [跨境电商知识产权风险简析](https://mp.weixin.qq.com/s/rEnKC7gekyo_G0mV8Ed36g)
