@@ -81,9 +81,9 @@ Note that competition law is likely to impact on such restrictions. So again the
 
 7. 许可的状态
 
-Is the licence being granted exclusive (the licensor may not use the IP and only the licensee can use it); sole (the licensor and the licensee may use the IP, but no other licences can be given); non-exclusive (the licensor mayuse the IP and may license others to use it too)?[Note the terms exclusive, sole and non-exclusive commonly have the meanings set out here, but they willusually be defined in more detail in the agreement.]
+Is the licence being granted exclusive (the licensor may not use the IP and only the licensee can use it); sole (the licensor and the licensee may use the IP, but no other licences can be given); non-exclusive (the licensor mayuse the IP and may license others to use it too)?Note the terms exclusive, sole and non-exclusive commonly have the meanings set out here, but they willusually be defined in more detail in the agreement.
 
-授予的许可是否是排他性的（许可方不得使用知识产权，只有被许可方可以使用）；独家的（许可人和被许可人可以使用知识产权，但不能授予其他许可）；非排他性（许可方可以使用知识产权，也可以许可他人使用）？[请注意术语排他性、独家性和非排他性通常具有此处规定的含义，但通常会在协议中进行更详细的定义。]
+授予的许可是否是排他性的（许可方不得使用知识产权，只有被许可方可以使用）；独家的（许可人和被许可人可以使用知识产权，但不能授予其他许可）；非排他性（许可方可以使用知识产权，也可以许可他人使用）？请注意术语排他性、独家性和非排他性通常具有此处规定的含义，但通常会在协议中进行更详细的定义。
 
 Can the licensee grant sub-licences and if he can to whom and on what terms?
 
@@ -95,9 +95,9 @@ When does the licence start and end.
 
 许可什么时候开始和结束。
 
-[Commonly for IP having a natural life, such as patents, the licence will continue until the specific patent or patents licensed under the agreement expire. For licences of trade marks and know-how the life will normally be specified as a period of years. And see “Termination By the running of time” below.]
+Commonly for IP having a natural life, such as patents, the licence will continue until the specific patent or patents licensed under the agreement expire. For licences of trade marks and know-how the life will normally be specified as a period of years. And see “Termination By the running of time” below.
 
-[通常对于具有当然寿命的知识产权，例如专利，许可将持续到协议下许可的特定专利或多个专利到期。对于商标和专有技术的许可，有效期通常指定为几年。并参见下面的“随着时间的推移而终止”。]
+通常对于具有当然寿命的知识产权，例如专利，许可将持续到协议下许可的特定专利或多个专利到期。对于商标和专有技术的许可，有效期通常指定为几年。并参见下面的“随着时间的推移而终止”。
 
 9. Transfer of technology
 
@@ -187,7 +187,7 @@ Fees for the licence can include one or more of:
 
 • 定期付款，可能是每季度或每六个月，包括许可费；
 
-• A royalty based on the number or the value of items made and/ or sold under the licence.
+• A royalty based on the number or the value of items made and/or sold under the licence.
 
 • 基于许可协议下制造和/或销售的项目的数量或价值的许可费。
 
@@ -219,9 +219,9 @@ The licence needs to specify when fees will be paid. Pre-established lump sum fe
 
 17. 汇率
 
-If royalties are not calculated in Pounds Sterling, a mechanism for calculating the exchange into Pounds Sterling is needed. This is commonly done by calculating the amount of royalty due in the local currency and then calculating how much in Pounds Sterling that money will buy on the due date for payment. That amount is the sum due to the licensor and it is not affected by fluctuations in the exchange rate thereafter. [If exchange rates change thereafter this may benefit or disadvantage the licensee, but the licensor knows exactly how much he is due.]
+If royalties are not calculated in Pounds Sterling, a mechanism for calculating the exchange into Pounds Sterling is needed. This is commonly done by calculating the amount of royalty due in the local currency and then calculating how much in Pounds Sterling that money will buy on the due date for payment. That amount is the sum due to the licensor and it is not affected by fluctuations in the exchange rate thereafter. If exchange rates change thereafter this may benefit or disadvantage the licensee, but the licensor knows exactly how much he is due.
 
-如果许可费不是以英镑计算，则需要一种机制来计算兑换成英镑。这通常是通过计算以当地货币计算的应付许可费金额，然后计算这笔钱在到期日将购买多少英镑来完成的。该金额是应付给许可人的款项，不受此后汇率波动的影响。[如果此后汇率发生变化，这可能对被许可人有利或不利，但许可人确切地知道他应支付的金额。]
+如果许可费不是以英镑计算，则需要一种机制来计算兑换成英镑。这通常是通过计算以当地货币计算的应付许可费金额，然后计算这笔钱在到期日将购买多少英镑来完成的。该金额是应付给许可人的款项，不受此后汇率波动的影响。如果此后汇率发生变化，这可能对被许可人有利或不利，但许可人确切地知道他应支付的金额。
 
 18. Late payment
 
@@ -235,17 +235,17 @@ There is commonly a provision for interest to accrue on late payments, often cal
 
 19. 账目
 
-The licensee is usually required to produce accounts each year, verified by his accountant, that the payments made are correctly calculated. Again there are usually provisions to deal with the situation if there has been over payment [royalty carried forward against future royalties] or under payment [pay the difference plus interest,as above].
+The licensee is usually required to produce accounts each year, verified by his accountant, that the payments made are correctly calculated. Again there are usually provisions to deal with the situation if there has been over payment royalty carried forward against future royalties] or under payment [pay the difference plus interest,as above.
 
-被许可人通常需要每年提供由其会计师核实的账目，以确保所支付的款项计算正确。同样，如果出现多付[许可费结转未来许可费]或少付[支付差额加利息，如上]，通常也会有规定来处理这种情况。
+被许可人通常需要每年提供由其会计师核实的账目，以确保所支付的款项计算正确。同样，如果出现多付许可费结转未来许可费或少付支付差额加利息，如上，通常也会有规定来处理这种情况。
 
 20. Verifying accounts
 
 20. 验证账目
 
-The licensor is commonly given the right to inspect the licensee’s accounts to check they are correct. The licensee must make available all relevant paperwork. Commonly the licensor may not do the inspection himself, to stop him learning the licensee’s trade secrets, and must pay an independent accountant to do the inspection. If the inspection reveals a discrepancy the over or under payment is corrected [see “accounts” above]. Commonly if the inspection reveals a discrepancy of more than, perhaps 5%, in the figures due the licensee must pay the accountant’s fees.
+The licensor is commonly given the right to inspect the licensee’s accounts to check they are correct. The licensee must make available all relevant paperwork. Commonly the licensor may not do the inspection himself, to stop him learning the licensee’s trade secrets, and must pay an independent accountant to do the inspection. If the inspection reveals a discrepancy the over or under payment is corrected see “accounts” above. Commonly if the inspection reveals a discrepancy of more than, perhaps 5%, in the figures due the licensee must pay the accountant’s fees.
 
-许可人通常有权检查被许可人的账户以检查其是否正确。被许可人必须提供所有相关文件。通常许可人不得自行检查，以阻止其了解被许可人的商业秘密，必须聘请独立会计师进行检查。如果检查发现有差异，则纠正多付或少付[见上面的“账户”]。通常，如果检查发现应得的数字存在超过 5% 的差异，则被许可人必须支付会计师费用。
+许可人通常有权检查被许可人的账户以检查其是否正确。被许可人必须提供所有相关文件。通常许可人不得自行检查，以阻止其了解被许可人的商业秘密，必须聘请独立会计师进行检查。如果检查发现有差异，则纠正多付或少付见上面的“账户”。通常，如果检查发现应得的数字存在超过 5% 的差异，则被许可人必须支付会计师费用。
 
 21.Termination
 
@@ -259,17 +259,17 @@ The licence agreement will need to come to an end at some time. If there are IP 
 
 许可协议需要在某个时间结束。如果存在具有特定寿命的知识产权，例如专利，则许可通常会在原始许可下许可的最后一项专利到期时到期。如果权利没有自然寿命，例如专有技术或商标，或寿命很长，例如版权，则需要有固定的许可到期日或可以终止许可的某种方式通过通知。
 
-[Note that there are rules under competition laws to prevent overlong licences. The life of the licence needs to be discussed with your advisors. And see “Life of the licence” above.]
+Note that there are rules under competition laws to prevent overlong licences. The life of the licence needs to be discussed with your advisors. And see “Life of the licence” above.
 
-[请注意，竞争法中有一些规则可以防止许可期过长。许可的有效期需要与您的顾问讨论。并参见上面的“许可证有效期”。]
+请注意，竞争法中有一些规则可以防止许可期过长。许可的有效期需要与您的顾问讨论。并参见上面的“许可证有效期”。
 
 On breach
 
 违约
 
-If there is a breach of the licence terms by one party, the other is commonly allowed to bring the licence to an end. Such termination may only be possible for a serious breach [which may give rise to argument as to whether or not a particular breach is serious] or for repeated breaches of the agreement.
+If there is a breach of the licence terms by one party, the other is commonly allowed to bring the licence to an end. Such termination may only be possible for a serious breach which may give rise to argument as to whether or not a particular breach is serious or for repeated breaches of the agreement.
 
-如果一方违反许可条款，通常允许另一方终止许可。这种终止可能只有在严重违约[这可能会引起关于特定违约是否严重的争论]或反复违反协议的情况下才有可能。
+如果一方违反许可条款，通常允许另一方终止许可。这种终止可能只有在严重违约这可能会引起关于特定违约是否严重的争论或反复违反协议的情况下才有可能。
 
 Unless the breach cannot be put right, when notice of termination can be given straightaway, the common procedure is for the other party, the party not in breach, to give notice specifying the breach and saying that if the breach is not put right within the period specified in the agreement, commonly thirty days, the other party will give notice of termination.
 
@@ -335,7 +335,7 @@ These will be at the end of the licence.
 
 下载英国知识产权局编制的“知识产权许可检查清单”PDF版，请关注“大岭IP”公众号后，后台回复“清单”下载。
 
-Source:https://www.gov.uk/guidance/licensing-intellectual-property#when-granting-or-taking-a-licence-isnt-appropriate
+[Source:](https://www.gov.uk/guidance/licensing-intellectual-property#when-granting-or-taking-a-licence-isnt-appropriate)
 Each article is copyrighted to their original authors. The news is for informational purposes only and does not provide legal advice.
 
 ## 参考
