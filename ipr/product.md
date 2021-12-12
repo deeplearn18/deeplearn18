@@ -1406,6 +1406,25 @@ IPC分类号:F04B39/00F04B35/04F04B39/06F04C23/00F04C29/02H02K5/12H02K7/14
 所述汽车包括如权利要求1-12中任一项所述的实现汽车中电子控制功能的系统。
 ```
 
+## 方法
+
+### [专利布局的核心是什么？　圈地成为钉子户！](http://www.scienbizip.com/index.php?s=/sys/98.html)
+
+![](http://www.scienbizip.com/sbp/Uploads/2018-03-14/5aa8ce36baef3.png)
+
+[不同产业生命周期状态下的企业专利策略探讨](http://www.iprdaily.cn/article_4165.html)
+
+### [一文读懂“专利挖掘方法”](http://www.iprdaily.cn/article1_26497_20201207.html)
+
+“专利挖掘”指有意识地对创新成果进行创新性的剖析与甄选，进而从最合理的权利保护角度确定用于专利申请的技术创新点和技术方案的过程。
+
+![](/img/patdig001.png)
+![](/img/patdig002.png)
+![](/img/patdig003.png)
+![](/img/patdig004.png)
+![](/img/patdig005.png)
+![](/img/patdig006.png)
+
 ## 参考
 
 1. [企业如何打造杀手专利·概念及案例](https://www.jianshu.com/p/a7ea33e79ce9)
