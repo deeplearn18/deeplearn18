@@ -840,5 +840,6 @@ Google做为安卓的推动者，其实开发了两块代码：第一块代码�
 1. [著作权侵权抗辩全面总结](https://mp.weixin.qq.com/s/2Z_yyH9Aa5GKLQjVXGasFQ)
 2. [得到品控手册之法律篇](https://www.jianshu.com/p/5353508d2a65)
 3. [《安全的软件供应链》](https://sysdig.com/blog/software-supply-chain-security/)
+4. [一加 9 Pro 代码开源偷懒，热门第三方内核 Omega 宣布停更](https://www.ithome.com/0/592/410.htm)
 
 [返回主页](/)
