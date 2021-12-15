@@ -4,6 +4,14 @@
 ![](/img/licencelogo.jpeg)
 > 接触、NDA、技术及商务。
 
+## [vivo 加入 HEVC Advance 视频编码专利池，可使用 16000 余项全球专利](https://www.ithome.com/0/592/064.htm)
+
+IT之家 12 月 13 日消息，独立许可管理机构 Access Advance 日前宣布，vivo 已加入 HEVC Advance 专利池，获得了实施 HEVC / H.265 视频编解码器标准所必需的 16,000 余项全球专利。
+
+Access Advance 首席执行官 Peter Moller 表示：“我们很高兴 vivo 选择加入我们的 HEVC Advance 计划。vivo 的加入是主要智能手机制造商和品牌的另一项重要认可，进一步证明了我们专利池许可的价值。随着 vivo 的加入，我们的 HEVC Advance 计划现在已经获得了绝大多数智能手机市场的许可，其中包括许多最大的智能手机制造商，如三星、华为、OPPO，以及最近的 vivo 和中兴通讯。”
+
+公开资料显示，Access Advance LLC（前身为 HEVC Advance LLC）是一家独立的许可管理公司，旨在领导专利池的开发、管理，以许可最重要的基于标准的视频编解码器技术的必要专利。Access Advance 为专利所有者和专利实施者提供了透明和高效的许可机制。Access Advance 目前管理着 HEVC Advance 专利池，用于许可 H.265 / HEVC 技术的必要专利，以及 VVC Advance 专利池，用于许可 VVC / H.266 技术的必要专利。
+
 ## [如何签订知识产权许可协议？](https://mp.weixin.qq.com/s/BOOkkbJSJXAlD1RMmjpBjw)
 
 2021年12月8日，英国知识产权局更新了知识产权许可指南，该指南除了列举了知识产权许可的好处之外，还给出了一个知识产权许可协议提要，以及一个知识产权许可检查清单。
@@ -341,5 +349,6 @@ Each article is copyrighted to their original authors. The news is for informati
 ## 参考
 
 1. [License](https://coolipr.com/License.html?highlight=li)
+2. [LG 电子与中国天珑移动签署“LTE 通信标准专利许可协议”：后者将向 LG 支付专利使用费](https://www.ithome.com/0/590/746.htm)
 
 [返回主页](/)
