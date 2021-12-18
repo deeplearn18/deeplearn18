@@ -2,7 +2,7 @@
 [返回主页](/)
 
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/42224627/146166129-140d2619-9d8f-4ce3-a217-db3d58f0cbef.png">
-> 以战促和。
+>以战促和。
 
 专利诉讼是指当事人和其他诉讼参与人在人民法院进行的涉及与专利权及相关权益有关的各种诉讼的各种诉讼的总称。专利诉讼有狭义和广义理解的区分，狭义的专利诉讼指专利权被授予后，涉及有关以专利权为标的的诉讼活动；广义的专利诉讼还可以包括在专利申请阶段涉及的申请权归属的诉讼、申请专利的技术因许可实施而引起的诉讼、发明人身份确定的诉讼、专利申请在审批阶段所发生的是否能授予专利权的诉讼以及专利权被授予前所发生的涉及专利申请人以及相关权利人权益的诉讼等。
 
@@ -17,6 +17,59 @@
 1、研透专利技术
 2、收集证据
 3、法律程序
+
+## 博文解读之民法典
+
+![image](https://user-images.githubusercontent.com/42224627/146641076-bdf767c4-711b-4f2c-bb4b-43758d1d5425.png)
+![image](https://user-images.githubusercontent.com/42224627/146641096-1d6fb220-f090-4dcc-9649-70bd7e560d7f.png)
+![image](https://user-images.githubusercontent.com/42224627/146641109-5afbf9de-5690-499a-83fc-4f8be25f16dd.png)
+![image](https://user-images.githubusercontent.com/42224627/146641115-404b8b4d-7401-405a-90c9-f23e43ca3ec8.png)
+![image](https://user-images.githubusercontent.com/42224627/146641125-ca45f324-ca14-42d1-bd96-a72d04ada2e6.png)
+![image](https://user-images.githubusercontent.com/42224627/146641136-1d6a01e6-3f68-4540-bdbc-cc772761cbf0.png)
+![image](https://user-images.githubusercontent.com/42224627/146641144-dd231c46-f915-46f3-a35e-d10bb9725861.png)
+![image](https://user-images.githubusercontent.com/42224627/146641162-0a1d377e-cb8c-4a9f-b717-8c699dc7db68.png)
+![image](https://user-images.githubusercontent.com/42224627/146641174-0a7a06a4-65a8-45e8-b552-825f1ed1310e.png)
+![image](https://user-images.githubusercontent.com/42224627/146641185-ebed6dd6-50e5-46c8-a77f-f3cb9fe7df34.png)
+![image](https://user-images.githubusercontent.com/42224627/146641206-8935463f-5650-4ce2-a069-4200076f5379.png)
+![image](https://user-images.githubusercontent.com/42224627/146641218-86dff7ba-62ad-46ca-ad96-d4c13b2ae2a5.png)
+![image](https://user-images.githubusercontent.com/42224627/146641224-09611a4f-7f7f-4546-aaec-fa8653be5480.png)
+![image](https://user-images.githubusercontent.com/42224627/146641236-cdb47c19-bbf5-4c0d-9d09-cdb659064887.png)
+![image](https://user-images.githubusercontent.com/42224627/146641246-ba5e0c74-66b4-477c-adc1-19ccb56281e4.png)
+![image](https://user-images.githubusercontent.com/42224627/146641258-8ea3038d-1fc8-4278-9d8c-20172a817925.png)
+![image](https://user-images.githubusercontent.com/42224627/146641269-7666e2f8-352a-49fc-9af1-d5c25a137a90.png)
+![image](https://user-images.githubusercontent.com/42224627/146641303-4ca4e2bd-aede-4c22-aac8-8a154db23abd.png)
+![image](https://user-images.githubusercontent.com/42224627/146641338-63ebf83b-6070-484d-8485-d74152304438.png)
+![image](https://user-images.githubusercontent.com/42224627/146641345-d18ec2d1-b66b-437f-96ae-17318f6acd26.png)
+![image](https://user-images.githubusercontent.com/42224627/146641348-a5af3d9c-03cb-4c50-851a-76a5e5eeb801.png)
+
+![image](https://user-images.githubusercontent.com/42224627/146641353-3eed010a-d4ce-4a0c-8179-6b3aae1b3333.png)
+![image](https://user-images.githubusercontent.com/42224627/146641371-f542f96f-9327-40b0-a345-ae9540029d40.png)
+![image](https://user-images.githubusercontent.com/42224627/146641379-efc76667-8e99-4763-bb42-b0f51453e93e.png)
+![image](https://user-images.githubusercontent.com/42224627/146641401-a96f5430-a4d6-42f5-9c68-c86f568b4204.png)
+![image](https://user-images.githubusercontent.com/42224627/146641410-fadfd3a0-97e8-4712-83cc-38f9522334cd.png)
+![image](https://user-images.githubusercontent.com/42224627/146641428-19aa8617-72c0-4904-bd2c-0e398db01136.png)
+![image](https://user-images.githubusercontent.com/42224627/146641438-285b3bbd-39c2-45b3-807a-2d61a0fe24b8.png)
+![image](https://user-images.githubusercontent.com/42224627/146641458-2a5112ed-d816-43bd-b3a5-a650ec70e5aa.png)
+![image](https://user-images.githubusercontent.com/42224627/146641484-448ef0ce-cc2d-490a-8ba9-7a08e97cd7c8.png)
+![image](https://user-images.githubusercontent.com/42224627/146641507-8b260152-92f6-4715-a53a-57f6c006d96b.png)
+![image](https://user-images.githubusercontent.com/42224627/146641522-c1f05c93-b324-464b-bb7a-876d709ae49a.png)
+![image](https://user-images.githubusercontent.com/42224627/146641544-adce1bb1-3b84-4005-bba8-190a69fe66fc.png)
+![image](https://user-images.githubusercontent.com/42224627/146641557-93670a70-2481-4625-a47e-f2ed9e7e5124.png)
+![image](https://user-images.githubusercontent.com/42224627/146641571-e96399cb-9fd5-451e-b200-64177462b72a.png)
+
+![image](https://user-images.githubusercontent.com/42224627/146641577-93ee9e47-67c6-4a1d-ac87-5fcc8e6f5ace.png)
+![image](https://user-images.githubusercontent.com/42224627/146641584-4eee3f4e-c0a8-46b9-94ca-e9f9813bdddb.png)
+![image](https://user-images.githubusercontent.com/42224627/146641600-ba02ebd4-abd0-43c4-9e31-b57cf85e63c5.png)
+![image](https://user-images.githubusercontent.com/42224627/146641624-715beb0e-96e7-4970-969a-0f2447e5353f.png)
+![image](https://user-images.githubusercontent.com/42224627/146641678-1b00e2f2-503c-468c-962b-a1791a251e69.png)
+![image](https://user-images.githubusercontent.com/42224627/146641696-04bd7d4c-d6f4-46ed-84e3-96d210d6e02d.png)
+![image](https://user-images.githubusercontent.com/42224627/146641737-627f78a1-e83a-405d-bbdf-8dd778155b0e.png)
+![image](https://user-images.githubusercontent.com/42224627/146641762-457484aa-18cc-46da-971f-e52114222dfa.png)
+![image](https://user-images.githubusercontent.com/42224627/146641791-b3c9560a-ec80-4c22-a1ef-649f8878df7c.png)
+![image](https://user-images.githubusercontent.com/42224627/146641809-dfc0ba4d-a156-4e6f-904d-56dbd9ecbb90.png)
+![image](https://user-images.githubusercontent.com/42224627/146641822-eb4ec565-d5ff-4201-9773-ba6d07e3dec2.png)
+![image](https://user-images.githubusercontent.com/42224627/146641829-e5f70466-c24b-4f54-abac-ab13c87d31ed.png)
+
 
 ## [最高人民法院民事案件当事人申请再审指南](https://victory.itslaw.com/html/detail/2f0f0b76-4b21-4de5-bcbc-0cfd2b0e9c03/)
 
