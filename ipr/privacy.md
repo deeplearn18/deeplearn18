@@ -4,6 +4,10 @@
 ![image](https://user-images.githubusercontent.com/42224627/146170927-96022b61-4f50-428b-a095-abeee4f67cff.png)
 > 数据，新时代的“石油”。
 
+在互联网上，大公司的圈地越来越大，不登录的情况下能在网上做的事情越来越少。
+许多人仍然以为，互联网是一个充满未知风险和黑客出没的匿名场所，殊不知现实是，现在的互联网越来越必须身份验证后才能使用。
+--[《互联网匿名的终结》](https://www.thedrum.com/opinion/2021/11/19/what-the-end-anonymity-means-consumers-and-brands)
+
 ## 参考
 
 1. [小米“线下黄牛统计方法”专利获授权：可为电子设备的销售点是否存在恶意销售情况提供数据支持](https://www.ithome.com/0/592/353.htm)
