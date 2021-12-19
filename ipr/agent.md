@@ -196,6 +196,8 @@ patent agent
 
 ## 错题集
 
+### 相关法
+
 ![image](https://user-images.githubusercontent.com/42224627/146382138-148c4ee8-93f3-45ca-a028-cfca440c40db.png)
 ![image](https://user-images.githubusercontent.com/42224627/146383615-352e9ad7-5896-4db6-86d9-05a1cf80938d.png)
 ![image](https://user-images.githubusercontent.com/42224627/146383649-f39987c9-3a84-494f-98b4-1641c78ad418.png)
@@ -228,6 +230,31 @@ patent agent
 ![image](https://user-images.githubusercontent.com/42224627/146640428-e378bb6a-b8e0-4d41-bcff-c8f4a6da9ee6.png)
 ![image](https://user-images.githubusercontent.com/42224627/146640431-0b57a9d6-6847-410b-b9b4-d691a313226e.png)
 ![image](https://user-images.githubusercontent.com/42224627/146640433-eeb1ed5b-b065-48ea-86bd-5ce9b9021120.png)
+
+![image](https://user-images.githubusercontent.com/42224627/146658907-3bc7cd74-3abd-42c1-b1e7-cb85fbebc5be.png)
+![image](https://user-images.githubusercontent.com/42224627/146658908-68c24bf4-f5ca-44bb-9ea3-c39dae5fdb06.png)
+![image](https://user-images.githubusercontent.com/42224627/146658909-f944487a-8075-4cb4-a265-68f8c7c74988.png)
+![image](https://user-images.githubusercontent.com/42224627/146658911-3e300c89-4423-4aab-9bfb-991d460caa34.png)
+![image](https://user-images.githubusercontent.com/42224627/146658912-41d100ca-72c5-4c95-89f5-0bc4e2a41d79.png)
+![image](https://user-images.githubusercontent.com/42224627/146658913-6a97b819-d92a-4847-b60c-20159542ae74.png)
+![image](https://user-images.githubusercontent.com/42224627/146658916-9f1d6233-5113-45d4-bdfb-fac951c3c637.png)
+![image](https://user-images.githubusercontent.com/42224627/146658919-81fd9d76-de8b-43c4-9ba6-31d7b710f189.png)
+![image](https://user-images.githubusercontent.com/42224627/146658920-9f348bcd-f59e-46d7-a062-b2aff52f918a.png)
+![image](https://user-images.githubusercontent.com/42224627/146658922-d26a65da-5be7-42b5-b09d-9615d9792d4c.png)
+
+
+### 专利法
+
+![image](https://user-images.githubusercontent.com/42224627/146659083-a34ca01b-1a77-41f7-8606-6ca38522c05d.png)
+![image](https://user-images.githubusercontent.com/42224627/146659085-3328d9b0-c7f5-4618-90c0-b4469f0bda7e.png)
+![image](https://user-images.githubusercontent.com/42224627/146659087-9275df0a-b738-497a-a523-65187012dbfb.png)
+![image](https://user-images.githubusercontent.com/42224627/146659089-1fdbb9d3-64ea-48dc-9c77-ed6c1dfc9e37.png)
+![image](https://user-images.githubusercontent.com/42224627/146659093-cd9ac27f-5c77-49e0-81cc-6a210aeec184.png)
+![image](https://user-images.githubusercontent.com/42224627/146659095-3a51ee2c-8997-47c5-a9fb-e0d12dcea86b.png)
+![image](https://user-images.githubusercontent.com/42224627/146659096-89789c2b-e9f2-40bd-b098-7bb9278fdece.png)
+![image](https://user-images.githubusercontent.com/42224627/146659099-51ff12b7-cdc6-4c7e-8f5f-f85c48d26d56.png)
+![image](https://user-images.githubusercontent.com/42224627/146659101-f8cc6b4f-7e14-41f0-ae1d-a567a36bbc00.png)
+![image](https://user-images.githubusercontent.com/42224627/146659103-57492bc4-ecfe-40b0-926d-e7928a8e89e8.png)
 
 
 ## 参考
