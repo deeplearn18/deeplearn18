@@ -24,6 +24,7 @@
 ### [反不正当竞争](/ipr/competition.md)
 ### [反垄断](/ipr/antitrust.md)
 ### [相关法](/ipr/law.md)
+### [行政法](/ipr/administration.md)
 ### [诉讼](/ipr/litigation.md)
 ### [SEP](/ipr/SEP.md)
 ### [License](/ipr/negotiation.md)
