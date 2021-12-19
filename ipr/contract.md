@@ -6,6 +6,76 @@
 
 ## 法律法规
 
+### 博文解读之合同编
+
+![image](https://user-images.githubusercontent.com/42224627/146660732-adb34463-c829-4767-98fe-2bbdd9ca517e.png)
+![image](https://user-images.githubusercontent.com/42224627/146660735-3152b436-39ce-4678-b796-30a3e561ad43.png)
+![image](https://user-images.githubusercontent.com/42224627/146660743-a0f75eaa-2a2c-4c88-a2a2-54b0a6c7857c.png)
+![image](https://user-images.githubusercontent.com/42224627/146660753-9baa3102-ef7f-4dc0-920c-a1d689c9d221.png)
+![image](https://user-images.githubusercontent.com/42224627/146660761-773270e2-183b-401d-9b37-0d86a91e00e8.png)
+![image](https://user-images.githubusercontent.com/42224627/146660774-ff91b589-7c4c-464c-b90f-a8c72573ebbd.png)
+![image](https://user-images.githubusercontent.com/42224627/146660785-5975af6b-0b5c-429a-908a-523ffae13311.png)
+![image](https://user-images.githubusercontent.com/42224627/146660804-bd43483b-fc81-4d07-970a-6b76517709b7.png)
+![image](https://user-images.githubusercontent.com/42224627/146660814-34d1949f-e260-45be-9aeb-f65867680492.png)
+![image](https://user-images.githubusercontent.com/42224627/146660836-f749604d-9c70-433e-b8d0-0257635fab30.png)
+![image](https://user-images.githubusercontent.com/42224627/146660840-1140ac2c-48e4-4c49-b76e-4555770b09e5.png)
+![image](https://user-images.githubusercontent.com/42224627/146660875-ca73fe20-acf9-4cd9-a014-21180cc91f25.png)
+![image](https://user-images.githubusercontent.com/42224627/146660883-feee5b56-e4c9-4374-8c23-2c69b3cf5a3f.png)
+![image](https://user-images.githubusercontent.com/42224627/146660889-6d0c337e-5baa-41fd-9511-058cc3a624cd.png)
+![image](https://user-images.githubusercontent.com/42224627/146660894-d5720639-e177-4be0-a26d-181b62d1a7ca.png)
+![image](https://user-images.githubusercontent.com/42224627/146660896-341ab284-b5f1-4c59-a480-4d2fadba7895.png)
+![image](https://user-images.githubusercontent.com/42224627/146660901-b34a74ff-f654-4dc9-8b6f-53be6dd2e974.png)
+![image](https://user-images.githubusercontent.com/42224627/146660904-751ab828-c9b5-425d-8df3-af1f76bd0b83.png)
+
+
+![image](https://user-images.githubusercontent.com/42224627/146660909-501257a0-0d13-4609-8444-8293e4b7bd8c.png)
+![image](https://user-images.githubusercontent.com/42224627/146660913-e54a4718-9b5e-4990-9d85-ac75ca13ea15.png)
+![image](https://user-images.githubusercontent.com/42224627/146660930-f6c84e6f-e2b7-47c0-8e49-63e03215952e.png)
+![image](https://user-images.githubusercontent.com/42224627/146660942-515f127a-83af-4e65-b8e6-e9a49500b60b.png)
+![image](https://user-images.githubusercontent.com/42224627/146660959-1c3a12c6-abf0-4c4b-8db9-5bc85b4f0b01.png)
+![image](https://user-images.githubusercontent.com/42224627/146660965-796156f1-6f16-43a9-addc-304be8dcfa09.png)
+![image](https://user-images.githubusercontent.com/42224627/146660984-a82a483c-e38b-41c1-bc2f-65776c83bfd1.png)
+![image](https://user-images.githubusercontent.com/42224627/146660994-26d3621c-b450-4e08-ab88-b23d21a9ec56.png)
+![image](https://user-images.githubusercontent.com/42224627/146660997-29b17c6a-c24e-4cfc-b562-eb861c276685.png)
+![image](https://user-images.githubusercontent.com/42224627/146661005-01068b1d-6575-4d7c-9576-69b1c3def43c.png)
+![image](https://user-images.githubusercontent.com/42224627/146661011-14868f3e-ff3e-467b-a7b8-3310b2b2dd81.png)
+![image](https://user-images.githubusercontent.com/42224627/146661019-e3968797-9faf-43c2-a686-bbeddac46054.png)
+
+![image](https://user-images.githubusercontent.com/42224627/146661024-ca5d81f6-d206-4bee-a375-c8bc9fb15490.png)
+![image](https://user-images.githubusercontent.com/42224627/146661031-7403c110-3aee-4188-af1e-38fa8a7f5cad.png)
+![image](https://user-images.githubusercontent.com/42224627/146661046-b9932f0c-9cbd-49d3-a11b-60ebcf6f9909.png)
+![image](https://user-images.githubusercontent.com/42224627/146661052-df408eee-15c9-4776-81b1-4b3ecebd951e.png)
+![image](https://user-images.githubusercontent.com/42224627/146661054-402ede0b-3290-4a5c-a974-bcc18f9350a3.png)
+![image](https://user-images.githubusercontent.com/42224627/146661070-6da2c7df-8457-468b-962a-385fbbb85008.png)
+![image](https://user-images.githubusercontent.com/42224627/146661080-d566639b-2156-45aa-9782-8f2d90ee6e3f.png)
+![image](https://user-images.githubusercontent.com/42224627/146661087-a687a310-08d3-4eed-9bc9-915522683ca6.png)
+![image](https://user-images.githubusercontent.com/42224627/146661096-84fa37c1-ff57-4814-8047-75195a420703.png)
+![image](https://user-images.githubusercontent.com/42224627/146661104-014f0737-6cd4-4a6c-8ead-ed89544852b4.png)
+![image](https://user-images.githubusercontent.com/42224627/146661113-7ee1dedd-37d2-4a78-9fbc-7b3843566b90.png)
+![image](https://user-images.githubusercontent.com/42224627/146661127-7195677c-f882-42b0-a0e6-a0b2b629333b.png)
+![image](https://user-images.githubusercontent.com/42224627/146661139-0efaa832-078d-4bc7-a5f6-6c2a1674f3f2.png)
+![image](https://user-images.githubusercontent.com/42224627/146661147-a73c9f2f-f18f-4e4a-9c9f-65c95b36e3b8.png)
+![image](https://user-images.githubusercontent.com/42224627/146661150-b40e5b72-2de3-4e47-aa8d-3f0eef8cebbd.png)
+
+#### 技术合同和委托合同
+
+![image](https://user-images.githubusercontent.com/42224627/146661164-cc3cb717-9934-4360-915c-2798d3314e39.png)
+![image](https://user-images.githubusercontent.com/42224627/146661225-3d7e8cd1-f7a0-4cb9-b604-42f5abf0718b.png)
+![image](https://user-images.githubusercontent.com/42224627/146661240-ae35a5b7-707c-4afd-a393-be6280db1d66.png)
+![image](https://user-images.githubusercontent.com/42224627/146661246-97c74830-cbc3-45ae-b977-0619ab7de399.png)
+![image](https://user-images.githubusercontent.com/42224627/146661258-32abf576-b806-4078-921d-a3009a791780.png)
+![image](https://user-images.githubusercontent.com/42224627/146661265-3f79b078-5664-4fdb-bbfb-833ec9aece52.png)
+![image](https://user-images.githubusercontent.com/42224627/146661284-ce7ab4e8-645c-4036-8a19-409a6d554e15.png)
+![image](https://user-images.githubusercontent.com/42224627/146661309-eca3616c-da8d-47a6-97c1-e0459d30be4b.png)
+![image](https://user-images.githubusercontent.com/42224627/146661326-8ac51e0b-1770-4ddd-9fe9-3194b7059601.png)
+![image](https://user-images.githubusercontent.com/42224627/146661344-f6bcbaef-cccc-41a6-8922-b6c526dbad25.png)
+![image](https://user-images.githubusercontent.com/42224627/146661354-13cdff07-b5cf-4d2d-9527-2dc6c214a973.png)
+![image](https://user-images.githubusercontent.com/42224627/146661367-761b8549-2269-49ee-a644-ad5c8195f9fa.png)
+![image](https://user-images.githubusercontent.com/42224627/146661383-2e125b74-e809-4299-9269-8b1d54434f2e.png)
+![image](https://user-images.githubusercontent.com/42224627/146661386-9f7ac60d-0fcf-4307-bb78-35a1bc467937.png)
+![image](https://user-images.githubusercontent.com/42224627/146661389-91726016-1a4f-4f5f-93cb-a149f92b3e9a.png)
+
+
 ### [民法之合同编](https://www.spp.gov.cn/spp/ssmfdyflvdtpgz/202008/t20200831_478413.shtml)
 
 第三编　合同
