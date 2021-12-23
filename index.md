@@ -9,6 +9,10 @@
 12.5日 马当路 西西弗书店  启航 整合CSDN、简书等资料
 ![Alt](https://repobeats.axiom.co/api/embed/5da1971450e29a59a73c226368bafeb703dc6c9e.svg "Repobeats analytics image")
 
+12.23日，法律思维及底层逻辑真正理解到点了，开始通了...
+![image](https://user-images.githubusercontent.com/42224627/147200751-d726cb87-07b3-4698-9dd7-7776712b37a1.png)
+
+
 ![](/img/time.png)
 >[长远来看，斜率是唯一重要的事情。](https://mp.weixin.qq.com/s/c97w9_L8Xccpj6F_lCRa3Q)
 
