@@ -8,6 +8,14 @@
 许多人仍然以为，互联网是一个充满未知风险和黑客出没的匿名场所，殊不知现实是，现在的互联网越来越必须身份验证后才能使用。
 --[《互联网匿名的终结》](https://www.thedrum.com/opinion/2021/11/19/what-the-end-anonymity-means-consumers-and-brands)
 
+[大开眼界的 Pegasus 间谍软件（英文）](https://m.facebook.com/story.php?story_fbid=10159084773734215&id=673654214&_rdr)
+一家以色列公司开发的间谍软件 Pegasus，实现细节令人大开眼界。
+只要你打开 iPhone 的通信软件 iMessage，查看包含病毒的消息，不用点击任何链接，就会中招。它是怎么做到的？
+
+[Global Sequencer](https://globalsequencer.com/)
+![image](https://user-images.githubusercontent.com/42224627/147395536-6151390d-f901-4578-b6b4-9573f1773098.png)
+这个项目的创意很好，用户打开电脑的麦克风，录制一段声音上传，网站就把它显示在世界地图上，你可以选择地球的某个地点听那里的声音。
+
 ## 参考
 
 1. [小米“线下黄牛统计方法”专利获授权：可为电子设备的销售点是否存在恶意销售情况提供数据支持](https://www.ithome.com/0/592/353.htm)
@@ -22,5 +30,6 @@
 10. [涉自动驾驶领域，华为“异常驾驶行为”相关专利获授权：可提升识别准确度](https://www.ithome.com/0/591/095.htm)
 11. [任天堂三项新专利曝光：与《塞尔达传说：荒野之息 2》预告中的玩法十分相似](https://www.ithome.com/0/592/575.htm)
 12. [索尼 PlayStation 为《死亡搁浅》的创意机制申请专利，以防其他游戏使](https://www.ithome.com/0/591/980.htm)
+13. [悄悄拍摄行人，算法指挥员工：便利蜂的“系统”是否越界](https://mp.weixin.qq.com/s/heRqYI-GFw5EX_0r_4Jh9g)
 
 [返回主页](/)
