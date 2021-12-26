@@ -130,6 +130,42 @@ patent agent
 • 与 专利法不同，1984 版配套的专利法实施细则以及与 1992 版配套的专利法实施细则已经被废止。
 现行有效的专利法实施细则是 2001 年6月15 日由国务院发布， 2001 年7月1日实施， 2010 年1月9日第二次修订。
 
+![image](https://user-images.githubusercontent.com/42224627/147406544-88df6a62-2576-4de6-8426-d75f4c3e7796.png)
+![image](https://user-images.githubusercontent.com/42224627/147406549-a1ecabfd-d14e-4e10-8e63-efdc5b770c9f.png)
+![image](https://user-images.githubusercontent.com/42224627/147406555-c8ca9012-50b4-4a78-93fa-6993de317cea.png)
+![image](https://user-images.githubusercontent.com/42224627/147406560-914f55e4-0022-481d-bbd6-8214fe7da136.png)
+![image](https://user-images.githubusercontent.com/42224627/147406567-c9b59e4b-4a05-4ab2-a01a-6c4894e4b31f.png)
+![image](https://user-images.githubusercontent.com/42224627/147406571-96db1303-4bb7-4967-9a19-f78426ce2d2a.png)
+![image](https://user-images.githubusercontent.com/42224627/147406577-07dbb8d5-3138-444c-bd2f-18acecc17e20.png)
+![image](https://user-images.githubusercontent.com/42224627/147406580-7115fd6f-6b02-4eb4-a615-b95fbd339c62.png)
+
+![image](https://user-images.githubusercontent.com/42224627/147406584-d3576b67-7528-4fa3-81b5-740988c061fd.png)
+![image](https://user-images.githubusercontent.com/42224627/147406589-ea17a782-6c81-4016-9764-41f3a214a768.png)
+![image](https://user-images.githubusercontent.com/42224627/147406593-a1b3dbab-81f8-417d-b4a9-db400ba28b45.png)
+![image](https://user-images.githubusercontent.com/42224627/147406597-0beb85dd-20dd-4bc0-8045-5e47fed5bb79.png)
+![image](https://user-images.githubusercontent.com/42224627/147406604-5e0f9f4f-fa21-4485-ba7f-767d35f57fc7.png)
+![image](https://user-images.githubusercontent.com/42224627/147406614-987d21d9-beb5-4131-b2b5-e2be399d2d95.png)
+![image](https://user-images.githubusercontent.com/42224627/147406621-64e51412-264e-406a-a901-8a424410f594.png)
+![image](https://user-images.githubusercontent.com/42224627/147406625-692a9429-fc3d-4ae2-9a65-e9323a1a1c52.png)
+![image](https://user-images.githubusercontent.com/42224627/147406632-f29b37c4-ee8e-4bd7-a4af-cde1dd351239.png)
+![image](https://user-images.githubusercontent.com/42224627/147406641-79034520-338b-4ada-a881-e723ac578d60.png)
+![image](https://user-images.githubusercontent.com/42224627/147406644-63f03b4c-d1fc-4a46-b314-c943028f55f9.png)
+![image](https://user-images.githubusercontent.com/42224627/147406655-41a229b0-d93a-483d-964a-9cb678a18055.png)
+![image](https://user-images.githubusercontent.com/42224627/147406658-39ddb531-6b66-41d9-94ee-affcc8c00694.png)
+
+![image](https://user-images.githubusercontent.com/42224627/147406668-1fb13f89-f7c6-4745-a117-913c360ab72b.png)
+![image](https://user-images.githubusercontent.com/42224627/147406675-be61b7dd-5558-440e-9d6b-aa257d1d2ec7.png)
+![image](https://user-images.githubusercontent.com/42224627/147406683-b156d244-575c-4fd8-be90-50a47f56d77d.png)
+![image](https://user-images.githubusercontent.com/42224627/147406690-51023a05-639b-40bf-ae01-f522f7f90caa.png)
+![image](https://user-images.githubusercontent.com/42224627/147406699-7c5e176e-43ac-4d72-b0d6-0f3b339227d0.png)
+![image](https://user-images.githubusercontent.com/42224627/147406702-43388da4-ee66-4076-b875-f31fb1e7a81b.png)
+![image](https://user-images.githubusercontent.com/42224627/147406710-e7798e64-cdcf-4e1e-be7e-be6392653d9d.png)
+![image](https://user-images.githubusercontent.com/42224627/147406711-f257ddc5-5428-4577-9d98-dad3cd92bf41.png)
+![image](https://user-images.githubusercontent.com/42224627/147406714-9f875ec3-def4-42c0-9f64-167872c02a73.png)
+![image](https://user-images.githubusercontent.com/42224627/147406720-ef883a6f-d8d4-406d-97d2-e1f108ea5f45.png)
+![image](https://user-images.githubusercontent.com/42224627/147406729-431e3036-b631-4394-abf4-f4cd36cb0a8f.png)
+![image](https://user-images.githubusercontent.com/42224627/147406732-7298409f-b5c8-4053-8885-4ef9b7ecf39a.png)
+![image](https://user-images.githubusercontent.com/42224627/147406734-5de03f4a-04a8-4dbd-ba1e-0dfa6fefaf1b.png)
 
 
 ### 2、专利法重点法条（第二章）格式
