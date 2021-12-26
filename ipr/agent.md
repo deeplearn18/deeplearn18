@@ -171,6 +171,14 @@ patent agent
 
 ### 14、专利代理制度（第十四章）专利文献
 
+![image](https://user-images.githubusercontent.com/42224627/147403454-d752ed57-6815-4210-9421-e48d91a6b675.png)
+![image](https://user-images.githubusercontent.com/42224627/147403470-1b966dc6-301f-4d62-8f5e-059559fd18cb.png)
+![image](https://user-images.githubusercontent.com/42224627/147403500-823fcfe8-8666-40b7-83f0-bae3b35bf72d.png)
+![image](https://user-images.githubusercontent.com/42224627/147403502-97855bc4-6170-44e2-8f5c-0f3a8e268190.png)
+![image](https://user-images.githubusercontent.com/42224627/147403506-49aa4b83-99ce-4083-9bfa-465fb0d56104.png)
+![image](https://user-images.githubusercontent.com/42224627/147403666-ff35a068-bd84-443c-b75d-520c5d827ed1.png)
+![image](https://user-images.githubusercontent.com/42224627/147403665-eeab9774-88b7-4976-801b-7928f445f113.png)
+
 
 ## 相关法
 
