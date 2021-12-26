@@ -176,8 +176,75 @@ patent agent
 
 ### 4、专利法重点法条（第四章）授权客体
 
+![image](https://user-images.githubusercontent.com/42224627/147407053-1297cf69-0920-4386-b5e5-f0c2ccfec8fb.png)
+![image](https://user-images.githubusercontent.com/42224627/147407061-1149419b-8a93-4a1f-8663-1fd698bbcb83.png)
+![image](https://user-images.githubusercontent.com/42224627/147407066-4dd317dd-c164-4e44-b1bf-902e1f18bd52.png)
+![image](https://user-images.githubusercontent.com/42224627/147407071-e4426d43-6e83-4f10-bcb5-8d1f9754fb02.png)
+![image](https://user-images.githubusercontent.com/42224627/147407078-a528aeaa-aec2-438c-91fc-ee5890d9d60f.png)
+![image](https://user-images.githubusercontent.com/42224627/147407084-60e92ac5-81fb-495f-b30a-1e91c87b0156.png)
+![image](https://user-images.githubusercontent.com/42224627/147407092-09ea9083-65a3-4513-b057-ba2288240d8d.png)
+![image](https://user-images.githubusercontent.com/42224627/147407111-856094c7-e2ed-4c6d-a021-89726af71ac7.png)
+![image](https://user-images.githubusercontent.com/42224627/147407128-88bff6b8-5deb-44bd-a25f-1c05db1630a3.png)
+![image](https://user-images.githubusercontent.com/42224627/147407135-d828dc5c-884d-4d40-9cd7-d5c5a39d9429.png)
+![image](https://user-images.githubusercontent.com/42224627/147407139-b573bfdb-8c58-4110-bb59-797be0f803fa.png)
+![image](https://user-images.githubusercontent.com/42224627/147407146-b63ec260-2855-4b27-8f6a-19d88e39b4b7.png)
+![image](https://user-images.githubusercontent.com/42224627/147407150-b155e553-4a2d-4b6a-859e-bb5ed236e31c.png)
+![image](https://user-images.githubusercontent.com/42224627/147407159-27735717-172d-4577-af69-742b9d35be1b.png)
+![image](https://user-images.githubusercontent.com/42224627/147407172-11a7d6ca-5079-4117-ac91-4130f9d63cbb.png)
+![image](https://user-images.githubusercontent.com/42224627/147407187-e8873cea-128e-4604-946f-3d5305c29c60.png)
+![image](https://user-images.githubusercontent.com/42224627/147407191-104f6ea2-c850-4f41-a0cf-ce1c2f5d8790.png)
+![image](https://user-images.githubusercontent.com/42224627/147407193-909c33e2-5cad-4238-808e-05b4db7e74fd.png)
+
+
 
 ### 5、专利法重点法条（第五章）授权条件
+
+#### 实用性
+![image](https://user-images.githubusercontent.com/42224627/147407196-38a9e7f3-06bc-44c9-b90a-4c8356eb7a56.png)
+![image](https://user-images.githubusercontent.com/42224627/147407204-11f18ef6-43b4-4ab3-ab0a-9a0cb8aee701.png)
+![image](https://user-images.githubusercontent.com/42224627/147407208-1e28a8a7-577b-4678-b348-d59fb2ae5cac.png)
+![image](https://user-images.githubusercontent.com/42224627/147407213-e64fd56a-b465-4950-8710-d234e34fa19a.png)
+![image](https://user-images.githubusercontent.com/42224627/147407220-659f9360-e039-4b65-a372-00deb37b68c1.png)
+![image](https://user-images.githubusercontent.com/42224627/147407226-66df13fe-6575-41dd-a79c-b3001b646e7e.png)
+
+#### 新颖性
+![image](https://user-images.githubusercontent.com/42224627/147407229-0221e1cd-e01a-4641-a8d0-5800fbd7f949.png)
+![image](https://user-images.githubusercontent.com/42224627/147407232-6b9fe410-6a00-46fb-ac92-0afc8196c22d.png)
+![image](https://user-images.githubusercontent.com/42224627/147407235-9491fd70-2dbd-418d-ab94-e97c3dbb46b7.png)
+![image](https://user-images.githubusercontent.com/42224627/147407240-d11c3a64-9351-4e6a-8830-b9de75ae4208.png)
+![image](https://user-images.githubusercontent.com/42224627/147407242-3fc59a30-2bd7-4c03-b2b1-b0a09bf5db09.png)
+![image](https://user-images.githubusercontent.com/42224627/147407247-8e7991e6-e05c-422b-8f5d-d20b5d19b104.png)
+![image](https://user-images.githubusercontent.com/42224627/147407264-8a6204df-2cb4-4b67-815c-3cbf38bff038.png)
+![image](https://user-images.githubusercontent.com/42224627/147407273-687d2d7c-61b7-4496-b2f9-fe1ff104ad74.png)
+![image](https://user-images.githubusercontent.com/42224627/147407284-f26f01ed-4d6a-464d-8d86-de5318908a87.png)
+![image](https://user-images.githubusercontent.com/42224627/147407291-1a887db1-066f-4532-b040-648faca331bb.png)
+![image](https://user-images.githubusercontent.com/42224627/147407299-c7aa3acb-6742-456d-90d7-f16c09739cba.png)
+![image](https://user-images.githubusercontent.com/42224627/147407307-0ad35366-4bee-4bd9-a7e9-459ceaf7b6dc.png)
+![image](https://user-images.githubusercontent.com/42224627/147407323-3756111f-0cc3-405b-936b-9c0b9275557c.png)
+![image](https://user-images.githubusercontent.com/42224627/147407325-2d99cd6d-4cde-4b40-88a4-2da9d293cbdb.png)
+![image](https://user-images.githubusercontent.com/42224627/147407332-b7e03471-3926-4cff-89ef-471f30a93eb4.png)
+![image](https://user-images.githubusercontent.com/42224627/147407339-234a0d65-4cf5-4400-af04-312f57d0deb2.png)
+![image](https://user-images.githubusercontent.com/42224627/147407343-b0157807-0f33-4c3a-8d2b-f26650443ffd.png)
+![image](https://user-images.githubusercontent.com/42224627/147407347-a8567d5a-1409-4368-97e1-956bedd50689.png)
+![image](https://user-images.githubusercontent.com/42224627/147407353-ce8a3f18-7d31-45d6-82ee-52670c309df1.png)
+![image](https://user-images.githubusercontent.com/42224627/147407358-c23aff98-a58c-4bdb-8358-31932271abc1.png)
+
+#### 创造性
+
+![image](https://user-images.githubusercontent.com/42224627/147407366-43a880ca-5fb0-46f0-b572-a85f34482fb0.png)
+![image](https://user-images.githubusercontent.com/42224627/147407369-672408af-5264-4d59-a158-93e407cea0a4.png)
+![image](https://user-images.githubusercontent.com/42224627/147407375-d5fa1bb4-6eaf-49b2-8e4c-6c3f5de663e1.png)
+![image](https://user-images.githubusercontent.com/42224627/147407379-28f7044c-ac9a-4227-b750-1c89c38169cc.png)
+![image](https://user-images.githubusercontent.com/42224627/147407384-f2e4abb9-d4cc-44ee-b7d3-687bcf589837.png)
+![image](https://user-images.githubusercontent.com/42224627/147407387-7104f9aa-e2af-48b6-af0c-6f50616e2b2c.png)
+![image](https://user-images.githubusercontent.com/42224627/147407391-3e7a5faf-6ba3-40cd-8b75-a985dd226eec.png)
+![image](https://user-images.githubusercontent.com/42224627/147407394-a54f8e51-93d4-48da-9f18-2d0f3af638f3.png)
+![image](https://user-images.githubusercontent.com/42224627/147407408-19a62411-ed05-4cc3-9202-a1f47cae503e.png)
+![image](https://user-images.githubusercontent.com/42224627/147407415-b87a1879-5569-4163-a7c5-3f36b9cccab1.png)
+![image](https://user-images.githubusercontent.com/42224627/147407421-72f78adf-b545-4754-a5ef-90d867c8074c.png)
+![image](https://user-images.githubusercontent.com/42224627/147407424-7b89f7b0-962b-41e9-8638-90a62b4d8ea4.png)
+![image](https://user-images.githubusercontent.com/42224627/147407431-59b44027-e027-4a14-a0b6-347f5489e3b4.png)
+![image](https://user-images.githubusercontent.com/42224627/147407434-208eba7f-9682-41fb-8618-3a7a7c0ab0c2.png)
 
 
 ### 6、专利法重点法条（第六章）审批程序
