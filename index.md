@@ -39,6 +39,8 @@
 ### [Agent](/ipr/agent.md)
 ### [Product](/ipr/product.md)
 ### [OA](/ipr/oa.md)
+### [FTO](/ipr/fto.md)
+### [](/ipr/2022.md)
 
 ## [企业知识产权策略](http://www.scienbizip.com/index.php?s=/sys/8.html)
 
