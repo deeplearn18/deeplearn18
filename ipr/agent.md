@@ -299,8 +299,61 @@ patent agent
 
 ### 6、专利法重点法条（第六章）审批程序
 
+![image](https://user-images.githubusercontent.com/42224627/147865014-ff9f5046-28bf-4bf6-a46f-025e645d9936.png)
+![image](https://user-images.githubusercontent.com/42224627/147865019-bc6bd67d-ca9d-4169-b8de-4b03d1e419d8.png)
+![image](https://user-images.githubusercontent.com/42224627/147865024-2f1bd392-c2cb-4333-acba-492a8f005392.png)
+![image](https://user-images.githubusercontent.com/42224627/147865044-9df4ba6f-1118-4c18-88ac-07b11c281ecc.png)
+![image](https://user-images.githubusercontent.com/42224627/147865057-e4343aec-c3d8-4d6b-968d-f4dc271fb93d.png)
+![image](https://user-images.githubusercontent.com/42224627/147865068-6556efaa-3665-4950-9317-77fa29032830.png)
+![image](https://user-images.githubusercontent.com/42224627/147865080-3b86afb0-1ed0-4fc3-a08b-91cda79e564a.png)
+![image](https://user-images.githubusercontent.com/42224627/147865086-737ccd3f-9b32-4fad-ae11-528c06897691.png)
+![image](https://user-images.githubusercontent.com/42224627/147865094-71012324-9058-4f0a-8fb6-ae3532595dcb.png)
+![image](https://user-images.githubusercontent.com/42224627/147865105-24089164-ac6f-4645-a522-7f6689c05e2e.png)
+
+![image](https://user-images.githubusercontent.com/42224627/147865119-544c5c3e-45de-4046-acd7-ecd5af481979.png)
+![image](https://user-images.githubusercontent.com/42224627/147865147-d1fa6915-306a-4e61-a4b5-5041c2e217fe.png)
+![image](https://user-images.githubusercontent.com/42224627/147865150-1751eb70-f599-4f80-acb9-601c16930867.png)
+![image](https://user-images.githubusercontent.com/42224627/147865164-0f193287-83e4-4a9f-9e9c-824ce7a65ad7.png)
+![image](https://user-images.githubusercontent.com/42224627/147865204-cc7e9ad9-2b5e-4335-be70-fa9a2fd7f1eb.png)
+![image](https://user-images.githubusercontent.com/42224627/147865202-0771e6d7-a87e-46fd-ab32-9595a7c47e18.png)
+![image](https://user-images.githubusercontent.com/42224627/147865210-00f94716-c11f-4e4f-a108-37bef37478c8.png)
+![image](https://user-images.githubusercontent.com/42224627/147865215-5ada88e8-0290-45bd-844a-3d4980dd3fe7.png)
+![image](https://user-images.githubusercontent.com/42224627/147865226-bce47f8d-dd2a-4acc-9da9-0f284cb54af3.png)
+![image](https://user-images.githubusercontent.com/42224627/147865232-79f927eb-fdd5-4855-8e62-e09d1542d4cc.png)
+![image](https://user-images.githubusercontent.com/42224627/147865286-5e7b8da7-bf1f-434f-bd0f-7d45c1e4e48d.png)
+![image](https://user-images.githubusercontent.com/42224627/147865292-90a4c2e0-aeb9-46f5-804e-281a9dfd63c2.png)
+![image](https://user-images.githubusercontent.com/42224627/147865287-bcd9690c-e579-4846-b7e9-37b5654b0924.png)
+![image](https://user-images.githubusercontent.com/42224627/147865290-1fd7a413-0b6d-4561-b3e8-1a1c3d427b38.png)
+![image](https://user-images.githubusercontent.com/42224627/147865299-7b72801f-6163-481f-913f-a4cbe314db5b.png)
+![image](https://user-images.githubusercontent.com/42224627/147865323-334f4704-170e-410b-88b9-e7137b3316a5.png)
+![image](https://user-images.githubusercontent.com/42224627/147865329-aa3c03fd-6dce-4a19-83aa-51bc246663c7.png)
+![image](https://user-images.githubusercontent.com/42224627/147865336-e1accd69-0f18-43fa-8fc8-557ef220530d.png)
+![image](https://user-images.githubusercontent.com/42224627/147865343-2f71de07-f938-4d12-ae87-e9ac13262e17.png)
+![image](https://user-images.githubusercontent.com/42224627/147865339-066db64f-fa81-47b3-a6dd-02e5d80b939f.png)
+
 
 ### 7、专利法重点法条（第七章）与审查授权有关的流程
+
+![image](https://user-images.githubusercontent.com/42224627/147865352-b97a3982-6aad-45d9-a896-4dc5bfafaa56.png)
+![image](https://user-images.githubusercontent.com/42224627/147865370-eb51a26e-f5a4-4173-9d7b-d1181645f0eb.png)
+![image](https://user-images.githubusercontent.com/42224627/147865387-70b023ea-9405-4b9c-b139-e69085a6cab3.png)
+![image](https://user-images.githubusercontent.com/42224627/147865400-96d60444-6fc1-4c57-b2e4-4a6a81ad3cd2.png)
+![image](https://user-images.githubusercontent.com/42224627/147865405-be710595-22b7-481c-9fad-487dffec8ae8.png)
+![image](https://user-images.githubusercontent.com/42224627/147865408-b8d05d48-3b14-4265-a625-620026b87e1c.png)
+![image](https://user-images.githubusercontent.com/42224627/147865420-ea9a4566-555b-4798-8393-7e380035a5f7.png)
+![image](https://user-images.githubusercontent.com/42224627/147865429-1d6455ad-a589-4eb8-b1ca-bfdfc3ab910d.png)
+![image](https://user-images.githubusercontent.com/42224627/147865444-aa746196-08da-4ebc-9949-c9934ab4818c.png)
+![image](https://user-images.githubusercontent.com/42224627/147865457-0c14679d-8b20-46f7-bca8-9acf42c8b58a.png)
+![image](https://user-images.githubusercontent.com/42224627/147865463-56ae6e56-98fe-4e43-83e3-d00051be32bc.png)
+![image](https://user-images.githubusercontent.com/42224627/147865472-718f1720-fb33-43e0-be6a-d78e4feb340e.png)
+![image](https://user-images.githubusercontent.com/42224627/147865497-d2e444a0-84f2-4615-8180-f4986c1d16c9.png)
+![image](https://user-images.githubusercontent.com/42224627/147865517-e5c6fc2c-3b50-4763-a9a6-5b0f8f3b695b.png)
+![image](https://user-images.githubusercontent.com/42224627/147865527-a5847667-9af8-4023-8ac8-7f12e5cd36ce.png)
+![image](https://user-images.githubusercontent.com/42224627/147865541-172940b5-7acb-41e2-a97d-5245d3f6e560.png)
+![image](https://user-images.githubusercontent.com/42224627/147865570-fe551563-bef6-4300-aaba-df7ef325fa06.png)
+![image](https://user-images.githubusercontent.com/42224627/147865589-529e8d86-13c8-4382-a7f4-67c15e47f7d1.png)
+![image](https://user-images.githubusercontent.com/42224627/147865594-0475ac99-b712-4b8f-ad8e-c6d78bbb7e22.png)
+![image](https://user-images.githubusercontent.com/42224627/147865596-c8828c31-92d3-4b2e-a12e-db45fc3c799a.png)
 
 
 ### 8、专利法重点法条（第八章）专利申请中的手续事宜
