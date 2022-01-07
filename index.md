@@ -21,8 +21,6 @@
 
 ## 法律法规
 
-### [错题](/ipr/exam.md)
-
 ### [专利](/ipr/patent.md)
 ### [商标](/ipr/trademark.md)
 ### [版权](/ipr/copyright.md)
@@ -38,11 +36,12 @@
 ### [隐私](/ipr/privacy.md)
 ### [PCT](/ipr/pct.md)
 ### [Oversea](/ipr/oversea.md)
-### [Agent](/ipr/agent.md)
 ### [Product](/ipr/product.md)
 ### [OA](/ipr/oa.md)
 ### [FTO](/ipr/fto.md)
 ### [2022](/ipr/2022.md)
+### [Agent](/ipr/agent.md)
+### [错题](/ipr/exam.md)
 
 ## [企业知识产权策略](http://www.scienbizip.com/index.php?s=/sys/8.html)
 
@@ -101,6 +100,7 @@
 9. [通信知识分类整理](https://mp.weixin.qq.com/s/yQ_lqvIR-Gqx9RgB0OOCKQ)
 10. [百科君的IP杂谈 微信号: IP-BlaBla](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzUxNzAyNjcxNQ==&scene=124#wechat_redirect)
 11. [最高人民法院知识产权法庭](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzUzNjk5MDczOQ==&scene=124#wechat_redirect)
+12. [知产力](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MjM5NzU5ODEzNw==&scene=124#wechat_redirect)
 
 
 ### 网站
