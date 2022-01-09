@@ -890,6 +890,19 @@ Google做为安卓的推动者，其实开发了两块代码：第一块代码�
 ![](https://cdn.beekka.com/blogimg/asset/202110/bg2021101304.jpg)
 这篇文章列出了常用的免费图片网站，可以获取各种能够自由使用的照片和插图。
 
+### [eja.tv](https://eja.tv/)
+
+![image](https://user-images.githubusercontent.com/42224627/148666567-045c8597-626a-4496-bcec-5b9535c080d2.png)
+
+
+该网站收集全世界可以网上免费观看的电视频道，目前一共收集了4029个频道，提供地区和语言分类。
+
+### [黑客杂志《PoC || GTFO》](https://evmn.github.io/post/2021-12-31-PoC-or-GTFO.html)
+
+![image](https://user-images.githubusercontent.com/42224627/148666574-c82bf129-48b3-4a5f-ba10-367a9658255b.png)
+
+这本在线刊物收集了世界众多黑客在逆向分析、渗透测试、生活感悟等方面的文章，再由编辑润色排版，图文并茂。国内网友特别制作了电子书，提供下载。
+
 ## 参考
 
 1. [著作权侵权抗辩全面总结](https://mp.weixin.qq.com/s/2Z_yyH9Aa5GKLQjVXGasFQ)
