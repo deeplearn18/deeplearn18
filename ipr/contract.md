@@ -1839,5 +1839,6 @@ IT之家了解到，该案系北京法院首例认定比特币“挖矿”合同
 1. [浅析合同知识产权条款的设计与审查](https://mp.weixin.qq.com/s/EOjSplZJAf1viAYxU3ZwLA)
 2. [民法典时代：你不可不知的法律常识](https://www.dedao.cn/reader?id=A1De6QkaNRMlK5yxrdmnEBXY97ZL23nBqN3o6zvGDekj1QgA84VbpqJOPLgxEJlY)
 3. [得到法律系列](https://www.dedao.cn/category/%E6%B3%95%E5%BE%8B/eyJwcm9kdWN0VHlwZSI6IjAiLCJuYXZpZ2F0aW9uIjoiODlKWVg0YWpMclllOXhxbHZCQThqbTV5TzE2Vno0UU40N3dnYmQyWFphTktSM1duRTA3Sk1rREdvV3oydnJLRCIsInN1Yk5hdmlnYXRpb24iOiJCVmVZeEp6bkcwMXpqQlhEeGFyWmQ0bU5KTDczZ3dncXExUThLcVJ2azJNV0FPWTlvRXk2VmI1ZWxsakFFUm1OIn0=)
+4. [江平：中国民法典的三个创新｜前沿](https://mp.weixin.qq.com/s/FcC2qGjpZ_7dhzgf-5mN_g)
 
 [返回主页](/)
