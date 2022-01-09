@@ -5,12 +5,18 @@
 
 1、时间充足，不必着急和求快
 2、难点及不定点，先标识跳过
-3、注意：选对的还是选错的、允许还是不允许、全面覆盖、删除式修改
+3、注意：正确/错误、允许/不允许、全面覆盖、删除式修改、可以/最晚可以、属于/不属于、能/不能
 4、相信法律的感觉及前期的准备
 5、考试是为了更好地促进学习及运用
 
 ![image](https://user-images.githubusercontent.com/42224627/148513695-e0e75953-d234-4c38-a4d0-f3193b14b52a.png)
 > 温故而知新。
+
+## 博文之最后一公里
+
+1.8-1.10 专利法最后一公里
+1.11-1.13 相关法最后一公里
+
 
 ## 思博
 
@@ -36,6 +42,26 @@
 ![image](https://user-images.githubusercontent.com/42224627/148513921-1b838af8-94fd-416d-8b9d-0317507f189b.png)
 ![image](https://user-images.githubusercontent.com/42224627/148513928-a627ab0e-65a6-4351-9804-888d27a5ea22.png)
 ![image](https://user-images.githubusercontent.com/42224627/148513937-d32e0b98-c87a-49ac-b797-1e42bf3880c1.png)
+
+### 1.8日 每日
+
+
+
+### 1.9日 每日
+
+![image](https://user-images.githubusercontent.com/42224627/148666359-ba30c4a1-dc24-4478-be86-a175f96945ec.png)
+![image](https://user-images.githubusercontent.com/42224627/148666362-c332f842-4728-4ae2-a832-e7ec04de1a34.png)
+![image](https://user-images.githubusercontent.com/42224627/148666363-c55549ae-ed60-4b43-8ece-da2ad1b531bd.png)
+![image](https://user-images.githubusercontent.com/42224627/148666369-69bfe855-f986-484f-9f86-d7ccbb920097.png)
+![image](https://user-images.githubusercontent.com/42224627/148666370-bede19d5-647c-47de-a53a-b8df1a8b6719.png)
+![image](https://user-images.githubusercontent.com/42224627/148666371-f60e0bbf-1b2d-4cff-a0e3-815ad4121adc.png)
+![image](https://user-images.githubusercontent.com/42224627/148666373-755eff83-42d0-455b-9683-418dc2bb4366.png)
+![image](https://user-images.githubusercontent.com/42224627/148666376-5dedd01f-fbd5-4065-8b34-ab7d1cb2ee85.png)
+![image](https://user-images.githubusercontent.com/42224627/148666377-55a7f1f7-32ed-487c-a40d-511e5f4f8f4c.png)
+![image](https://user-images.githubusercontent.com/42224627/148666378-e2089a24-5c43-4f68-a4a1-dff848da90d8.png)
+![image](https://user-images.githubusercontent.com/42224627/148666382-6a1c2f8d-9116-422f-a5f0-b1a5b6c24cf0.png)
+![image](https://user-images.githubusercontent.com/42224627/148666383-9f1d1081-5f75-41b6-91e7-09b7b589241b.png)
+
 
 ### 全集
 
