@@ -897,5 +897,6 @@ Google做为安卓的推动者，其实开发了两块代码：第一块代码�
 3. [《安全的软件供应链》](https://sysdig.com/blog/software-supply-chain-security/)
 4. [一加 9 Pro 代码开源偷懒，热门第三方内核 Omega 宣布停更](https://www.ithome.com/0/592/410.htm)
 5. [中华古籍资源库](http://www.nlc.cn/pcab/zy/zhgj_zyk/)
+6. [发行游戏的权利是否为“发行权”？](https://mp.weixin.qq.com/s/U6oOj7pRwe3DOAQOdKllyQ)
 
 [返回主页](/)
