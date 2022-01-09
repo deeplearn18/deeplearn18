@@ -15,3 +15,10 @@
 ![mmexport1641106222956](https://user-images.githubusercontent.com/42224627/147868553-69d24867-7ef2-4bd5-a554-fc716b11f687.jpg)
 ![mmexport1641106225998](https://user-images.githubusercontent.com/42224627/147868554-7fbdbd94-4a4d-4357-a21a-c6b96ae3d9b8.jpg)
 ![mmexport1641106229289](https://user-images.githubusercontent.com/42224627/147868555-0f65ac32-e2b5-4be3-8a90-78b4662b8e16.jpg)
+
+
+## 参考
+
+1. [技术自由实施尽职调查及专利侵权风险评估报告工作模板](https://mp.weixin.qq.com/s/1rlzND1TZoerBNQBfLKYwg)
+
+[返回主页](/)
