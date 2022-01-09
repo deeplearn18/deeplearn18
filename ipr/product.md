@@ -1429,5 +1429,6 @@ IPC分类号:F04B39/00F04B35/04F04B39/06F04C23/00F04C29/02H02K5/12H02K7/14
 
 1. [企业如何打造杀手专利·概念及案例](https://www.jianshu.com/p/a7ea33e79ce9)
 2. [刘作虎公布 OPPO Find N 折叠屏手机正面照：研发了 125 个专利技术，只为消除折痕](https://www.ithome.com/0/591/629.htm)
+3. [自拍杆专利的兄弟之伸缩杆实用新型专利，全部无效](https://mp.weixin.qq.com/s/5nLav2ZcMt3hbMlKm6VkEw)
 
 [返回主页](/)
