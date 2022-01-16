@@ -6,6 +6,489 @@
 
 ## 法律法规
 
+### [美国科技政策No.1智库：绘制国际5G全景图及对美国战略和政策的影响](https://mp.weixin.qq.com/s/kql_MvgA8kIytkP9OAyr4A)
+
+编译/解读：黄莺
+作者：Alexandra Bruer；Doug Brake
+原题目：Mapping the International 5G Standards Landscape and How It Impacts U.S. Strategy and Policy
+公布时间：2021.11.08
+来源：ITIF
+
+“5G技术标准制定机构似乎运作良好，但美国政策制定者有理由对中国在该体系持谨慎态度。他们应该保持警惕，为美国公司的参与提供财政支持。”
+
+编者：信息技术与创新基金会（Information Technology and Innovation Foundation，简称ITIF）是美国在科技创新政策领域非常知名的智库，是科技创新政策的保守派，对中国的科技创新政策持批评态度。这与之前文章介绍的美国另一知名智库哈德逊研究所同属保守派相似。
+
+在宾夕法尼亚大学今年初最新发布的《全球智库报告2020》中，ITIF在2020年科技政策方面位列全球第四，美国第一，并是2017-2019年表现最好的科技政策智库。
+
+正是由于ITIF在科技创新政策方面的影响力，其观点往往代表了美国今后科技政策的方向。因此及时了解ITIF相关观点，尤其是在本文所探讨的美国5G政策上，为更好地与中国竞争，美国政府所应该采取的战略和政策，掌握其对中国科技政策的立场，对中国及时作出应对和预防潜未来潜在风险，十分必要。
+
+纵观全文，作者重点提出了标准对美国的重要性，以及在5G标准争夺中，中国通过标准组织获得了更大的话语权，呼吁美国政府对美国企业参与标准组织给予更多的财政支持，使得美国在标准制定中能够继续引领世界。
+
+作为保守派的观点，本文不忘对中国在标准制定中的指责和无端猜测，包括认为为标准投票时的协调，其中还特意提到了联想对高通和华为投票事件，而且还认为中国企业在这一过程中受到了政府的资助。批评完中国的做法后，本文提出了美国政府应当对参与标准制定的企业人员提供每人每年30万美元的补贴，以支持美国企业更加积极的参与标准制定。前后对比就可以发现，美国这是又犯了“你不可以，我可以”的双标“老毛病”。
+
+本文力争以原汁原味的方式还原ITIF对5G方面的美国应采取的战略和政策，仅对涉及有关中国的偏激描述做了删减和调整。以下是报告全文。
+
+主要观点
+
+美国和美国无线行业的公司长期受益于全球标准，这些标准源自公平的、行业主导的、奖励最佳技术的过程。
+在这一传统中，5G规范开发背后的主要力量3GPP在设计时考虑到了透明度、一致性和公平性。分析和事实都表明其治理机制总体上运行良好。
+为了保护标准制定机构的完整性，美国决策者和盟友应该分析其治理模式，非正式观察审议情况，并支持良好治理机制。
+美国政府应确保美国公司参与国际标准机构不设任何障碍。
+国会应该改变研究和实验税收抵免，允许公司在全球标准制定活动上的支出。
+明确的政府协调或确定战略标准优先事项有可能锁定次优标准，加速不公平策略，并使本应是全球性的标准分崩离析。
+
+目录
+
+摘要
+导言
+为什么标准很重要
+如何创建标准
+评估标准相关的参数
+中国的其他影响机会
+国家战略
+对美国政府的政策建议
+结语
+尾注
+
+为什么标准很重要
+
+标准在电信的未来发挥着至关重要的作用，从硬件基础设施到运行在组件之上的软件。重要的是，国际公认的标准允许互操作性。标准有助于确保一系列设备和设备在共享系统中运行，而不是只有某些设备在美国工作的封闭系统，欧洲等其他地区需要不同的设备，或者设备只能与同一制造商的组件和软件进行交互和通信。与全球标准截然相反的是国家标准，导致了一些人所称的“加拉帕戈斯岛综合症”(Galapagos Island Syndrome)，这个词解释了日本选择日本的唯一技术标准如何导致日本的创新，但最终却给这个曾经是日本最具活力的行业带来了重大损害。3
+
+相反，全球互操作性使公司能够在全球各地推销其产品，这反过来又意味着更大的规模经济、较低的技术开发和生产成本、降低客户的定价和增加创新。如果没有共同标准，这些正外部性就会减少，导致创新速度放缓和价格上涨。无线通信行业在某种程度上是独一无二的，因为互操作性是一个成功的系统的先决条件--整个网络中各种各样的组件必须能够协同工作以提供完整的服务，特别是现在不同公司的专业化。
+
+前几代无线技术面临着并行和竞争的标准。例如，随着2G和3G的发展，美国和欧洲之间出现了分裂，因为CDMA网络（由高通公司开发的码分多址）部署在美国，而欧洲则需要使用GSM网络（爱立信开发的全球移动通信系统）来帮助自己的生产商。4在此期间，中国还推出了自己的3G标准TD-SCDMA（时分同步码分多址），使无线市场的全球化进一步复杂化。5
+
+5G创新的领导者（以及在那之后的6G）将帮助决定无线连接的未来，包括物联网和自动驾驶。电信供应商正在不断创新、加强和升级其现有网络，以支持下一代技术。创新与标准制定相结合，有助于确保全球市场的互操作性。
+
+随着全球化和5G的发展，标准主要趋向于推广一套标准。虽然融合有助于解决与双向电信市场相关的风险，但它产生了一系列新的交叉担忧，主要是直接的安全风险（如果美国的主要地缘政治对手之一控制全球信息设备）和长期经济安全风险（5G作为一系列新兴技术的连接组织，这些技术将日益成为生产率和经济增长的核心）。标准是中美地缘政治大得多的竞争中的一个关键接触点。
+
+如何创建标准
+
+标准是跨一系列机构制定的，从地方一级到国际舞台都有。对电信有影响的标准的主要国际和区域机构包括以下组织：
+
+国际：
+
+国际电信联盟(国际电联)9 10
+国际标准组织(ISO)11
+国际电工委员会12
+
+区域/国家：
+
+欧洲电信标准协会(ETSI)-总部设在法国13
+电信行业解决方案联盟（ATIS）-总部设在美国14
+中国通信标准协会(CCSA)总部设在中国15
+美国国家标准协会(ANSI)-总部设在美国16
+中国标准化管理局(SAC)总部设在中国17
+
+本文主要研究国际电联和3GPP。它没有探讨在国家或区域一级（例如在中国、美国或欧洲联盟内）开展的标准制定活动-ISO、IEC或标准制定活动，所有这些都影响到更广泛的电信标准制定辩论。但是，提供了选定区域机构的简要报道，以提供背景情况。
+
+国际电联和3GPP之间的关系是一种协作和支持的关系，3GPP在无线规范的设计中承担了大部分的重担。这两个小组共享一个共同的成员基础，并通过一个连续的反馈回路相互影响。例如，国际电联代表可以参加3GPP的总体协调机构。18
+
+在主要的国际电信标准制定组织（国际电联和3GPP）内，设立了多个委员会，重点关注不同的技术方面。(见图1.19)
+
+
+
+国际电联和3GPP之间的关系是一种协作和支持的关系，3GPP在无线规范的设计中承担了大部分的重担。这两个小组共享一个共同的成员基础，并通过一个连续的反馈回路相互影响。例如，国际电联代表可以参加3GPP的总体协调机构
+
+国际电联是一个专门关注信息和通信技术的联合国机构。22国际电联的工作分为三个主要部门：无线电通信(R)、标准化(T)和发展(D)。23ITU-R和ITU-T都有助于制定影响无线技术的建议。在每个部门内，有几个研究小组侧重于具体问题，例如ITU-T下的第17研究组(SG 17)，重点是安全问题。24
+
+来自美国(蓝色标记)和中国(橙色标记)的代表(来自公共和私营部门)在国际电联和3GPP中都发挥着重要的领导作用(见图125）另外，为美国母公司工作或是美国国民的个人和为中国母公司工作或为中国公民工作的个人，是ITU和3GPP的主要分组。
+
+“根据协商一致的方法，在各自的工作组中制定和完善贡献。”
+
+每个组织都有自己的成员，包括公营和私营部门的混合成员。每个组织都有自己的程序来确定标准和运作规则。例如，3GPP要求成员不得错过连续两次以上的会议，以保持投票状态。2627在3GPP中，个人成员只需满足出席要求就可以保留其表决权。28根据协商一致的方法，在各自的工作组中制定和完善贡献。很少有正式的技术投票。29
+
+个人成员必须与组织伙伴(ETSI、ATIS、CCSA、ARIB、TSDSI、TTA或TTC)有关联，才能加入3GPP。30每个组织伙伴都与一个区域保持一致，尽管其成员可能有与其他区域相一致的上级组织（例如，华为作为ETSI和CCSA的成员参加了3GPP）。31 领导能力（主席和副主席职位）是通过选举过程确定的，而且存在着避免任何一家公司或组织合作伙伴产生过大影响的限制，除非没有足够的提名来填补现有的职位。3233
+
+建议批准也有不同的轨道。在ITU-T中，存在替代审批流程(AAP)和传统审批流程(TAP)，前者速度更快、更非正式、使用更频繁。34使用AAP轨道，如果在指定的评论期内没有成员提供额外的投入，则建议被视为已被批准。35研究小组的领导是以协商一致的方式确定的，并考虑到区域因素。3637
+
+标准评估的相关参数
+
+确定一个国家或公司在标准演进过程中的作用规模通常基于专利和版税、领导作用以及提交和批准的贡献数量。一些人声称，这些指标表明，中国参与者在这一过程中的影响力正在扩大。从数字角度考察3GPP，这些指标似乎没有立即引起关注，应该提醒决策者不要反应过度。
+
+专利和特许权使用费
+
+很难从专利数据中分辨出谁是开发5G规格的领导者。简单地计算专利数量并不特别有帮助，因为并非所有的专利都具有同样的重要性。关键专利，被称为“标准必要”专利(或SEP)，包括对标准操作所必需的关键组成部分；然而，确定一家公司有多少SEP取决于分析师的方法。39来自不同公司的数据显示，华为、三星、高通、爱立信和诺基亚是SEP的领头羊。4041
+
+在多项研究中，至少存在一种一致性：中国公司的5G专利主要是“5G专利”，专注于5G的独立版本。其他领先的专利供应商似乎更加关注独立的5G创新和建立在现有4G网络基础之上的专利。4243相比之下，爱立信有69%的专利家族被列为5G专利。根据GreyB的2020年数据，华为和爱立信5G专利家族的比例有所下降，尽管华为仍保持83%的专利家族仅为5G专利。44
+
+尽管一些研究表明，华为在5G专利市场占据主导地位，但分析人士却把专利数量的真实性作为成功的标志。45他们声称，中国企业只是提交尽可能多的专利，并不是为了积极寻求所有专利的批准，而是为了提高中国在5G领域的领先地位，以便在标准机构获得更多支持。46这种活动不太可能影响主要电信运营商或供应链供应商在标准制定机构中的行为。但它可能会影响较小和较新进入市场的公司的行为，假设这类公司在它们派代表的委员会中缺乏深刻的专业知识。
+
+特许使用费的领导者也同样不透明，尽管它很可能是高通。据2017年的报告显示，高通每部手机可收回高达16.25美元，而爱立信可能会收回5.00美元。47相比之下，截至2021年，华为预计每部手机的版税为2.50美元。48然而，这些费率只适用于手机，也不考虑其他技术，通过这些技术，公司可以获得特许权使用费收入。由于不同年份的不同数据点，以及不同的专利许可策略，很难清楚地衡量专利使用费排名。
+
+专利和版税提供了一个强有力的迹象，说明哪些公司在无线技术方面处于领先地位。投资于长期研究和开发下一代无线技术突破的公司有理由获得更高的版税。但在数据在一系列报告中表现出更清晰和更一致之前，它仍然是衡量影响力的一个不完善的指标。
+
+国际电信联盟
+
+国际电联由参与全球电信进程的成员和联系人员组成。国际电联有20,000多名专业人员参加，包括来自私营部门、公共部门和学术界的专业人员。49只有会员才能获得充分的访问和福利，而员工可以进入一个选定的学习小组，并且只能参与这个过程直到决策部分。5051图2).5253然而，仅在衡量部门成员数量时，总体差距就缩小了(见图3).54
+
+为了本文的目的，领导力是以学习小组主席或副主席职位的数量以及工作党组主席职位的数量来衡量的。然而，由于研究小组需要普遍同意才能批准建议(或至少在利用AAP进程时没有表明反对意见)，因此不应孤立地看待领导作用。57领导应与学习小组的全体成员一起考虑，其中包括无法正式担任领导职务的同事。58
+
+反映具体参与每个研究组的员工人数，以及在每个研究小组中拥有“成员资格”的部门成员总数（见图5，并参考图6每个研究组的正式名称）6061，在评估了每个研究组的领导职位和一般成员的数量之后，并了解到标准是在成员普遍同意的情况下商定的，看来中国在ITU-T内部没有产生直接和巨大的影响。
+
+值得注意的是，国际电信联盟的焦点小组IMT-2020帮助为国际电联专注于5G的发展奠定了基础，并指导了ITU-T未来的5G活动。该小组由华为代表领导，另有一位来自中国移动的副主席，而没有一家美国公司的代表。64然而，这一群体已不再活跃(2015年至2016年为活跃状态)。65相比之下，AT&T担任ITU-R工作组5D的主席，该工作组领导5G频谱工作，没有中国公司的领导。66
+另外，几个关键的3GPP标准机构不是ITU的正式组成部分，即CCSA。相比之下，3GPP的北美伙伴ATIS和3 GPP的欧洲伙伴ETSI都是国际电联的区域/国际组织。6768
+第三代伙伴关系项目
+在某些情况下，子公司可能与不同的组织伙伴与其母公司结盟。3GPP的组织伙伴包括：
+欧洲电信标准协会(ETSI)
+电信行业解决方案联盟(ATIS)
+中国通信标准协会
+无线电工业和商业协会(ARIB)-总部设在日本71
+电信技术委员会(TTC)-总部设在日本72
+电信技术协会(TTA)-总部设在韩国73
+印度电信标准发展协会(TSDSI)-总部设在印度74
+
+3GPP遵循其PCG的区域轮换，为3GPP提供全面管理。76图7在过去六年中，ETSI、ATIS和CCSA各担任了两届主席。7778
+然而，这可能会使人产生误解。如前所述，公司子公司可在其母公司的不同区域标准组织注册。这可以从图8，其中两种不同的测量方法显示每个区域的主席和副主席的数量。如果将子公司视为母公司区域标准组织的一部分(假设该子公司并非真正的“独立”)，那么ETSI的副主席就更少了。情况往往如此，因为许多总部设在欧洲以外的公司在欧洲设有子公司(例如，英国苹果(Apple)和OPPO)。79然而，即使根据母公司的所在地计算领导职位(这意味着任何与ETSI或ATIS有关联的中国子公司将被视为中国标准组织的领导者)，中国似乎也没有太大的影响力，尤其是如果ATIS和ETSI在其战略目标和地区/国家价值观上被视为志同道合的话。
+
+另一个可用于评估的指标是在整个TSG(RAN、SA或CT)中担任的领导职位的数量，包括其工作组的数量。由于每个工作组只有一位主席和两位副主席(TSG本身允许有三位副主席)，因此可以观察到领导能力的自然波动。(注：ARIB、TTA和TTC在图中未描述的SA工作组中担任领导职务。)
+在……里面图9, 图10，和图11在3GPP组织伙伴之后的“+”表示，为了本论文的目的，归母公司主要组织伙伴的领导角色(例如，Apple(UK)将被视为ATIS的领导角色，而不是ETSI的领导角色，而ETSI是正式注册的，而华为将被视为CCSA的领导角色，而不是ATIS的正式注册)。每个组织伙伴的附属成员都会观察到波动。在过去的几年里，中美两国公司的领导地位都出现了增长，尽管两国的领导地位在前几年也出现了萎缩。自2011年以来，CCSA+附属成员在SA附属集团中担任了11个主席职位和26个副主席职位，ATIS+附属成员则担任了5个主席职位和50个副主席职位。81
+
+诚然，根据会员人数，中国标准组织CCSA拥有比北美标准组织ATIS更多的个人成员，比北美标准组织ATIS拥有更多的个人成员，其比例为128比57。85然而，如前所述，区域标准组织并不总是与公司的原籍国相对应。例如，美国在ETSI下有40个个人成员，而中国只有10个。8687
+
+贡献
+根据2019年的IPLytics数据，华为以5G的贡献最多(19,473)，其次是爱立信(15,072)。89然而，爱立信的贡献得到了更高的批准率(34%对华为的30%)。90事实上，另外两家贡献比华为少的公司的批准率略高：高通(33%)和诺基亚(33%)。91
+其他数据显示，华为可能在3GPP的贡献中扮演了更重要的角色。2021年的IPLytics数据显示，华为是核定数5G贡献。92其次是爱立信、诺基亚、三星电子和高通。93在前五名贡献者中，只有三人进入电信设备市场份额前五名(华为、诺基亚和爱立信)。9495
+然而，由于贡献的协作性质，根据贡献数量来衡量影响可能会产生误导。即便如此，根据市场份额对这些指标进行调整，也表明华为和中国企业对标准的影响不一定超出了市场的要求。
+标准制定机构在一定程度上反映了它们相应的市场和创新领域的领导者。如果某一公司在某一特定产品(通信运营商、各种设备供应商等)的市场中占有很大份额，则需要在标准制定机构中发挥“领导作用”。这些公司将获得最大份额的研发资金，从而继续创新，使它们能够站在专利和标准的前列。
+对标准的短视关注--制定标准的机构错过了获得美国对无线标准发展的持续影响力的最佳机会：标准制定的成功--设定领导力反映了多年来的研发工作--今天的关键领导者花了十年甚至更多的时间进行创新。6G技术的发展已经开始，该技术将被纳入标准。当确定6G标准时，确保一个国家的公司或技术具有竞争力，需要关注今天正在发生的研究、开发和合作的水平。严格关注标准制定机构就像只关注马拉松的热身日，完全无视之前几个月所需的培训。
+
+“对标准制定机构的短视关注错过了获得美国对无线标准发展的持续影响力的最佳机会：标准制定领导力的成功体现了多年来的研究和发展。”
+
+
+美国电信设备供应商的长期收缩令人进一步担忧。尽管美国仍保留着一些关键设备供应商，尤其像是高通（Qualcomm）是标准制定过程中的主要推动者，但美国没有像中国华为（Huawei）这样广泛的竞争对手，而是依赖各种公司的拼凑。这种依赖使保持透明度和公平变得更加重要，以保护供应链的安全和灵活性。
+
+中国的其他影响机会
+除了提供的指标外，中国仍有机会通过直接和间接手段影响标准的制定。与技术经济竞争的大多数领域一样，中国以外的国家主要是基于“让最好的标准获胜”。美国-中国经济和安全审查委员会2020年度报告确定了中国可能如何影响标准制定过程的四大关键问题：投票协调、贡献奖励、影响贡献以最大限度地增加贡献数量，以及利用地缘政治影响力来增加支持中国努力的成员国数量。本部分分析了一带一路倡议的三个谅解备忘录、外部组织的存在、市场份额和竞争性投标。本文没有对这些风险进行深入的分析，但提供一个概述，以便为有关标准制定的更大讨论提供参考。
+一带一路倡议——谅解备忘录
+这一目标在中国的“定帆行动计划”中得到了表述，其中中国表示希望“向一带一路的国家或地区提供优质的产品和服务”。为国际合作创造新的平台“。99谅解备忘录本身并不是什么问题，因为中国政府为无线设备系统提供的巨额外资融资往往附带条件。100然而，如果它们发生在足够大的范围内，它们的影响有可能影响无线市场的方向。如果这种影响影响到东道国在ISO的投票记录或东道国电信相关公司的意见，从而影响到东道国在行业主导的标准机构中的决定，那么制定标准的组织促进最佳标准的目标就会受到损害。101
+这都是中国更广泛的国际标准努力的一部分。其最新的五年标准计划的译文如下：
+
+我们将积极推进与“一带一路”国家在标准领域的对接合作，加强金砖国家与亚太经合组织的标准化对话，深化东北亚、亚太、泛美、欧洲、非洲等地区的标准化合作，促进标准信息共享和服务，发展互利共赢的标准化伙伴关系。102
+外部或其他组织
+
+中国公司正在继续通过参与其他区域机构，如伊斯兰合作组织的计算机应急小组，来提升其在全球电信市场的领导地位。103104同样，华为还与联合国教科文组织的东非办事处合作，以提高该地区的数字技能。105这些类型的伙伴关系彼此独立，并不令人关切。然而，这种伙伴关系和协作可能会对全球市场和标准制定机构的未来产生影响，或损害统一全球标准的优势。106
+全球市场竞争
+中国引领5G市场的动力是不容置疑的。“中国将5G服务扩展视为国家战略重点。”107此前的报道表明，5G提供商希望能够迅速确保5G用户的安全，即使用户还没有5G手机。使某些电信设备供应商在全球市场上获得人为和不公平优势的活动，既不是通过全球竞争规范，也不是通过先进创新和真正有竞争力的定价获得的，这些活动导致市场操纵，进而可能影响总体创新。111
+
+
+国家战略
+中国经常被认为在其私营部门代表之间有着明确的协调战略。在一个这样的例子中，在前一次选举中投票支持高通领导的提案(LDPC码)的联想代表，将投票转向了华为主导的提案，以支持使用极化代码作为LDPC码的替代方案。112作为回应，联想创始人柳传志写道：“我们都同意，中国企业应该团结一致，不能被外国人玩弄（We all agree that Chinese companies should be united and cannot be played off one another by outsiders.）。”113
+这类反对投票令人极为关注。如果中国能够协调投票以实现政府想要的结果，无论哪种技术最好，中国企业都将获得更多的优势，这很可能进一步巩固设备供应链。盟国政府应认真对待这一关切，并监测潜在的滥用行为，并在被揭露时予以强调。然而，盟国政府不应回报这一策略，以免它鼓励进一步削减或阻碍标准进程。值得庆幸的是，至少在3GPP中，这些冲突似乎相对较少，极化码事件对华为的声誉造成了相当大的损害。决策者不应派遣更多的政府代表或详细协调美国的优先事项，而应注重促进良好的治理结构，以帮助确保标准机构之间的公平程序，并广泛支持标准前的研发和创新，以便美国企业能够在优点上展开竞争。
+中国还通过帮助资助无偿实习来促进参与国际组织。114115通过消除参与国际组织的障碍，及早投资于年轻专业人员的提升，可以促进中国人才库的增长，因为这种成本很容易阻止顶尖人才寻求或接受国际组织的实习机会，这可能会对他们的职业发展轨迹产生影响。116如今，支持年轻专业人士增加了中国未来拥有中后期专业人士领导标准制定机构的可能性。中国还补贴企业参与标准程序。117
+此外，中国的一项技术创新计划指出，它打算“积极参与制定主要的国际科技合作规则”。积极制定全球议程，促进中国在国际科技创新中的影响力。118在确保行业与标准接轨方面的作用是明确的。119这一意图还得到“鼓励中国企业、联盟和社会组织参与或领导制定国际标准”的愿望的进一步补充。以及中国标准的国际影响。“120其新的标准计划包括增加补贴和奖励标准参与的提议。121
+123此外，美国参议院最近通过了“美国创新和竞争法案”，该法进一步知道美国对国际标准机构的投资，特别是呼吁成立一个工作组，制定一项战略，阐明如何鼓励“促进美国在国际标准制定机构中的领导地位”。124
+
+
+对美国政府的政策建议
+美国政府应该采取一些措施来支持国际机构的美国标准程序。
+
+125展示国家对公平和基于共识的进程的承诺，将有助于为电信生态系统内的未来标准制定定下基调。一个有力的支持角色是适当的，以继续鼓励市场驱动的进程，同时也提高基于共识的决策的规范。
+
+
+“出口管制限制不适用于在国际标准制定活动中与实体上市的中国参与者互动的美国参与者。这只会阻止美国公司因担心法律后果而参与标准组织。”
+
+美国政府应该为与标准制定相关的成本提供支持，或者允许鼓励参与的税收激励措施。126向每个标准制定的项目派遣代表可能会花费很大的代价，每年估计每个工程师大约300,000美元。127
+
+鼓励参与标准制定组织
+
+正如美国创新和竞争法案已经提出的那样，美国政府应该考虑向那些不能支付参展费用的公司提供赠款。128此外，国会应改变研究和实验税收抵免，允许企业在计算研究和实验总支出时，将其用于全球标准制定活动的支出包括在内。129政府支持私营部门标准参与--无论是通过赠款还是通过税收奖励--的原因是显而易见的，因为参与制定标准的组织存在积极的外部因素，但这些因素不一定得到弥补。政府的支持是有理由的，以提高参与率，并抵消政府的其他激励，特别是中国的。
+
+此外，美国政府应确保在中国参与的地区和国际论坛上更加积极。而且，它需要公开支持目前由行业主导的、自愿的此类场所的标准进程。
+
+美国政府应该增加对国外电信的融资。例如，国际开发金融公司(International Development Financial Corporation)资助了埃塞俄比亚全球伙伴关系(Global Partner ship for 埃塞俄比亚)，击败了中国支持的投标，并展示了美国资金的积极注入，为“美国友好”技术的繁荣创造了机会。130这可以通过借鉴“跨大西洋电信安全法”来实现。131
+
+此外，美国政府还可以鼓励采用open-RAN。关于促进竞争的行政命令表明了对此的承诺，鼓励联邦通信委员会“支持继续发展和采用5G开放无线电接入网(ORAN)协议和软件”。132但是，不应将Open-Ran指定为一项要求。美国政府应鼓励最具竞争力的产品的自然演变，为价格、安全和创新提供最佳解决方案。133
+
+投资于未来
+
+如果政策制定者希望美国公司在标准制定机构中表现强劲，最好把注意力集中在创造技术规格化的技术和技术方面的所有困难工作上，而不是狭隘地只关注最终结果。美国应该作出全面的努力，鼓励和奖励对创新的投资。
+
+美国的政策制定者可以通过对研发的直接拨款来鼓励创新。事实上，“联邦研发的每一美元就能增加30美分的商业研发。”134135
+
+联邦政府也应该在大学、联邦实验室和工业联盟的无线研发上投资更多。例如，由NIST运营的NextG信道模型联盟是由一个致力于推进用于毫米波和亚毫米波频率的突破性测量、校准和信道建模方法和技术的国际研究联合会赞助的。此外，参议院的“美国创新和竞争法案”包括若干为无线创新提供资金的条款，包括为国家科学基金会在先进通信技术领域应用的新研究局提供的资金。136
+
+美国还必须投资于其未来的人才库。这包括支持在学生教育早期培养STEM人才，为进入大学及其他领域做好准备。如果没有一个补充的人才库，未来几代年轻专业人士将在电信相关行业或附属研究机构或政府机构中寻找职位，美国将难以保持无线创新的领先地位。
+
+
+结语
+
+对5G标准的贡献、领导地位和知识产权的审查并不意味着在开发下一代无线规范时有理由感到恐慌。当然，中国行动者的参与正在增加，但这一进程的结果似乎总体上是公平的，但值得注意的例外情况相对较少。
+
+投票协调破坏公平结果的可能性令人不安，政策制定者对此感到震惊是对的。然而，互惠的策略，例如成立一个委员会来协调美国制定标准的方法，或者大幅增加美国政府的代表人数，可能会适得其反。行业主导的标准机构在很大程度上建立在共识的基础上，行动迅速--注入更多的地缘政治压力，可能会减缓这些组织的步伐，或者有可能加速当今全球标准的平衡。
+
+
+
+尾注：
+
+1.Editor Zhu Ying, “The Central Committee of the Communist Party of China and the State Council issued the ‘National Standardization Development Program,’” Xinhua News Agency, October 10, 2021, http://www.gov.cn/zhengce/2021-10/10/content_5641727.htm.
+
+2.Laurens Cerulus and John Hendel, “Hologram wars: The race to 6G,” Politico, April 11, 2021, https://www.politico.eu/article/6g-race-eu-united-states-china/.
+
+3.Stephen Ezell and Robert D. Atkinson, “The Middle Kingdom Galapagos Island Syndrome: The Cul-De-Sac of Chinese Technology Standards” (ITIF, December 2014), https://itif.org/publications/2014/12/15/middle-kingdom-galapagos-island-syndrome-cul-de-sac-chinese-technology.
+
+4.Richard Bennett, “Sharing the Risk of Wireless Innovation” (ITIF, October 2009), https://itif.org/files/Wireless_Innovation.pdf.
+
+5.Naomi Wilson, “Testimony for: A ‘China Model?’ Beijing’s Promotion of Alternative Global Norms and Standards,” U.S.-China Economic and Security Review Commission, March 13, 2020, https://www.uscc.gov/sites/default/files/testimonies/March percent2013 percent20Hearing_Panel percent203_Naomi percent20Wilson percent20ITI.pdf.
+
+6.“2020 Report to Congress of the U.S.-China Economic and Security Review Commission,” U.S.-China Economic and Security Review Commission, December 2020, 105, https://www.uscc.gov/sites/default/files/2020-12/2020_Annual_Report_to_Congress.pdf.
+
+7.“Investigative report on the U.S. National Security Issues Posed by Chinese Telecommunications Companies Huawei and ZTE,” U.S. House of Representatives Permanent Select Committee on Intelligence, October 8, 2012, https://republicans-intelligence.house.gov/sites/intelligence.house.gov/files/documents/huawei-zte percent20investigative percent20report percent20(final).pdf.
+
+8.For a more in-depth explanation, see Murray Scot Tanner, “Beijing’s New National Intelligence Law: from Defense to Offense,” Lawfare, July 20, 2017, https://www.lawfareblog.com/beijings-new-national-intelligence-law-defense-offense.
+
+9.“ITU,” International Telecommunication Union, accessed July 27, 2021, https://www.itu.int/en/Pages/default.aspx.
+
+10.“3GPP,” 3rd Generation Partnership Project, accessed July 27, 2021, https://www.3gpp.org/.
+
+11.“ISO,” International Standards Organization, accessed July 27, 2021, https://www.iso.org/home.html.
+
+12.“International Electrotechnical Commission,” International Electrotechnical Commission, accessed July 27, 2021, https://www.iec.ch/homepage.
+
+13.“ETSI,” European Telecommunications Standards Institute, accessed July 27, 2021,https://www.etsi.org/.
+
+14.“ATIS,” Alliance for Telecommunications Industry Solutions, accessed July 27, 2021, https://www.atis.org/.
+
+15.“China Communications Standards Association,” China Communications Standards Association, accessed July 16, 2021, http://www.ccsa.org.cn/english/.
+
+16.“ANSI,” American National Standards Institute, accessed July 27, 2021, https://www.ansi.org/.
+
+17.“Standardization Administration of the P.R.C.,” Standardization Administration of the P.R.C., accessed July 16, 2021, http://www.sac.gov.cn/sacen/.
+
+18.For more detail, see Article 51 in “3GPP Working Procedures,” 3rd Generation Partnership Project, accessed July 30, 2021, https://www.3gpp.org/ftp/Information/Working_Procedures/3GPP_WP.htm#Article_51.
+
+19.“Specifications Group Home,” 3rd Generation Partnership Project, accessed July 23, 2021, https://www.3gpp.org/specifications-groups/specifications-groups; “3GPP Officials for group: 3GPP PCG (“PCG”),” 3rd Generation Partnership Project, accessed July 27, 2021, https://www.3gpp.org/DynaReport/TSG-WG—PCG—officials.htm; “3GPP Officials for group: 3GPP RAN (“RP”),” 3rd Generation Partnership Project, accessed July 27, 2021, https://www.3gpp.org/DynaReport/TSG-WG—RP—officials.htm?Itemid=268; “3GPP Officials for group: 3GPP CT (“CP”),” 3rd Generation Partnership Project, accessed July 27, 2021, https://www.3gpp.org/dynareport/TSG-WG—CP—officials.htm?Itemid=270; “3GPP Officials for group: 3GPP SA (“SA”),” 3rd Generation Partnership Project, accessed July 27, 2021,https://www.3gpp.org/dynareport/TSG-WG—SP—officials.htm?Itemid=473. 
+
+“What does ITU do?” International Telecommunication Union, accessed July 27, 2021, https://www.itu.int/en/about/Pages/whatwedo.aspx; “PRC Representation in International Organizations,” U.S.-China Economic and Security Review Commission, updated April 2020, https://www.uscc.gov/sites/default/files/2020-04/PRC_Representation_in_International_Organizations_April2020.pdf?fbclid=IwAR2GVPKmlqrAkzRX-eq8CkcYy4-xXLsi6Z8V3WDjLgKT-Iiavasy_O8ZeWQ; “Acting Chairwoman Rosenworcel Supports Candidacy of Doreen Bogdan-Martin for ITU Secretary General,” Federal Communications Commission, March 31, 2021, https://docs.fcc.gov/public/attachments/DOC-371238A1.pdf; “Mario Maniewicz: Candidate of Uruguay for the Post of Director of the ITU Radiocommunication Bureau 2019/2022,” International Telecommunication Union, accessed July 27, 2021, https://www.itu.int/web/pp-18/uploads/uruguay-br-brochure-e-s-f-a-c-r.pdf; “Dr. Chaesub Lee: Candidate for Director of ITU Telecommunication Standardization Bureau,” International Telecommunication Union, accessed July 27, 2021, https://www.itu.int/web/pp-18/uploads/korea-tsb-brochure-dr-chaesub-lee.pdf.
+
+20.“Specifications Group Home,” 3rd Generation Partnership Project, accessed July 23, 2021, https://www.3gpp.org/specifications-groups/specifications-groups.
+
+21.Ibid.
+
+22.“About Information Telecommunication Union (ITU),” ITU, accessed July 26, 2021, https://www.itu.int/en/about/Pages/default.aspx.
+
+23.“What does ITU do?” International Telecommunication Union, accessed July 27, 2021, https://www.itu.int/en/about/Pages/whatwedo.aspx.
+
+24.“SG17: Security,” International Telecommunication Union, accessed July 27, 2021, https://www.itu.int/en/ITU-T/studygroups/2017-2020/17/Pages/default.aspx.
+
+25.“3GPP Officials for group: 3GPP PCG (“PCG”),” 3rd Generation Partnership Project, accessed July 27, 2021, https://www.3gpp.org/DynaReport/TSG-WG—PCG—officials.htm.
+
+26.“3GPP Working Procedures,” 3rd Generation Partnership Project, accessed July 27, 2021, https://www.3gpp.org/ftp/Information/Working_Procedures/3GPP_WP.htm#Article_35; For an example of a voting roster, see “Voting list for TSG CT WG 1 meeting CT1#130-e,” 3rd Generation Partnership Project, April 23, 2021, https://www.3gpp.org/ftp/webExtensions/elections/CT/CT1/Election_May_2021/votingList_mtg-CT1-130-e.htm.
+
+27.Ibid.
+
+28.Ibid.
+
+29.By this count, only five technical votes in the last two years (with one being cancelled): “Elections and Technical Votes,” 3rd Generation Partnership Project, accessed July 27, 2021, https://www.3gpp.org/news-events/elections .
+
+30.“Partners,” 3rd Generation Partnership Project, accessed July 27, 2021, https://www.3gpp.org/about-3gpp/partners.
+
+31.“Membership,” 3rd Generation Partnership Project, accessed July 27, 2021,https://www.3gpp.org/about-3gpp/membership.
+
+32.For more detail, see “3GPP Working Procedures,” 3rd Generation Partnership Project, accessed July 27, 2021, https://www.3gpp.org/ftp/Information/Working_Procedures/3GPP_WP.htm#Article_22.
+
+33.“Categories,” International Telecommunication Union, accessed July 27, 2021, https://www.itu.int/en/ITU-T/membership/Pages/Rights.aspx.
+
+34.“Standards approval,” International Telecommunication Union, accessed July 27, 2021, https://www.itu.int/en/ITU-T/about/Pages/approval.aspx; For the list of recommendations approved through TAP, see “ITU-T Recommendations—Under Traditional Approval Process,” International Telecommunication Union, accessed July 27, 2021, https://www.itu.int/net/ITU-T/lists/t-approval.aspx.
+35.Ibid.
+
+36.“ITU study groups,” International Telecommunication Union, accessed July 27, 2021, https://www.itu.int/en/mediacentre/backgrounders/Pages/itu-study-groups.aspx.
+
+37.For example, see “The U.S. Needs to Get in the Standards Game-With Like-Minded Democracies,” Lawfare, April 2, 2020, https://www.lawfareblog.com/us-needs-get-standards-game percentE2 percent80 percent94-minded-democracies.
+
+38.For example, see Dr. Melanie Hart, “Testimony for ‘A China Model?’ Beijing’s Promotion of Alternative Global Norms and Standards,” U.S.-China Security and Economic Review Commission, March 13, 2020, https://www.uscc.gov/sites/default/files/testimonies/March percent2013 percent20Hearing_Melanie percent20Hart percent20Panel percent20II percent20Testimony_2020.3.12.pdf.
+
+39.For example, see Matthew Noble, Jane Mutimear, and Richard Vary, “Determining which companies are leading the 5G race,” IAM-Media, July/August 2019,https://www.twobirds.com/~/media/pdfs/news/articles/2019/determining-which-companies-are-leading-the-5g-race.pdf.
+
+40.“Who is leading the 5G patent race?” IPLytics, November 2019, https://www.iplytics.com/wp-content/uploads/2019/01/Who-Leads-the-5G-Patent-Race_2019.pdf; Muzammil Hassan, Aman Kumar, and Matt Luby, “Who Owns 5G Patents?” GreyB, accessed July 27, 2021, https://www.greyb.com/5g-patents/; Iain Morris, “Why 5G patent ranks are not to be trusted” LightReading, February 23, 2021, https://www.lightreading.com/5g/why-5g-patent-rankings-are-not-to-be-trusted/a/d-id/767580.
+
+41.For example, see Robert Stoll, “5G SEP Leadership in 2020,” October 12, 2020, available at https://ssrn.com/abstract=3710223; Matthew Noble, Jane Mutimear, and Richard Vary, “Determining which companies are leading the 5G race,” IAM-Media, July/August 2019, https://www.twobirds.com/~/media/pdfs/news/articles/2019/determining-which-companies-are-leading-the-5g-race.pdf.
+42.“Who is leading the 5G patent race?” IPLytics, November 2019, https://www.iplytics.com/wp-content/uploads/2019/01/Who-Leads-the-5G-Patent-Race_2019.pdf; Muzammil Hassan, Aman Kumar, and Matt Luby, “Who Owns 5G Patents
+
+43.“Who is leading the 5G patent race?” IPLytics.
+
+44.Muzammil Hassan, Aman Kumar, and Matt Luby, “Who Owns 5G Patents?”.
+
+45.Thomas Duesterberg, “The Multitier Battle Against Chinese 5G Dominance,” Forbes, July 1,2020, https://www.forbes.com/sites/thomasduesterberg/2020/07/01/the-multitier-battle-against-chinese-5g-dominance/.
+
+46.Ibid.
+
+47.Mike Dano, “Qualcomm to charge up to $16.25 in royalties for every 5G phone, more than Ericsson’s $5/phone,” FierceWireless, November 28, 2017, https://www.fiercewireless.com/5g/qualcomm-to-charge-up-to-16-25-royalties-for-every-5g-phone-more-than-ericsson-s-5-phone.
+
+48.Robert Clark, “Huawei issues 5G handset royalty rates,” LightReading, March 16, 2021, https://www.lightreading.com/asia/huawei-issues-5g-handset-royalty-rates/d/d-id/768106.
+
+49.“About Information Telecommunication Union (ITU),” Information Telecommunication Union, accessed July 26, 2021, https://www.itu.int/en/about/Pages/default.aspx.
+
+50.“Categories,” International Telecommunication Union, accessed July 27, 2021, https://www.itu.int/en/ITU-T/membership/Pages/Rights.aspx; “Sector Membership ITU-R,” International Telecommunication Union, accessed July 27, 201,https://www.itu.int/en/join/Pages/Join-ITU-R_new.aspx.
+
+51.John Xie, “China’s Long-term Plan to Shape the Future of Technology,” Voice of America, July 1, 2020, https://www.voanews.com/east-asia-pacific/chinas-long-term-plan-shape-future-technology.
+
+52.Data derived on August 5, 2021, from “China,” International Telecommunication Union, https://www.itu.int/en/myitu/Membership/ITU-Members/Member-States/Entities?eID=1000100502; “United States,” International Telecommunication Union, https://www.itu.int/en/myitu/Membership/ITU-Members/Member-States/Entities?eID=1000100445.
+
+53.However, this only accounts for the number of registered entities. This does not reflect the number of individuals within any one delegation. This also does not reflect which entities regularly show up to meetings and other ITU-related engagements. While measuring the specific number of individuals associated with each entity and their attendance record is beyond the scope of this paper, it is an area recommended for further research.
+
+54.“Categories,” International Telecommunication Union, accessed July 27, 2021, https://www.itu.int/en/ITU-T/membership/Pages/Rights.aspx.
+
+55.Data derived on August 5, 2021, from “China,” International Telecommunication Union, https://www.itu.int/en/myitu/Membership/ITU-Members/Member-States/Entities?eID=1000100502; “United States,” International Telecommunication Union, https://www.itu.int/en/myitu/Membership/ITU-Members/Member-States/Entities?eID=1000100445. Members and associates are categorized as ROA: Recognized Operating Agency; SIO: Scientific or Industrial Organization; OTHER ENTITY: other telecommunications-related entities; FDI: Financial or Development institutions; ADMIN or ADMIN RELATED: Administrations in charge of or related to telecommunications; MINISTRY: Ministry; REGINTORG: Regional International Organization; REGORG: Regional Organization (see “Participation,” International Telecommunication Union, accessed July 22, 2021, https://www.itu.int/en/ITU-D/Conferences/WTDC/WTDC14/Pages/item.aspx?ItemID=659; “ITU Global Directory,” International Telecommunication Union, accessed July 28, 2021, https://www.itu.int/GlobalDirectory/.).
+
+56.Data derived on August 5, 2021, from “China,” International Telecommunication Union, https://www.itu.int/en/myitu/Membership/ITU-Members/Member-States/Entities?eID=1000100502; “United States,” International Telecommunication Union, https://www.itu.int/en/myitu/Membership/ITU-Members/Member-States/Entities?eID=1000100445.
+
+57.“Standards approval,” International Telecommunication Union, accessed July 27, 2021, https://www.itu.int/en/ITU-T/about/Pages/approval.aspx.
+
+58.“Categories,” International Telecommunication Union, accessed July 27, 2021, https://www.itu.int/en/ITU-T/membership/Pages/Rights.aspx.
+
+59.Of note, in SG15, Corning is not listed with a country designation. Based on Corning’s listing in the ITU as a U.S. member, it has been counted as a U.S. leader. Data derived on July 13, 2021, from “China,” International Telecommunication Union, https://www.itu.int/en/myitu/Membership/ITU-Members/Member-States/Entities?eID=1000100502; “United States,” International Telecommunication Union, https://www.itu.int/en/myitu/Membership/ITU-Members/Member-States/Entities?eID=1000100445; “SG2—Management Team (Study Period 2017-2020),” International Telecommunication Union, https://www.itu.int/net4/ITU-T/lists/mgmt.aspx?Group=2&Period=16; “SG5—Management Team (Study Period 2017-2020),” International Telecommunication Union, https://www.itu.int/net4/ITU-T/lists/mgmt.aspx?Group=5; “SG9—Management Team (Study Period 2017-2020),” International Telecommunication Union, https://itu.int/net4/ITU-T/lists/mgmt.aspx?Group=9; “SG11—Management Team (Study Period 2017-2020),” International Telecommunication Union, https://www.itu.int/net4/ITU-T/lists/mgmt.aspx?Group=11; “SG12—Management Team (Study Period 2017-2020),” International Telecommunication Union, https://www.itu.int/net4/ITU-T/lists/mgmt.aspx?Group=12; “SG13—Management Team (Study Period 2017-2020),” International Telecommunication Union, https://www.itu.int/net4/ITU-T/lists/mgmt.aspx?Group=13; “SG15—Management Team (Study Period 2017-2020),” International Telecommunication Union,https://www.itu.int/net4/ITU-T/lists/mgmt.aspx?Group=15; “SG16—Management Team (Study Period 2017-2020),” International Telecommunication Union, https://www.itu.int/net4/ITU-T/lists/mgmt.aspx?Group=16; “SG17—Management Team (Study Period 2017-2020),” International Telecommunication Union, https://www.itu.int/net4/ITU-T/lists/mgmt.aspx?Group=17; “SG20—Management Team (Study Period 2017-2020),” International Telecommunication Union, https://www.itu.int/net4/ITU-T/lists/mgmt.aspx?Group=20.
+
+60.“Categories,” International Telecommunication Union, accessed July 27, 2021, https://www.itu.int/en/ITU-T/membership/Pages/Rights.aspxx; Of note, academic members have access to all study groups as well (but are not part of the official decision-making process).
+
+61.Ibid.
+
+62.Of note, academia is excluded from the “Sector Members” total. SG3 is not listed as there are no Chinese or U.S. associates for the study group. Data derived on August 5, 2021, from “China,” International Telecommunication Union, https://www.itu.int/en/myitu/Membership/ITU-Members/Member-States/Entities?eID=1000100502; “United States,” International Telecommunication Union, https://www.itu.int/en/myitu/Membership/ITU-Members/Member-States/Entities?eID=1000100445/.
+
+63.“ITU-T Study Groups (Study Period 2017-2020),” International Telecommunication Union, accessed July 13, 2021, https://www.itu.int/en/ITU-T/studygroups/2017-2020/Pages/default.aspx; data derived on July 13, 2021, from “SG2—Management Team (Study Period 2017-2020),” International Telecommunication Union, https://www.itu.int/net4/ITU-T/lists/mgmt.aspx?Group=2&Period=16; “SG5—Management Team (Study Period 2017-2020),” International Telecommunication Union,https://www.itu.int/net4/ITU-T/lists/mgmt.aspx?Group=5; “SG9—Management Team (Study Period 2017-2020),” International Telecommunication Union, https://itu.int/net4/ITU-T/lists/mgmt.aspx?Group=9; “SG11—Management Team (Study Period 2017-2020),” International Telecommunication Union, https://www.itu.int/net4/ITU-T/lists/mgmt.aspx?Group=11; “SG12—Management Team (Study Period 2017-2020),” International Telecommunication Union, https://www.itu.int/net4/ITU-T/lists/mgmt.aspx?Group=12; “SG13—Management Team (Study Period 2017-2020),” International Telecommunication Union, https://www.itu.int/net4/ITU-T/lists/mgmt.aspx?Group=13; “SG15—Management Team (Study Period 2017-2020),” International Telecommunication Union, https://www.itu.int/net4/ITU-T/lists/mgmt.aspx?Group=15; “SG16—Management Team (Study Period 2017-2020),” International Telecommunication Union, https://www.itu.int/net4/ITU-T/lists/mgmt.aspx?Group=16; “SG17—Management Team (Study Period 2017-2020),” International Telecommunication Union, https://www.itu.int/net4/ITU-T/lists/mgmt.aspx?Group=17; “SG20—Management Team (Study Period 2017-2020),” International Telecommunication Union,https://www.itu.int/net4/ITU-T/lists/mgmt.aspx?Group=20.
+
+64.“Focus Group on IMT-2020,” International Telecommunication Union, accessed July 27, 2021, https://www.itu.int/en/ITU-T/focusgroups/imt-2020/Pages/default.aspx.
+
+65.Ibid.
+
+66.“ITU-R SG 5 Working Party Chairmen and Vice-Chairmen,” International Telecommunication Union, https://www.itu.int/online/compass/cvc.v2.sh?lang=en&topic=WP&number=5&head_title= percent20ITU-R percent20SG percent205 percent20Working percent20Party percent20Chairmen percent20and percent20Vice-Chairmen; Sean Kinney, “What is IMT-2020 and what does it mean for 5G?”RCRWirelessNews, March 7, 2016, https://www.rcrwireless.com/20160307/policy/what-is-imt-2020-tag17-tag99.
+
+67.“List of Sector Members,” International Telecommunication Union, accessed July 27, 2021, https://www.itu.int/en/myitu/Membership/ITU-Members/Industry/Sector-Members.
+
+68.“Memorandum of Understanding,” International Telecommunication Union, accessed July 27, 2021, https://www.itu.int/dms_pub/itu-r/oth/0a/0e/R0A0E0000910001PDFE.pdf.
+
+69.“Membership,” 3rd Generation Partnership Project, accessed July 27, 2021, https://www.3gpp.org/about-3gpp/membership.
+
+70.“About 3GPP,” 3rd Generation Partnership Project, accessed July 27, 2021, https://www.3gpp.org/about-3gpp.
+
+71.“Association of Radio Industries and Businesses,” Association of Radio Industries and Businesses, accessed July 27, 2021, https://www.arib.or.jp/english/.
+
+72.“About TTC,” Telecommunication Technology Committee, accessed July 27, 2021, https://www.ttc.or.jp/e.
+
+73.“Telecommunications Technology Association,” Telecommunications Technology Association, accessed July 27, 2021, http://www.tta.or.kr/eng/.
+
+74.“India’s Telecom SDO,” Telecommunications Standards Development Society, India, accessed July 27, 2021, https://tsdsi.in/.
+
+75.Data derived July 13, 2021 from “3GPP history of Official for group: 3GPP PCG (“PCG”),” 3rd Generation Partnership Project, https://www.3gpp.org/DynaReport/TSG-WG—PCG—officialsHistory.htm.
+
+76.“3GPP working Procedures,” 3rd Generation Partnership Project, accessed July 27, 2021, https://www.3gpp.org/ftp/Information/Working_Procedures/3GPP_WP.htm#Article_16; “Project Coordination Group (PCG),” 3rd Generation Partnership Project, accessed July 27, 2021, https://www.3gpp.org/about-3gpp/project-coordination-group-pcg.
+
+77.Of note, there was no chair listed for 2013, see “3GPP history of Officials for group: 3GPP PCG (“PCG”),” 3rd Generation Partnership Project, accessed July 27, 2021, https://www.3gpp.org/DynaReport/TSG-WG—PCG—officialsHistory.htm
+
+78.Data derived June 14, 2021, from “3GPP history of Officials for group: 3GPP SA (“SP”),” 3rd Generation Partnership Project, https://www.3gpp.org/DynaReport/TSG-WG—SP—officialsHistory.htm; “3GPP history of Officials for group: 3GPP RAN (“RP”),” 3rd Generation Partnership Project, https://www.3gpp.org/DynaReport/TSG-WG—RP—officialsHistory.htm; “3GPP history of Officials for group: 3GPP RAN 1 (“R1”),” 3rd Generation Partnership Project, https://www.3gpp.org/DynaReport/TSG-WG—R1—officialsHistory.htm; “3GPP history of Officials for group: 3GPP RAN 2 (“R2”),” 3rd Generation Partnership Project, https://www.3gpp.org/DynaReport/TSG-WG—R2—officialsHistory.htm; “3GPP history of Officials for group: 3GPP RAN 3 (“R3”),” 3rd Generation Partnership Project,https://www.3gpp.org/DynaReport/TSG-WG—R3—officialsHistory.htm; “3GPP history of Officials for group: 3GPP RAN 4 (“R4”),” 3rd Generation Partnership Project, https://www.3gpp.org/DynaReport/TSG-WG—R4—officialsHistory.htm; “3GPP history of Officials for group: 3GPP RAN 5 (“R5”),” 3rd Generation Partnership Project, https://www.3gpp.org/DynaReport/TSG-WG—R5—officialsHistory.htm; data derived July 16, 2021, from “3GPP history of Officials for group: 3GPP SA 1 (“S1”),” 3rd Generation Partnership Project, https://www.3gpp.org/DynaReport/TSG-WG—S1—officialsHistory.htm; “3GPP history of Officials for group: 3GPP SA 3 (“S3”),” 3rd Generation Partnership Project, https://www.3gpp.org/DynaReport/TSG-WG—S3—officialsHistory.htm; “3GPP history of Officials for group: 3GPP SA 4 (“S4”),” 3rd Generation Partnership Project, https://www.3gpp.org/DynaReport/TSG-WG—S4—officialsHistory.htm; “3GPP history of Officials for group: 3GPP SA 5 (“S5”),” 3rd Generation Partnership Project, https://www.3gpp.org/DynaReport/TSG-WG—S5—officialsHistory.htm; “3GPP history of Officials for group: 3GPP SA 6 (“S6”),” 3rd Generation Partnership Project, https://www.3gpp.org/DynaReport/TSG-WG—S6—officialsHistory.htm; data derived July 17, 2021, from “3GPP history of Officials for group: 3GPP SA 2 (“S2”),” 3rd Generation Partnership Project, https://www.3gpp.org/DynaReport/TSG-WG—S2—officialsHistory.htm; data derived June 11, 2021, from “3GPP history of Officials for group: 3GPP CT (“CP”),” 3rd Generation Partnership Project, https://www.3gpp.org/DynaReport/TSG-WG—CP—officialsHistory.htm; “3GPP history of Officials for group: 3GPP CT 1 (“C1”),” 3rd Generation Partnership Project, https://www.3gpp.org/DynaReport/TSG-WG—C1—officialsHistory.htm; “3GPP history of Officials for group: 3GPP CT 3 (“C3”),” 3rd Generation Partnership Project,https://www.3gpp.org/DynaReport/TSG-WG—C3—officialsHistory.htm; “3GPP history of Officials for group: 3GPP CT 4 (“C4”),” 3rd Generation Partnership Project, https://www.3gpp.org/DynaReport/TSG-WG—C4—officialsHistory.htm; “3GPP history of Officials for group: 3GPP CT 6 (“C6”),” 3rd Generation Partnership Project, https://www.3gpp.org/DynaReport/TSG-WG—C6—officialsHistory.htm.
+
+79.“Membership,” 3rd Generation Partnership Project, accessed July 27, 2021, https://www.3gpp.org/about-3gpp/membership.
+
+80.Data derived June 14, 2021, from “3GPP history of Officials for group: 3GPP RAN 3 (“R3”),” 3rd Generation Partnership Project, https://www.3gpp.org/DynaReport/TSG-WG—R3—officialsHistory.htm.
+
+81.Ibid.
+
+82.Note: includes only those groups which are currently active. Data derived June 14, 2021, from “3GPP history of Officials for group: 3GPP SA (“SP”),” 3rd Generation Partnership Project, https://www.3gpp.org/DynaReport/TSG-WG—SP—officialsHistory.htm; data derived July 16, 2021, from “3GPP history of Officials for group: 3GPP SA 1 (“S1”),” 3rd Generation Partnership Project, https://www.3gpp.org/DynaReport/TSG-WG—S1—officialsHistory.htm; “3GPP history of Officials for group: 3GPP SA 3 (“S3”),” 3rd Generation Partnership Project, https://www.3gpp.org/DynaReport/TSG-WG—S3—officialsHistory.htm; “3GPP history of Officials for group: 3GPP SA 4 (“S4”),” 3rd Generation Partnership Project, https://www.3gpp.org/DynaReport/TSG-WG—S4—officialsHistory.htm; “3GPP history of Officials for group: 3GPP SA 5 (“S5”),” 3rd Generation Partnership Project, https://www.3gpp.org/DynaReport/TSG-WG—S5—officialsHistory.htm; “3GPP history of Officials for group: 3GPP SA 6 (“S6”),” 3rd Generation Partnership Project, https://www.3gpp.org/DynaReport/TSG-WG—S6—officialsHistory.htm; data derived July 17, 2021, from “3GPP history of Officials for group: 3GPP SA 2 (“S2”),” 3rd Generation Partnership Project, https://www.3gpp.org/DynaReport/TSG-WG—S2—officialsHistory.htm.
+
+83.Note: includes only those groups which are currently active. Ibid.
+
+84.Note: includes only those groups which are currently active. Ibid.
+
+85.“3GPP Membership,” European Telecommunications Standards Institute, accessed July 27, 2021, https://webapp.etsi.org/3gppmembership/QueryForm.asp.
+
+86.Ibid.
+
+87.“Membership,” 3rd Generation Partnership Project, accessed July 27, 2021, https://www.3gpp.org/about-3gpp/membership.
+
+88.Justus Baron, Kirti Gupta, and Brandon Roberts, “Unpacking 3GPP standards,” Northwestern University Pritzker School of Law, March 24, 2015, https://www.law.northwestern.edu/research-faculty/clbe/innovationeconomics/documents/Baron_Gupta_Unpacking_3gpp_Standards.pdf.
+
+89.“Who is leading the 5G patent race?” IPLytics, November 2019, https://www.iplytics.com/wp-content/uploads/2019/01/Who-Leads-the-5G-Patent-Race_2019.pdf.
+
+90.Ibid.
+
+91.Ibid.
+
+92.Ibid.
+
+93.Ibid.
+
+94.Martha DeGrasse, “Telecom equipment market posts best year in almost a decade: Dell’Oro,” FierceTelecom, March 12, 2021, https://www.fiercetelecom.com/telecom/telecom-equipment-market-posts-best-year-almost-a-decade#:~:text=Dell’Oro percent20said percent20the percent20top,share percent20of percent20less percent20than percent203 percent25.
+
+95.“Who is leading the 5G patent race?” IPLytics, February 2021, https://www.iplytics.com/wp-content/uploads/2021/02/Who-Leads-the-5G-Patent-Race_February-2021.pdf; Martha DeGrasse, “Telecom equipment market posts best year in almost a decade: Dell’Oro,” FierceTelecom, March 12, 2021, https://www.fiercetelecom.com/telecom/telecom-equipment-market-posts-best-year-almost-a-decade#:~:text=Dell’Oro percent20said percent20the percent20top,share percent20of percent20less percent20than percent203 percent25.
+
+96.For a more detailed overview of the decline of U.S. telecommunications equipment providers, see Robert D. Atkinson, “Who Lost Lucent?: The Decline of America’s Telecom Equipment Industry” (ITIF, August 2020), https://itif.org/publications/2020/08/20/who-lost-lucent-decline-americas-telecom-equipment-industry.
+
+97.“2020 Report to Congress of the U.S.-China Economic and Security Review Commission,” U.S.-China Economic and Security Review Commission, December 2020, 108–110, https://www.uscc.gov/sites/default/files/2020-12/2020_Annual_Report_to_Congress.pdf.
+
+98.Dr. J. Ray Bowen II, “Written Testimony for The United States-China Economic and Security Review Commission (USCC),” U.S.-China Economic and Security Review Commission, March 13, 2020, https://www.uscc.gov/sites/default/files/testimonies/March percent2013 percent20Hearing_Panel percent203_Ray percent20Bowen percent20Pointe percent20Bello.pdf.
+
+99.“‘Set Sail’ Action Plan for 5G Applications (2021–2023),” Translation by Center for Security and Emerging Technology, June 1, 2021, https://cset.georgetown.edu/wp-content/uploads/t0339_5G_action_plan_draft_EN.pdf.
+
+100.Robert D. Atkinson, “How China’s Mercantilist Policies Have Undermined Global Innovation in the Telecom Equipment Industry” (ITIF, June 2020), https://itif.org/publications/2020/06/22/how-chinas-mercantilist-policies-have-undermined-global-innovation-telecom.
+
+101.While analyzing the scope and scale of Chinese influence through the Belt and Road Initiative (and the Digital Silk Road) is beyond the scope of this paper, it is an area recommended for future research, in particular to determine if there is any outsized influence on telecommunications standards and the global telecommunications market.
+
+102.Editor Zhu Ying, “The Central Committee of the Communist Party of China and the State Council issued the ‘National Standardization Development Program,’” Xinhua News Agency, October 10, 2021, http://www.gov.cn/zhengce/2021-10/10/content_5641727.htm.
+
+103.“OIC_CERT launches 5G Security Working Group with Huawei,” TechAfrica News, June 1, 2021, https://www.techafricanews.com/2021/06/01/oic-cert-launches-5g-security-working-group-with-huawei/.
+
+104.Ibid.
+
+105.“UNSECO East Africa and Huawei Sign MoU to Improve Digital Skills and Ai Capabilities,” Huawei, September 18, 2019, https://www.huawei.com/en/news/2019/9/unesco-east-africa-huawei-sign-mou.
+
+106.While analyzing the scope and scale of Chinese telecommunications companies’ partnerships and collaborations is beyond the scope of this paper, it is an area recommended for future research, in particular to determine if there is any outsized influence on telecommunications standards and the global telecommunications market as a result of such activities.
+
+107.Minghe Hu, “China’s telecoms carriers push to complete ‘political task’ of 5G network roll-out amid coronavirus crisis,” South China Morning Post, March 5, 2020, https://www.scmp.com/tech/policy/article/3065048/chinas-telecoms-carriers-push-complete-political-task-5g-network-roll?utm_source=Yahoo&utm_medium=partner&utm_content=3123137&utm_campaign=contentexchange.
+
+108.Doug Brake and Alexandra Bruer, “The Great 5G Race: Is China Really Beating the United States?” (ITIF, November 2020), https://itif.org/publications/2020/11/30/great-5g-race-china-really-beating-united-states.
+
+109.Ellen Nakashima, “U.S. pushes hard for a ban on Huawei in Europe, but the firm’s 5G prices are nearly irresistible,” Washington Post, May 29, 2019, https://www.washingtonpost.com/world/national-security/for-huawei-the-5g-play-is-in-europe--and-the-us-is-pushing-hard-for-a-ban-there/2019/05/28/582a8ff6-78d4-11e9-b7ae-390de4259661_story.html.
+
+110.“Investigative report on the U.S. National Security Issues Posed by Chinese Telecommunications Companies Huawei and ZTE,” U.S. House of Representatives Permanent Select Committee on Intelligence, October 8, 2012, https://republicans-intelligence.house.gov/sites/intelligence.house.gov/files/documents/huawei-zte percent20investigative percent20report percent20(final).pdf.
+
+111.Robert D. Atkinson, “How China’s Mercantilist Policies Have Undermined Global Innovation in the Telecom Equipment Industry” (ITIF, June 2020), https://itif.org/publications/2020/06/22/how-chinas-mercantilist-policies-have-undermined-global-innovation-telecom.
+
+112.“The U.S. Needs to Get in the Standards Game-With Like-Minded Democracies,” Lawfare, April 2, 2020, https://www.lawfareblog.com/us-needs-get-standards-game percentE2 percent80 percent94-minded-democracies.
+113.Ibid.
+114.Wei Liu, “China Wants More Chinese to Work in International Organizations,” The Diplomat, August 24, 2018, https://thediplomat.com/2018/08/china-wants-more-chinese-to-work-in-international-organizations/.
+
+115.“ITU Internships,” International Telecommunication Union, accessed July 27, 2021, https://www.itu.int/en/careers/Pages/Internship.aspx.
+
+116.Adam Taylor, “Why the United Nations doesn’t pay its interns,” Washington Post, August 14, 2015, https://www.washingtonpost.com/news/worldviews/wp/2015/08/14/why-the-united-nations-doesnt-pay-its-interns/.
+
+117.“Standardization system and revision of subsidy policies in various regions across the country in 2019,” GIEHA, July 27, 2019, http://www.gieha.org/zcfgxq?article_id=864&brd=1.
+
+118.Editor Ben Murphy, “State Council Notice on the Publication of the National 13th Five-Year Plan for S&T Innovation,” Translation by the Center for Security and Emerging Technology, January 8, 2020, https://cset.georgetown.edu/publication/state-council-notice-on-the-publication-of-the-national-13th-five-year-plan-for-st-innovation/.
+
+119.Shizhuo Zhao, “China Communication Standards Association (CCSA),” October 30, 2017, https://www.itu.int/en/ITU-D/Regional-Presence/AsiaPacific/SiteAssets/Pages/Events/2017/Oct2017CIIOT/CIIOT/1.Session1-2 Introduction of CCSA-èµµä¸–å“V2.pdf.
+
+120.Editor Ben Murphy, “State Council Notice on the Publication of the National 13th Five-Year Plan for S&T Innovation,” Translation by the Center for Security and Emerging Technology, January 8, 2020, https://cset.georgetown.edu/publication/state-council-notice-on-the-publication-of-the-national-13th-five-year-plan-for-st-innovation/.
+
+121.Matt Sheehan, Marjory Blumenthal, and Michael Nelson, “Three Takeaways From China’s New Standards Strategy” (Carnegie Endowment for International Peace, October 2021), https://carnegieendowment.org/2021/10/28/three-takeaways-from-china-s-new-standards-strategy-pub-85678.
+
+122.“The U.S. Needs to Get in the Standards Game-With Like-Minded Democracies,” Lawfare, April 2, 2020, https://www.lawfareblog.com/us-needs-get-standards-game percentE2 percent80 percent94-minded-democracies.
+123.“2020 Report to Congress of the U.S.-China Economic and Security Review Commission,” U.S.-China Economic and Security Review Commission, December 2020, https://www.uscc.gov/sites/default/files/2020-12/2020_Executive_Summary.pdf.
+
+124.“S.1260—United States Innovation and Competition Act of 2021,” U.S. Congress, accessed July 27, 2021, https://www.congress.gov/bill/117th-congress/senate-bill/1260/text.
+
+125.“Executive Order on Promoting Competition in the American Economy,” White House, July 9, 2021, https://www.whitehouse.gov/briefing-room/presidential-actions/2021/07/09/executive-order-on-promoting-competition-in-the-american-economy/.
+
+126.Doug Brake, “A U.S. National Strategy for 5G and Future Wireless Innovation” (ITIF, April 2020), https://itif.org/publications/2020/04/27/us-national-strategy-5g-and-future-wireless-innovation.
+
+127.Jeanne Whalen, “Government should take bigger role in promoting U.S. technology or risk losing ground to China, commission says,” Washington Post, December 1, 2020, https://www.washingtonpost.com/technology/2020/12/01/us-policy-china-technology/.
+
+128.“S.1260—United States Innovation and Competition Act of 2021,” U.S. Congress, accessed July 27, 2021, https://www.congress.gov/bill/117th-congress/senate-bill/1260/text; The grant concept was also proposed in Melanie Hart and Jordan Link, “There Is a Solution to the Huawei Challenge” (Center for American Progress, October 2020),https://www.americanprogress.org/issues/security/reports/2020/10/14/491476/solution-huawei-challenge/.
+
+129.. Robert D. Atkinson, “Deep Competitiveness,” Issues in Science and Technology, vol. XXIII, no. 2 (Winter 2007),https://issues.org/atkinson-4/.
+
+130.Robert Clark, “US wields a new weapon against Huawei—low-cost credit,” LightReading, May 26, 2021, https://www.lightreading.com/4g3gwifi/us-wields-new-weapon-against-huawei-low-cost-credit/d/d-id/769783.
+131.Dave Nyczepir, “Lawmakers reintroduce bill to finance 5G projects in 22 European countries,” Fedscoop, May 21, 2021, https://www.fedscoop.com/house-5g-project-bill-europe/.
+
+132.“Executive Order on Promoting Competition in the American Economy,” White House, July 9, 2021, https://www.whitehouse.gov/briefing-room/presidential-actions/2021/07/09/executive-order-on-promoting-competition-in-the-american-economy/.
+
+133.Robert D. Atkinson, Doug Brake, and Alexandra Bruer, “Open Radio Access Networks: A Primer for Policymakers” (ITIF, November 2021), https://itif.org/publications/2021/11/01/open-radio-access-networks-primer-policymakers.
+
+134.John Wu, “Why U.S. Business R&D Is Not as Strong as It Appears” (ITIF, June 2018),https://itif.org/publications/2018/06/04/why-us-business-rd-not-strong-it-appears.
+
+135.Doug Brake, “Economic Competitiveness and National Security Dynamics in the Race for 5G between the United States and China,” TPRC 46: The 46th Research Conference on Communication, Information and Internet Policy 2018, August 2018, available at https://ssrn.com/abstract=3142229.
+
+136.“S.1260—United States Innovation and Competition Act of 2021,” U.S. Congress, accessed July 27, 2021, https://www.congress.gov/bill/117th-congress/senate-bill/1260/text.
+
 ### [国家行业标准信息服务平台](http://hbba.sacinfo.org.cn)
 
 ![](https://cdn.beekka.com/blogimg/asset/202112/bg2021120908.webp)
