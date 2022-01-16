@@ -1,6 +1,10 @@
 # 错题集
 [返回主页](/)
 
+![image](https://user-images.githubusercontent.com/42224627/149651356-311d85a4-b130-475f-ada2-f96673ed5717.png)
+我投失过至少9000次投篮，输了近300场比赛，26次没有命中最后的关键球。在生活中，我一次又一次地失败，这就是我成功的原因。
+-- [迈克尔·乔丹](https://news.ycombinator.com/item?id=29283402)
+
 注意事项
 
 ```
@@ -14,13 +18,43 @@
 ![image](https://user-images.githubusercontent.com/42224627/148513695-e0e75953-d234-4c38-a4d0-f3193b14b52a.png)
 > 温故而知新。
 
+12.5日 马当路 西西弗书店  启航 整合CSDN、简书等资料
+![Alt](https://repobeats.axiom.co/api/embed/5da1971450e29a59a73c226368bafeb703dc6c9e.svg "Repobeats analytics image")
+
+12.23日，法律思维及底层逻辑真正理解到点了，开始通了...
+![image](https://user-images.githubusercontent.com/42224627/147200751-d726cb87-07b3-4698-9dd7-7776712b37a1.png)
+
+1.9日，进入考试前的冲刺状态，确保正确率80%以上。完成错题集的复习。
+
+1.14日，再次完成200个知识点及错题的复习
+
+1.15日，正常发挥，时间策略、逻辑推导等
+![image](https://user-images.githubusercontent.com/42224627/149644330-6dc783a7-8d49-469b-abd3-6a03a874da12.png)
+
+![image](https://user-images.githubusercontent.com/42224627/149644326-ce4d0642-3964-433e-a32e-67f7623f3c17.png)
+![image](https://user-images.githubusercontent.com/42224627/149644331-0d45d2b0-a7b2-4cce-aa17-13c01f352e78.png)
+
+![image](https://user-images.githubusercontent.com/42224627/149644320-52966d36-9a8d-4866-b7e6-1ab7cbea987b.png)
+![image](https://user-images.githubusercontent.com/42224627/149644323-d9d62302-1795-4bb8-a5e0-c2e4d8518fbf.png)
+
+专利法10-20题标记，失分：15-30，最多50分；
+相关法10-20题标记，失分：10-20，最多30分；
+
+综上：总失分25-50-80分，即最后得分：225-200-170分 再打个八折：180-160-136分
+也就是说，如果不过，就是最小概率事件：专利法及相关法同时最低，且出现意外失分，若这样，大不了明年再来，将体系及基础打得更扎实一些，也没有什么不好。
+
+整体感觉：难度越来越难，日益接近司法考试
+专利法：PCT、复审及无效
+相关法：商标、版权、行政诉讼、合同、小法
+
 ## [博文之最后一公里]()
 
 [1.8-1.10 专利法最后一公里](https://www.mysipo.com/relook/439)
-1.11-1.13 相关法最后一公里
-
+[1.11-1.13 相关法最后一公里]()
 
 ## 思博
+
+[考试总结及职业规划](https://www.mysipo.com/live/450)
 
 ### 1.7日 每日
 
