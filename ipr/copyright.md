@@ -911,5 +911,7 @@ Google做为安卓的推动者，其实开发了两块代码：第一块代码�
 4. [一加 9 Pro 代码开源偷懒，热门第三方内核 Omega 宣布停更](https://www.ithome.com/0/592/410.htm)
 5. [中华古籍资源库](http://www.nlc.cn/pcab/zy/zhgj_zyk/)
 6. [发行游戏的权利是否为“发行权”？](https://mp.weixin.qq.com/s/U6oOj7pRwe3DOAQOdKllyQ)
+7. [暴力拒绝白嫖，著名开源项目作者删库跑路，数千个应用程序无限输出乱码](https://www.jiqizhixin.com/articles/2022-01-10-2)
+8. [Fonts Knowledge](https://fonts.google.com/knowledge)
 
 [返回主页](/)
