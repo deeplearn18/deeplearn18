@@ -4,8 +4,9 @@
 ![image](https://user-images.githubusercontent.com/42224627/149651356-311d85a4-b130-475f-ada2-f96673ed5717.png)
 ```
 我投失过至少9000次投篮，输了近300场比赛，26次没有命中最后的关键球。在生活中，我一次又一次地失败，这就是我成功的原因。
--- [迈克尔·乔丹](https://news.ycombinator.com/item?id=29283402)
 ```
+-- [迈克尔·乔丹](https://news.ycombinator.com/item?id=29283402)
+
 
 注意事项
 
