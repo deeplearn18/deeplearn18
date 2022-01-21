@@ -140,8 +140,13 @@ Conclusion: Human (online) trends
 
 The Internet is not a quiet place, the same way humans on Earth (especially during a pandemic) aren’t quiet or passive but active and reactive. Although on the top of our domain ranking there don’t seem to be drastic ups and downs throughout the year (TikTok, and YouTube, were the exceptions), we saw how an event like the Myanmar coup and the subsequent viral video may have brought YouTube to #1 on our ranking. We also saw how e-commerce was affected throughout the year, how space-related websites had a big (online) year with important events, and how Netflix rose around Christmas time.
 
+## 案例
+
+
+
 ## 参考
 
 1. [In 2021, the Internet went for TikTok, space and beyond](https://blog.cloudflare.com/popular-domains-year-in-review-2021/)
+2. [IPCreator's域名清单](https://dc.console.aliyun.com/next/index?spm=5176.2020520001.aliyun_sidebar.aliyun_sidebar_domain.3c794bd34d58Zt&accounttraceid=8e8ca84f-207e-446e-be5c-ef91e1ee1c3e#/overview)
 
 [返回主页](/)
