@@ -357,4 +357,6 @@ InterDigital v 联想案当下这个时间窗口，正是双方互相给对方�
 
 ## 参考
 
+1. [专利侵权纠纷行政裁决办案指南](http%3A%2F%2Fwww.gov.cn%2Ffuwu%2F2020-01%2F02%2F5465900%2Ffiles%2F2bf432d397924f829b4a87cc7b2bf689.pdf)
+
 [返回主页](/)
