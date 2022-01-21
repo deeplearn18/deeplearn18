@@ -10,19 +10,41 @@
 > 这是一门可以从事终生的好职业和好事业，能够将自己的兴趣及特长充分融合且创造价值及意义，还有，可以单人也可团队，可以慢可以少，可以快可以多...
 
 ![](/img/time.png)
->[长远来看，斜率是唯一重要的事情。](https://mp.weixin.qq.com/s/c97w9_L8Xccpj6F_lCRa3Q)
+> [长远来看，斜率是唯一重要的事情。](https://mp.weixin.qq.com/s/c97w9_L8Xccpj6F_lCRa3Q)
 
 ![](https://coolipr.com/img/PatentInformation001.jpeg)
 ![](https://coolipr.com/img/PatentInformation002.jpeg)
+> 急为心窄，高手，一方面难以触怒，另一方面稳定一致的专业表现及价值输出。
+
+> 量级、质量及价值类型是最为重要的事情...知其然知其所以然，IPCreator、IPrCreator
+
+不变的是：知识经济
+变化的是：个人博客、个人网站(域名+开源)、微信公众号号...
 
 ## 法律法规
 
 ```
 系统分解、碎片拼图；
 概念原理、理论实务；
+融会贯通、价值创造；
 天道酬勤、量变质变。
 ```
-> ——闻道有先后，术业有专攻；兴趣是最好的老师。
+> ——闻道有先后，术业有专攻，兴趣是最好的老师。
+
+> 互为一体，向下兼容...
+
+```
+1. 储备（布局、策略性申请等）与风控（专利、商标及版权等）
+2. 储备与运营——价值创造
+3. 前端与中后端
+4. SEP与非SEP
+5. 发明人、IPR及代理人
+6. 体系系统、团队建设、项目管理、执行闭环
+7. 格局、节奏及温度（高度，温度，风度）
+8. 自己，家人，他人；小我、大我到无我。
+```
+
+2022：涉外实务、SEP
 
 ### [运营](/ipr/operation.md)
 ### [专利](/ipr/patent.md)
@@ -119,6 +141,15 @@
 7. [爱集微](https://www.laoyaoba.com/)
 8. [科技產業資訊室](https://iknow.stpi.narl.org.tw/DefaultPhone.aspx)
 9. [无讼](https://m.wusong.com)
+10. [中国知识产权杂志](http://www.chinaipmagazine.com/)
+11. [fosspatents](http://www.fosspatents.com)
+12. [Intellectual Asset Management](https://www.iam-media.com)
+13. [中伦](http://www.zhonglun.com/)
+14. [金杜](https://www.chinalawinsight.com/)
+15. [立方](http://www.lifanglaw.com/index.html)
+16. [ipwatchdog](https://www.ipwatchdog.com)
+17. [海关总署](http://www.customs.gov.cn/customs/syx/index.html)
+18. [国外知识产权环境报告](http://freereport.cnipa.gov.cn/index.asp)
 
 ### 书籍
 
