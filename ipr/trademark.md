@@ -491,5 +491,6 @@ JOKA商标在很多年前就申请了，在前段时间刚转让给B。
 3. [品牌的故事](https://www.jianshu.com/p/862cf4e09c4b)
 4. [《商标一般违法判断标准》](https://mp.weixin.qq.com/s/j9EUBg0n1jSpNkB_gf2RoA)
 5. [商标学习资料汇总](https://mp.weixin.qq.com/s/2NGOfsiH6Pe1EjJ579nLPA)
+6. [非洲商标申请制度简介](http://www.chinaipmagazine.com/news-show.asp?25535.html)
 
 [返回主页](/)
