@@ -21,10 +21,17 @@
 ![](https://coolipr.com/img/PatentInformation002.jpeg)
 > 急为心窄，高手，一方面难以触怒，另一方面稳定一致的专业表现及价值输出，错不二犯...
 
+![image](https://user-images.githubusercontent.com/42224627/150636624-d0499eef-57b9-4ac6-a622-438250544b7b.png)
+> 自己情绪的奴隶，并不是一种力量的表现。
+
+![image](https://user-images.githubusercontent.com/42224627/150636635-647b071a-d5d1-46aa-b765-c09eb4354a1f.png)
+> 喝醉酒的样子，是美是丑，是自己的行为。
+
 > 量级、质量及价值类型是最为重要的事情...知其然知其所以然，IPCreator、IPrCreator
 
 不变的是：知识经济，新技术趋势，投资理财...
 变化的是：个人博客、个人网站(域名+开源)、微信公众号号...
+真正的成熟不是你经历了什么？而是你怎么去理解自己的经历。
 
 一切都是智商，在最喜欢、最擅长及最有价值的道路上，持续精进...
 [人生的尴尬在于之前决策的时候并不可能有之后那么丰富的经验……](http://lixiaolai.com/#/)
