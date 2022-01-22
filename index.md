@@ -1,7 +1,8 @@
 # IP诗人
 
 ![image](https://user-images.githubusercontent.com/42224627/150625785-5d52f801-1fec-4354-9967-f960841d915c.png)
-> 这是一份优雅的事业，专利也是一份艺术品...
+![image](https://user-images.githubusercontent.com/42224627/150626720-24982577-3fff-4591-81c2-489a4faa4a75.png)
+> 这是一份优雅的事业，专利也是一份艺术品...如诗如歌...
 
 ![](/img/ahaipr20211205001.jpeg)
 > 点亮传灯，照亮自己及他人...
