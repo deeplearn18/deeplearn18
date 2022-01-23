@@ -115,4 +115,6 @@ Intel认为，专利被故意分散到不同PAEs中，专利的所有权被故�
 
 ## 参考
 
+1. [《深圳市知识产权保护和运用“十四五”规划》全文发布](https://mp.weixin.qq.com/s/3PllLRTeO-YcfQ0SHl3EBA)
+
 [返回主页](/)
