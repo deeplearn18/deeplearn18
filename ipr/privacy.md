@@ -31,5 +31,6 @@
 11. [任天堂三项新专利曝光：与《塞尔达传说：荒野之息 2》预告中的玩法十分相似](https://www.ithome.com/0/592/575.htm)
 12. [索尼 PlayStation 为《死亡搁浅》的创意机制申请专利，以防其他游戏使](https://www.ithome.com/0/591/980.htm)
 13. [悄悄拍摄行人，算法指挥员工：便利蜂的“系统”是否越界](https://mp.weixin.qq.com/s/heRqYI-GFw5EX_0r_4Jh9g)
+14. [5G应用场景与隐私保护](https://mp.weixin.qq.com/s/JuXp4XoFFMlLuM90VoqtgA)
 
 [返回主页](/)
