@@ -23,7 +23,7 @@
 
 > 量级、质量及价值类型是最为重要的事情...知其然知其所以然，IPCreator、IPrCreator
 
-不变的是：知识经济，新技术趋势，投资理财...
+不变的是：知识经济(1.23日，[启动知识产权师](http://iprplayer.com/))，新技术趋势，投资理财...
 变化的是：个人博客、个人网站(域名+开源)、微信公众号号...
 真正的成熟不是你经历了什么？而是你怎么去理解自己的经历。
 
@@ -149,20 +149,21 @@
 4. [天天IP：微信号: laoyaoip](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzIyOTk1MjAwNQ==&scene=124#wechat_redirect)
 5. [大岭IP：微信号: DalingIP](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzU3MjQ1MjE4NA==&scene=124#wechat_redirect)
 6. [富贵鼠专利平台：微信号: FUGUISHUIP](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzA5NjMxMjAyMg==&scene=124#wechat_redirect)
-7. [韩一星讲专利：微信号: han13581641764](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=Mzg4ODE3NzA0Nw==&scene=124#wechat_redirect)
-8. [鲜枣课堂：微信号：xzclasscom](https://mp.weixin.qq.com/s/yQ_lqvIR-Gqx9RgB0OOCKQ)
-9. [中国知识产权报 微信号: cipnews](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzA3NDI3NjAyMg==&scene=124#wechat_redirect)
-10. [北美智权：微信公众号→ NAIP_IPServices](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=Mzg4MjAzNjgwMw==&scene=124#wechat_redirect)
-11. [通信知识分类整理](https://mp.weixin.qq.com/s/yQ_lqvIR-Gqx9RgB0OOCKQ)
-12. [百科君的IP杂谈 微信号: IP-BlaBla](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzUxNzAyNjcxNQ==&scene=124#wechat_redirect)
-13. [最高人民法院 微信号: ch_zgrmfy](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzA3MjEwNzYzOQ==&scene=124#wechat_redirect)
-14. [最高人民法院知识产权法庭](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzUzNjk5MDczOQ==&scene=124#wechat_redirect)
-15. [最高人民检察院 微信号: zgrmjcy01](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzA4MjQ5MzIxNQ==&scene=124#wechat_redirect)
-16. [知产力](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MjM5NzU5ODEzNw==&scene=124#wechat_redirect)
-17. [知产蹊径](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzU2NjgwMTE3OQ==&scene=124#wechat_redirect)
-18. [江苏高院：微信号: jiangsugaoyuan](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzA5NjcyNjgwMA==&scene=124#wechat_redirect)
-19. [知产前沿：微信号: IPForefront](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzU3MDc5NzQ0MQ==&scene=124#wechat_redirect) 
-20. [CIPMAGAZINE 微信号: ChinaIPMagazineCN](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MjM5NTUxNjk2MA==&scene=124#wechat_redirect) 
+7. [知识产权理想国 微信号: IPRepublic](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzU0MDE4MDQyNg==&scene=124#wechat_redirect) 
+8. [韩一星讲专利：微信号: han13581641764](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=Mzg4ODE3NzA0Nw==&scene=124#wechat_redirect)
+9. [鲜枣课堂：微信号：xzclasscom](https://mp.weixin.qq.com/s/yQ_lqvIR-Gqx9RgB0OOCKQ)
+10. [中国知识产权报 微信号: cipnews](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzA3NDI3NjAyMg==&scene=124#wechat_redirect)
+11. [北美智权：微信公众号→ NAIP_IPServices](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=Mzg4MjAzNjgwMw==&scene=124#wechat_redirect)
+12. [通信知识分类整理](https://mp.weixin.qq.com/s/yQ_lqvIR-Gqx9RgB0OOCKQ)
+13. [百科君的IP杂谈 微信号: IP-BlaBla](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzUxNzAyNjcxNQ==&scene=124#wechat_redirect)
+14. [最高人民法院 微信号: ch_zgrmfy](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzA3MjEwNzYzOQ==&scene=124#wechat_redirect)
+15. [最高人民法院知识产权法庭](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzUzNjk5MDczOQ==&scene=124#wechat_redirect)
+16. [最高人民检察院 微信号: zgrmjcy01](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzA4MjQ5MzIxNQ==&scene=124#wechat_redirect)
+17. [知产力](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MjM5NzU5ODEzNw==&scene=124#wechat_redirect)
+18. [知产蹊径](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzU2NjgwMTE3OQ==&scene=124#wechat_redirect)
+19. [江苏高院：微信号: jiangsugaoyuan](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzA5NjcyNjgwMA==&scene=124#wechat_redirect)
+20. [知产前沿：微信号: IPForefront](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzU3MDc5NzQ0MQ==&scene=124#wechat_redirect) 
+21. [CIPMAGAZINE 微信号: ChinaIPMagazineCN](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MjM5NTUxNjk2MA==&scene=124#wechat_redirect) 
 
 
 ### 网站
