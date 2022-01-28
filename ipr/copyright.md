@@ -913,5 +913,7 @@ Google做为安卓的推动者，其实开发了两块代码：第一块代码�
 6. [发行游戏的权利是否为“发行权”？](https://mp.weixin.qq.com/s/U6oOj7pRwe3DOAQOdKllyQ)
 7. [暴力拒绝白嫖，著名开源项目作者删库跑路，数千个应用程序无限输出乱码](https://www.jiqizhixin.com/articles/2022-01-10-2)
 8. [Fonts Knowledge](https://fonts.google.com/knowledge)
+9. [从维权的视角审视开源软件的合规使用](https://mp.weixin.qq.com/s/gTiIs0dflldv2R2KNimHZw)
+10. [孔祥俊 | 著作权立法与司法的产业利益之维](https://mp.weixin.qq.com/s/V44vMQ6FncmELF4c9mLtYw)
 
 [返回主页](/)
