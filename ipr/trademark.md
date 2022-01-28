@@ -492,5 +492,6 @@ JOKA商标在很多年前就申请了，在前段时间刚转让给B。
 4. [《商标一般违法判断标准》](https://mp.weixin.qq.com/s/j9EUBg0n1jSpNkB_gf2RoA)
 5. [商标学习资料汇总](https://mp.weixin.qq.com/s/2NGOfsiH6Pe1EjJ579nLPA)
 6. [非洲商标申请制度简介](http://www.chinaipmagazine.com/news-show.asp?25535.html)
+7. [知产案例 | “元宇宙”商标的一生，从“狂热追捧”到“批量劝退”（第64期）](https://mp.weixin.qq.com/s/w60NgW-4k-dNKytCsHpoSg)
 
 [返回主页](/)
