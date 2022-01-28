@@ -116,5 +116,7 @@ Intel认为，专利被故意分散到不同PAEs中，专利的所有权被故�
 ## 参考
 
 1. [《深圳市知识产权保护和运用“十四五”规划》全文发布](https://mp.weixin.qq.com/s/3PllLRTeO-YcfQ0SHl3EBA)
+2. [IPwe和Open Meta基金会联合宣布元宇宙智能专利池首个创始成员](https://mp.weixin.qq.com/s/avTylz6grIlqpMO4d-ofGA)
+3. [OIN 扩大其专利 保护范围](https://openinventionnetwork.cn/oin-%E6%89%A9%E5%A4%A7%E5%85%B6%E4%B8%93%E5%88%A9-%E4%BF%9D%E6%8A%A4%E8%8C%83%E5%9B%B4/)
 
 [返回主页](/)
