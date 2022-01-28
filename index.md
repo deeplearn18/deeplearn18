@@ -46,7 +46,7 @@
 
 ![image](https://user-images.githubusercontent.com/42224627/150628479-a08d49cb-cecf-4f97-857b-738a05d27fab.png)
 ![image](https://user-images.githubusercontent.com/42224627/151518748-37957ab6-3263-4291-a22c-bbc2d4778a97.png)
-[“费曼技巧”]()https://www.jianshu.com/p/802be9edd0f6 —— 其实就是通过教别人的方式让自己学会。
+[“费曼技巧”](https://www.jianshu.com/p/802be9edd0f6) —— 其实就是通过教别人的方式让自己学会。
 
 ![image](https://user-images.githubusercontent.com/42224627/151518428-458377cc-68f6-45fa-a37b-b31d135e48e6.png)
 一个人经过不同程度的锻炼，就获得不同程度的修养、不同程度的效益。好比香料，捣得愈碎，磨得愈细，香得愈浓烈。我们曾如此渴望命运的波澜，到最后才发现：[人生最曼妙的风景，竟是内心的淡定与从容](https://www.sohu.com/a/316701056_686587)……我们曾如此期盼外界的认可，到最后才知道：世界是自己的，与他人毫无关系。
