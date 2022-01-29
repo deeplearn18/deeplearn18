@@ -3,6 +3,27 @@
 
 ## 管理
 
+### [“拟上市公司的知识产权风险预防与危机应对”](http://www.kangxin.com/html/1/170/171/13737.html)
+
+![image](https://user-images.githubusercontent.com/42224627/151661719-aac8292f-383f-4d61-a3b5-8ffaa4959074.png)
+![image](https://user-images.githubusercontent.com/42224627/151661727-1a0806de-5638-447a-9830-efce3f771ff9.png)
+![image](https://user-images.githubusercontent.com/42224627/151661756-a11437bf-40ea-4944-8efa-510e59852e41.png)
+
+解决知识产权纠纷的几大要点：
+
+```
+①掌握发审委的关注点
+②详细分析纠纷影响
+③用法律工具
+④做好自有知识产权保护
+```
+
+![image](https://user-images.githubusercontent.com/42224627/151661776-34924185-88d4-4868-a4a8-855d003653b0.png)
+![image](https://user-images.githubusercontent.com/42224627/151661782-5845c429-1f86-4068-abab-3463b4aeac36.png)
+![image](https://user-images.githubusercontent.com/42224627/151661788-35b46dd3-5424-4b16-8edf-eb87738ce47f.png)
+![image](https://user-images.githubusercontent.com/42224627/151661791-20d0befa-494d-41d1-9de3-87f6fa8e0fc7.png)
+
+
 ### [纸上谈兵：假如我是企业的知识产权总监，我打算做些什么](http://www.patent5.com/article/2022/01/14/zsjm.htm)
 
 ![image](https://user-images.githubusercontent.com/42224627/150674222-8e67f1b8-c95c-48fe-a7a8-832bb68fce0c.png)
