@@ -324,5 +324,6 @@
 1. [如何有效地保护集成电路的知识产权？](https://www.lexology.com/library/detail.aspx?g=bfc1db1a-46ff-4f6c-95b9-7ec44cee85aa)
 2. [集成电路布图设计保护条例实施细则 [现行有效]](http://www.lawinfochina.com/display.aspx?lib=law&id=14231&CGid=)
 3. [集成电路布图设计保护条例实施细则](https://www.sohu.com/a/502487705_120460748)
+4. [2021年度十大刑事案件](https://mp.weixin.qq.com/s/kHA-_hPvutYqd2g-OJ_Qsw)
 
 [返回主页](/)
