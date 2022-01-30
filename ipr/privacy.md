@@ -32,5 +32,7 @@
 12. [索尼 PlayStation 为《死亡搁浅》的创意机制申请专利，以防其他游戏使](https://www.ithome.com/0/591/980.htm)
 13. [悄悄拍摄行人，算法指挥员工：便利蜂的“系统”是否越界](https://mp.weixin.qq.com/s/heRqYI-GFw5EX_0r_4Jh9g)
 14. [5G应用场景与隐私保护](https://mp.weixin.qq.com/s/JuXp4XoFFMlLuM90VoqtgA)
+15. [上海首份《企业数据合规指引》：鼓励企业设立数据合规部门，不建议由法务部门履行合规管理职能](https://mp.weixin.qq.com/s/IQfDKY0W2NumnJm36a4q5Q)
+16. [个人信息侵权纠纷的司法实践及理论探析](https://mp.weixin.qq.com/s/Ca0rSOGQ-2W1xoSt4VOBwg)
 
 [返回主页](/)
