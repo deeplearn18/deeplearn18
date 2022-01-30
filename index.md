@@ -240,8 +240,9 @@
 38. [科慧远咨询](http://www.ipfuture.com.cn) 
 39. [上海隆天律师事务所](http://www.lungtinlaw.com)
 40. [隆天知识产权](http://www.lungtin.com)
-41. [华进知识产权](https://www.ixigua.com/home/4072233704369384/?source=pgc_author_name&list_entrance=anyVideo)
-42. [知识产权出版社](http://www.ipph.cn)
+41. [汉之光华](http://www.iprtop.com/)
+42. [华进知识产权](https://www.ixigua.com/home/4072233704369384/?source=pgc_author_name&list_entrance=anyVideo)
+43. [知识产权出版社](http://www.ipph.cn)
 
 ### 书籍
 
