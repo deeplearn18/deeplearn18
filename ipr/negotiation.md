@@ -57,6 +57,73 @@ Access Advance 首席执行官 Peter Moller 表示：“我们很高兴 vivo 选
 被许可人在履行专利许可合同的时候，可能会存在着未按合同约定支付许可费或者未按合同规定的数量生产或销售产品等违约行为，针对被许可人的此类违约行为，许可人可以在合同中设置违约条款，要求被许可人停止生产或销售产品，支付一定数额的违约金，并且亦可规定许可人此种情况下享有终止合同的权利；对于被许可人而言，此类违约行为的发生可能并非其有意为之，如果因此而需要停止生产或销售产品，对其可能会造成难以弥补的损失，比如，对于与第三方签订的产品销售合同无法按时完成交货、对于已经生产出来的库存商品无法进行销售等，因此，被许可人在合同谈判过程中，可以向许可方争取一个违约通知期，要求许可人在此种情况下应当向被许可人进行通知，并允许被许可人进行补救，只有被许可人在通知期限内未采取任何补救行为的情况下，许可方才可以行使终止合同等权利。
 虽然，实践中的专利许可合同的合同条款可能多达数十项，但其主要内容都体现在了本文所述及的这些条款中，如果在起草或者审核专利许可合同时，能够将上述这些条款的内容规定清楚、明确，那么就会明显降低整个专利许可合同的合同风险，并能够确保合同的质量。
 
+## [中国专利许可的注意事项 | 每日IP英文第445期](https://mp.weixin.qq.com/s/8aAPwyO2vv7lslaop-YXFQ)
+
+本文介绍了在中国进行专利许可的一些注意事项，包括：
+
+```
+1. 仅仅约定许可的类型是不足够的，因为翻译的问题，各国对独占许可、排他许可和普通许可的理解不同，所以还需要给出许可类型的定义；
+2. 协议中约定不质疑条款需要慎重，可能会被认定为无效条款，甚至引发垄断纠纷；
+3. 协议中无条件地约定所有的改进都归许可人，可能被认定为属于垄断技术而无效；
+4. 许可协议在国知局备案可以对抗第三人；
+5. 约定许可解除或终止的条件。
+```
+
+后附Google翻译，仅供参考。
+
+Licensing considerations for global companies in China
+
+26 January 2022 | IAM
+In China, as in other jurisdictions, there have been many cases of foreign companies filing patent infringement claims against third parties, which lead to a so-called ‘patent battle’. A common strategy to deal with patent infringement claims is to negotiate to obtain a patent licence. However, there are particular issues other than the common issues one may experience in other jurisdictions, this article raises some red flag issues for global companies signing licensing agreements in China.
+Type of patent licence
+
+A patent licensing agreement should be formalised in written form. According to the degree of restriction on the licensee from high to low, the agreement can be divided into three categories, namely: exclusive licence, sole licence and general licence (独占许可、排他许可and普通许可 in Chinese). The three types of licences have different legal effects, making it crucial that each is used correctly. This is especially the case when a licence is drafted in multiple languages. Quite often, parties mix up sole and exclusive licences. It is thus important to define the nature of the licence, rather than merely naming it as either a sole or exclusive licence, because translation issues or different governing laws may lead to different interpretations.
+An exclusive licence enables the patentee to license its invention to the licensee only for a specific period of time, and binds the licensor not to share the patent with anyone else. Even the patentee itself is not allowed to exploit the patent. A sole licence allows the patentee to license the patent to the licensee only, but the patentee itself is permitted to exploit the patent. A general or non-exclusive licence does not restrict the patentee to further exploit or license the patent to other parties.
+In terms of the legal standing required to assert the patent before a Chinese court for a patent infringement case, in practice
+an exclusive licensee could unilaterally file a patent infringement lawsuit asserting the licensed patent;
+a sole licensee could file a patent infringement unilaterally under the circumstances that the patentee does not file the patent infringement lawsuit in relation to the licensed patent or assert the patent jointly with the patentee; and
+a general licensee needs to obtain specific authorisation from the patentee to assert the licensed patent, to file a patent infringement lawsuit.
+Undertakings in the patent licence agreement
+
+To further protect the patentee’s interests, some patentees may incorporate a no-challenge clause into the patent licence agreement to ensure that the licensee undertakes not to file an invalidation against the subject patent(s). However, there is a risk that the relevant clauses may be regarded as invalid under Chinese law, because they obstruct technological improvements or create a monopoly on technology.
+Entitlement to improvements
+
+The Civil Code of People's Republic of China specifies that a technology agreement that illegally monopolises technology or infringes another’s technological achievement is invalid. Therefore, a clause in a licensing agreement stipulating that all the improvements shall unconditionally be owned by the patentee/licensor without fair consideration may be deemed invalid. On the other hand, if the entitlement clause is not sufficiently specific or detailed, the general wording (eg, the improvement belongs to the party who makes a substantial contribution) is not helpful in an actual entitlement dispute in the future.
+Filing licence agreements at the China National Intellectual Property Office (CNIPA)
+
+Although filing the relevant licence agreement shall not affect its effectiveness, it will be useful for the licensee when it comes to enforcing its rights against third parties infringing the relevant patent. CNIPA’s endorsement would also enhance the role of the patentee/licensor.
+Exiting licence agreements
+
+One of the more common disputes between licensors and licensees is the early exit from the terms of a licence agreement. Careful thought must be given to the termination clause of a licence agreement – especially from the licensor’s perspective – so that the licensor’s patent will not be trapped in a deal that it has no way of getting out of. A reasonable long fixed term, with flexibility in terminating the agreement when it can, is recommended.  
+All in all, in China – as elsewhere – Iicensing is a recommended route to preventing patent infringement and can be beneficial for both the licensor and licensee. The terms and conditions of the patent licensing agreement should be carefully drafted and reviewed by the legal professionals in all relevant jurisdictions to better protect the party’s rights and interests and avoid potential litigation. For additional insights, see “Crucial Clauses in Global IP Transactions and the Importance of Local Law Advice”.
+
+Google翻译：
+跨国公司在中国的许可注意事项
+
+26 January 2022 | IAM
+在中国，与其他司法管辖区一样，外国公司向第三方提起专利侵权诉讼的案例很多，这导致了所谓的“专利战”。处理专利侵权索赔的常见策略是通过谈判获得专利许可。然而，除了在其他司法管辖区可能遇到的常见问题之外，还有一些特殊问题，本文为在中国签署许可协议的全球公司提出了一些警示信号。
+专利许可类型
+专利许可协议应以书面形式正式确定。根据对被许可人的限制程度从高到低，协议可分为独占许可、排他许可和普通许可三类。这三种许可证具有不同的法律效力，因此正确使用每种许可类型至关重要。当以多种语言起草许可证时尤其如此。很多时候，各方混淆了独占许可和排他许可。因此，重要的是定义许可的性质，而不是仅仅将其命名为独占许可或排他许可，因为翻译问题或不同的适用法律可能导致不同的解释。
+独占许可使专利权人仅在特定期限内将其发明许可给被许可人，并约束许可人不得与其他任何人共享专利，甚至专利权人本身也不得利用该专利。排他许可允许专利权人仅将专利许可给被许可人，但允许专利权人自己利用专利。普通或非排他性许可并不限制专利权人进一步利用或许可他人使用该专利。
+就专利侵权案件向中国法院主张专利所要求的法律地位而言，在实践中
+独占被许可人可以单方面提起专利侵权诉讼，主张专利被许可；
+
+在专利权人不就被许可专利提起专利侵权诉讼或者与专利权人共同主张专利的情况下，排他被许可人可以单方面提起专利侵权诉讼；和
+
+普通被许可人需要获得专利权人的特定授权才能主张被许可的专利，才能提起专利侵权诉讼。
+
+专利许可协议中的承诺
+为进一步保护专利权人的利益，部分专利权人可能会在专利许可协议中加入无异议条款，以确保被许可人承诺不对标的专利提出无效宣告。但是，在中国法律下，相关条款可能会被视为无效，因为它们阻碍技术改进或造成技术垄断。
+改进的权利
+《中华人民共和国民法典》规定，非法垄断技术或者侵犯他人技术成果的技术协议无效。因此，许可协议中规定所有改进应无条件地归专利权人/许可人所有且没有公平考虑的条款可能被视为无效。另一方面，如果权利条款不够具体或详细，那么笼统的措辞（例如，改进属于做出实质性贡献的一方）对未来的实际权利争议没有帮助。
+向中国国家知识产权局 (CNIPA) 提交许可协议
+尽管提交相关许可协议不影响其效力，但对于被许可人在针对侵犯相关专利的第三方行使权利时将是有用的。CNIPA 的认可也将增强专利权人/许可人的作用。
+退出许可协议
+许可人和被许可人之间较常见的争议之一是提前退出许可协议条款。必须仔细考虑许可协议的终止条款——尤其是从许可人的角度来看——以便许可人的专利不会陷入无法摆脱的交易中。建议一个合理的长期固定期限，并在可能的情况下灵活地终止协议。
+总而言之，在中国——和其他地方一样——许可是防止专利侵权的推荐途径，对许可人和被许可人都有利。专利许可协议的条款和条件应由所有相关司法管辖区的法律专业人员仔细起草和审查，以更好地保护当事人的权益并避免潜在的诉讼。如需更多见解，请参阅“全球知识产权交易中的关键条款和当地法律建议的重要性”。
+
+Source:https://www.iam-media.com/licensing-considerations-global-companies-in-china?utm_source=IAM%2BWeekly%253A%2BSamsung%2Bsued%2Bby%2Bformer%2BIP%2Bhead&utm_medium=email&utm_campaign=IAM%2BWeekly
+Each article is copyrighted to their original authors. The news is for informational purposes only and does not provide legal advice.
 
 ## [如何签订知识产权许可协议？](https://mp.weixin.qq.com/s/BOOkkbJSJXAlD1RMmjpBjw)
 
@@ -504,5 +571,6 @@ Each article is copyrighted to their original authors. The news is for informati
 3. [专利实施许可合同实务指引]()
 4. [《深圳市知识产权许可操作指引》](http://www.szmqs.gov.cn/xxgk/zcwj/zscqgl/zscqgz/201410/t20141013_2595040.htm)
 5. [一件发明专利如何拆分许可？](http://www.casted.org.cn/channel/newsinfo/8053) 
+6. [专利诉讼—一项全球性的任务 | 每日IP英文第439期](https://mp.weixin.qq.com/s/zkPZto1WSDmz_rTRvu8FQQ)
 
 [返回主页](/)
