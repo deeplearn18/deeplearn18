@@ -736,5 +736,6 @@ JOKA商标在很多年前就申请了，在前段时间刚转让给B。
 6. [非洲商标申请制度简介](http://www.chinaipmagazine.com/news-show.asp?25535.html)
 7. [知产案例 | “元宇宙”商标的一生，从“狂热追捧”到“批量劝退”（第64期）](https://mp.weixin.qq.com/s/w60NgW-4k-dNKytCsHpoSg)
 8. [商标海关备案实务](http://www.kangxin.com/html/1/173/174/357/16077.html)
+9. [涉外商标保护之商标检索的意义和现状](http://www.unitalenlaw.com/html/report/17031792-1.htm)
 
 [返回主页](/)
