@@ -648,6 +648,86 @@ NUVIA 高级副总裁 John Bruno 曾先后在 ATI、AMD、苹果等公司任职�
 
 无论如何，这两家之间的故事仍会继续。
 
+## [MPEG LA推出VVC专利许可池：每台$0.2，封顶3000万美元！详解VVC](https://mp.weixin.qq.com/s/4YSBZo75x7k2sgVptKmCkA)
+
+![image](https://user-images.githubusercontent.com/42224627/151695046-445656a5-968d-445b-b010-fb13b4d24ac6.png)
+
+1月27日，美国专利池管理组织MPEG LA宣布推出通用视频编码Versatile Video Coding (VVC，也称为H.266或MPEG-I part 3)专利组合许可计划（专利池）。
+
+VVC是一个由VCEG（ITU-T Q.6/SG 16）和MPEG（ISO/IEC JTC 1/SC 29/WG 1）共同开发的国际标准，因此是继MPEG-2、H.264和HEVC等视频编解码器系列后的最新成员。
+
+![image](https://user-images.githubusercontent.com/42224627/151695066-481bdd29-f5af-4f97-99f2-8d098b7877da.png)
+
+来源：爱立信
+
+根据爱立信官方对VVC的介绍来看，VVC的开发遵循了一个成熟的标准化过程，该过程始于2015年的一项技术探索活动，包括2018年的正式提案征集，并于2020年7月作为技术冻结标准结束。
+
+作为迄今为止最新、最复杂的视频编解码器，VVC提供了所有视频编解码器中最高的压缩效率，并且由于其编码工具，它特别适用于更高分辨率的视频流。
+
+在MPEG LA的新闻稿中，VVC应用包括能够提供4K到8K以及更高的容量高清电视（HDTV）、超高清电视（UHD）的分辨率，高动态范围（HDR）和全方位360°视频。
+
+看似应用领域比较普通，实则大有不同。尤其是在全方位360°视频方面，也是爱立信官网重点介绍的“沉浸式视频”的应用是重点。为了帮助远程渲染VR等其他沉浸式视频应用，VVC引入了子画面的概念，允许高效提取和合并不同质量的视频片段，这是更高分辨率沉浸式格式的要求。在VVC中使用子图片可以显著降低应用系统的复杂性。这种能力，加上其优越的压缩效率，使VVC成为沉浸式视频应用的最佳视频编解码器选择。
+
+而元宇宙的突然火爆，以及VR/AR的普及使得对：低延迟、高并发和个性化特点的要求越来越高，而这些正与VVC的开发特点有很多吻合之处。
+
+不得不佩服，当我们普通人现在刚知道元宇宙为何物之时，技术领导者们早在六、七年前就开始了底层基础技术的布局。
+
+好在，VVC这项技术开发中，中国企业的参与度越来越高，包括华为、阿里、腾讯、字节跳动、联发科、大疆、海康威视等一批企业都有或多或少的贡献，但是与西方视频编解码的传统势力相比，还有待提高。
+
+为了帮助VVC知识产权所有者为VVC制定更具凝聚力、价格更合理的专利许可费率，2018年成立了一个名为“媒体编码行业论坛”（MC-IF）的行业组织。
+
+在VVC之前，HEVC拥有三个专利池（MPEG LA、HEVC Advance、Velos），这种多专利池方式也被认为是阻碍了创新的应用，因此MC-IF成立的主要目的就是希望建立一个单一的、占主导地位的专利池，延续上世纪90年代以来音视频编解码一直采取的专利池模式。
+
+![image](https://user-images.githubusercontent.com/42224627/151695071-d7d2e4ae-8b8c-4110-8503-c48c768bab00.png)
+
+MC-IF成员
+
+2020年7月，MC-IF启动了正式的“专利培育”工作，有49家成员公司，以帮助形成VVC的单一专利池。在理想情况下，这一倡议将通过竞争性地选择一个管理者，但最后未能成功。MC-IF成员中的MPEG LA和Access Advance也选择单独推出专利池，并分别在2021年1月和7月宣布成立各自的VVC专利池。
+
+Access Advance率先在2022年1月11日宣布了首批28家VVC Advance专利池的专利许可人。包括通用、杜比、飞利浦、东芝、松下、三菱电机等一批大企业，以及日本（IP Bridge）和韩国（Intellectual Discovery）的两个国家专利主权基金，中国企业则包括阿里巴巴、快手和联发科。
+
+![image](https://user-images.githubusercontent.com/42224627/151695074-6214f0f8-cb21-4b44-80ca-418195b79f25.png)
+
+制作：企业专利观察
+
+此次MPEG LA在Access Advance公布首批licensors两周之后正式推出VVC专利池计划，也预示着这两个专利池管理组织一定程度上存在较为激烈的竞争。
+
+这一点在HEVC技术上尤为明显，2020年三星带领八家韩国机构从MPEG LA跳槽到Access Advance，就是这种竞争的外化表现，最终导致土耳其Vestel对Access Advance专利池政策的不满而诉诸法庭，最后还获得了德国法院的支持。
+
+同时，这也从侧面说明当时MC-IF试图组建一个单一的专利池为何很难成功，背后可能就是原来HEVC不同专利池管理组织的理念差异很大。
+
+此次MPEG LA推出的VVC专利池，还公布了首批的10位许可人名单和专利许可费率。虽然重量级的许可人较Access Advance的VVC专利池少很多，但是从许可费率上，基本延续了MPEG之前编解码的模式和规则。在许可人中包括了中国香港的鸿颖创新。
+
+![image](https://user-images.githubusercontent.com/42224627/151695084-4b5fc325-23ad-4a3e-9822-26010d6b0895.png)
+
+制作：企业专利观察
+
+但是目前还有一些VVC标准必要专利的大持有人还没有加入任何一个专利池，像高通、三星、华为、爱立信、弗朗霍夫、InterDigital、字节跳动、腾讯等。
+
+德国IPlytics在2021年2月，曾对VVC的标准必要专利持有人分布做过分析。但是这家公司用AI分析SEP的方法，内部可操控的方式太多，包括我在内的一些人一直在质疑其公正性，因为商业化排名的气味太浓了，唯一胜在就是没人和他竞争，所以其排名仅供参考就好了。
+
+![image](https://user-images.githubusercontent.com/42224627/151695087-6217b792-3b5a-4b60-b700-24154881f36c.png)
+
+来源：IPlytics
+
+而更多的权利人分散在外，这并不是一个好的信号，未来这两个专利池还能吸引多少剩余的VVC标准必要专利持有人入池是个关键。
+
+但是从近两个月Access Advance管理的HEVC Advance专利池在德国法院判决后，被广泛遭受质疑来看（突然明白了为何FOSSPATENT在MPEG LA推出VVC之前会炮轰Access Advance了），一些SEP持有人在选择专利池的管理方时也会考虑池管理者的行业声誉，这对于一直以来争议较少的MPEG LA而言似乎更有利一些，但是MPEG LA的费率水平是否能吸引更多的权利人入池也是个挑战。
+
+当然，还有SEP专利持有企业之间的战略合作与竞争关系，都会影响到企业加入哪个专利池，例如快手加入的VVC Advance专利池，很有可能字节跳动就不会加入。
+
+此外，VVC会不会出现和HEVC一样的情况，有两个以上的专利池出现或是一些独立收费的权利人，变成更分散？预计也很有可能。就像去年高通退出Velos管理的HEVC专利池一样，过高的专利许可费率对专利池的运营也是不利的。
+
+VVC未来很有可能会是又一个权利人和实施人之间权利纷争的焦点项目，单一专利池的愿望恐怕在当下这个时代有点理想化了。而碎片化的专利池和权利人，势必会加重实施人的许可费负担，到底这个行业内的许可费率多少才是一个合理的水平，我们不妨看一下标杆苹果公司的行动。
+
+曾有国外记者Jan Ozer在一篇介绍VVC是否可以成功的文章中指出：
+
+Understand that before the launch of the HEVC codec, many companies committed to supporting new hardware codecs before the royalty costs were known because they assumed costs would be reasonable. That changed with HEVC which is still a mess. So, it’s expected that larger manufacturers like Apple and Samsung will resist supporting a new codec until the royalty structure is clear.
+要知道，在HEVC编解码器推出之前，许多公司在获知版税之前就承诺会支持新的硬件编解码器，因为他们认为这个费用应该是合理的。但是HEVC改变了这一点，直到现在它仍然一团糟。因此，预计苹果和三星等较大的制造商将拒绝支持新的编解码器，直到版税结构明确。
+所以，我在之前的文章中就特别提到过，连苹果这个全球最大的消费电子生产商都还认为目前包括HEVC在内的一专利池版税结构不合理，一直hold out呢，国内企业着急签什么呢？这一点我一直没想明白。
+
+难道国外一直在诟病中国企业hold out的形象，这么快就变成和特斯拉一样willingness了？
+
 ## 参考
 
 1. [全球专家评论（五）：了解SEP最新政策声明草案（第一部分）/IPWatchdog](https://mp.weixin.qq.com/s/sV_lUipXsrnbY2JEm43NHQ)
@@ -655,5 +735,7 @@ NUVIA 高级副总裁 John Bruno 曾先后在 ATI、AMD、苹果等公司任职�
 3. [全球专家评论（三）：新政策草案将为SEP所有者设置障碍/Law360](https://mp.weixin.qq.com/s/Yq1yeFFkaVnqaP1rbr-sug)
 4. [全球专家评论（二）：美国SEP航行的不确定海域——新指南可能导致未来的SEP风暴](https://mp.weixin.qq.com/s/WsGBbdNsngkRAltB0lr1JQ)
 5. [全球IP专家对美国司法部SEP许可和补救措施草案的评论（一）](https://mp.weixin.qq.com/s/5ic2wzubXEQG8qBP9lIOyA)
+6. [天马微与日本JDI专利和解背后，是中日知识产权竞争走向深水区](https://mp.weixin.qq.com/s/k90sqToSpDQ22OnjtYaK5g)
+7. [诺基亚终于把SEP许可项目做到了物联网（IoT）领域](https://mp.weixin.qq.com/s/ikOnalqc5zrZIWFU2g0ylQ) 
 
 [返回主页](/)
