@@ -627,5 +627,6 @@ OPPO胜利的背后，另外一件更关键的事情是，中国的知识产权�
 ## 参考
 
 1. [专利侵权纠纷行政裁决办案指南](http%3A%2F%2Fwww.gov.cn%2Ffuwu%2F2020-01%2F02%2F5465900%2Ffiles%2F2bf432d397924f829b4a87cc7b2bf689.pdf)
+2. [文章合辑 | 专利侵权诉讼（一）](https://mp.weixin.qq.com/s/UKxFqaZq5LYS1CeuLZTzcg)
 
 [返回主页](/)
