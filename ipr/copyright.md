@@ -915,5 +915,7 @@ Google做为安卓的推动者，其实开发了两块代码：第一块代码�
 8. [Fonts Knowledge](https://fonts.google.com/knowledge)
 9. [从维权的视角审视开源软件的合规使用](https://mp.weixin.qq.com/s/gTiIs0dflldv2R2KNimHZw)
 10. [孔祥俊 | 著作权立法与司法的产业利益之维](https://mp.weixin.qq.com/s/V44vMQ6FncmELF4c9mLtYw)
+11. [索赔3500万！“中国Adobe”再次起诉金山软件侵犯著作权](https://mp.weixin.qq.com/s/ikpp2rarVO_Czz0lxKF6Dw)
+12. [版权相关｜国家版权局发布2021年中国版权十件大事](https://mp.weixin.qq.com/s/1wY5DLmdINAeLYObpwfNEQ) 
 
 [返回主页](/)
