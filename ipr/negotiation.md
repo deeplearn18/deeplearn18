@@ -503,5 +503,6 @@ Each article is copyrighted to their original authors. The news is for informati
 2. [LG 电子与中国天珑移动签署“LTE 通信标准专利许可协议”：后者将向 LG 支付专利使用费](https://www.ithome.com/0/590/746.htm)
 3. [专利实施许可合同实务指引]()
 4. [《深圳市知识产权许可操作指引》](http://www.szmqs.gov.cn/xxgk/zcwj/zscqgl/zscqgz/201410/t20141013_2595040.htm)
+5. [一件发明专利如何拆分许可？](http://www.casted.org.cn/channel/newsinfo/8053) 
 
 [返回主页](/)
