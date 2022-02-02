@@ -258,6 +258,9 @@
 45. [印度专利检索网站](https://ipindia.gov.in/e-gateways.htm#public-search)
 46. [印度外观设计保护](http://ipr.mofcom.gov.cn/hwwq_2/zn/Asia/Ind/Design.html) 
 47. [浅谈印度专利申请](http://www.unitalen.com.cn/xhtml/report/17111648-1.htm) 
+48. [WIPO](https://www.wipo.int/portal/zh/)
+49. [欧洲专利局](https://www.epo.org/)
+50. [美国专利商标局](https://www.uspto.gov/)
 
 ### 书籍
 
