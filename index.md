@@ -261,6 +261,7 @@
 48. [WIPO](https://www.wipo.int/portal/zh/)
 49. [欧洲专利局](https://www.epo.org/)
 50. [美国专利商标局](https://www.uspto.gov/)
+51. [HimmPat](https://himmpat.com/) 
 
 ### 书籍
 
