@@ -282,10 +282,21 @@
 60. [HimmPat](https://himmpat.com/) 
 61. [江苏省知识产权保护中心(江苏省专利信息服务中心) ](http://www.jsipp.cn/)
 62. [IP Key中国官方网站](https://ipkey.eu/zh)
+63. [《中国人大》杂志社](http://www.npc.gov.cn/npc/index.shtml)
+64. [中华人民共和国最高人民检察院](https://www.spp.gov.cn/)
+65. [中华人民共和国最高人民法院](https://www.court.gov.cn/)
 
 ### 书籍
 
 1. [【PRIP读书会】：新书《标准必要专利许可：FRAND和物联网》](https://mp.weixin.qq.com/s/XA_RFGdZtu4rtbxlb6BROA)
+2. [知识产权法](https://book.douban.com/subject/35684592/)
+3. [知识产权法入门笔记](https://book.douban.com/subject/30704931/)
+4. [公司首席法务官(企业的守夜人)](https://book.douban.com/subject/27057164/) 
+5. [IP之道 : 30家国内一线创新公司的知识产权是如何运营的](https://book.douban.com/subject/27620354/) 
+6. [IP之道2 : 中国互联网企业知识产权实践集结](https://book.douban.com/subject/35685550/)
+7. [跟着审查员学检索——通信领域](https://book.douban.com/subject/35060348/) 
+8. [跟着审查员学检索——专利信息检索快速指南](https://book.douban.com/subject/34985006/)
+9. [通信领域标准必要专利法律问题研究](https://book.douban.com/subject/35175180/) 
 
 ### 文章
 
