@@ -4,6 +4,15 @@
 ![image](https://user-images.githubusercontent.com/42224627/150626720-24982577-3fff-4591-81c2-489a4faa4a75.png)
 > 这是一份优雅的事业，专利也是一份艺术品...如诗如歌...
 
+```
+工匠
+诗人
+画家
+歌手
+音乐家
+艺术家
+```
+
 ![](/img/ahaipr20211205001.jpeg)
 > 点亮传灯，照亮自己及他人...
 
@@ -255,20 +264,21 @@
 42. [广东外语外贸大学华南国际知识产权研究院](https://sciiip.gdufs.edu.cn/)
 43. [lexology](https://www.lexology.com)
 44. [科睿唯安](https://clarivate.com) 
-45. [科慧远咨询](http://www.ipfuture.com.cn) 
-46. [上海隆天律师事务所](http://www.lungtinlaw.com)
-47. [隆天知识产权](http://www.lungtin.com)
-48. [汉之光华](http://www.iprtop.com/)
-49. [华进知识产权](https://www.ixigua.com/home/4072233704369384/?source=pgc_author_name&list_entrance=anyVideo)
-50. [合肥知识产权律师网](https://www.hfiplaw.cn/)
-51. [知识产权出版社](http://www.ipph.cn)
-52. [印度专利检索网站](https://ipindia.gov.in/e-gateways.htm#public-search)
-53. [印度外观设计保护](http://ipr.mofcom.gov.cn/hwwq_2/zn/Asia/Ind/Design.html) 
-54. [浅谈印度专利申请](http://www.unitalen.com.cn/xhtml/report/17111648-1.htm) 
-55. [WIPO](https://www.wipo.int/portal/zh/)
-56. [欧洲专利局](https://www.epo.org/)
-57. [美国专利商标局](https://www.uspto.gov/)
-58. [HimmPat](https://himmpat.com/) 
+45. [法信](http://www.faxin.cn/index.aspx)
+46. [科慧远咨询](http://www.ipfuture.com.cn) 
+47. [上海隆天律师事务所](http://www.lungtinlaw.com)
+48. [隆天知识产权](http://www.lungtin.com)
+49. [汉之光华](http://www.iprtop.com/)
+50. [华进知识产权](https://www.ixigua.com/home/4072233704369384/?source=pgc_author_name&list_entrance=anyVideo)
+51. [合肥知识产权律师网](https://www.hfiplaw.cn/)
+52. [知识产权出版社](http://www.ipph.cn)
+53. [印度专利检索网站](https://ipindia.gov.in/e-gateways.htm#public-search)
+54. [印度外观设计保护](http://ipr.mofcom.gov.cn/hwwq_2/zn/Asia/Ind/Design.html) 
+55. [浅谈印度专利申请](http://www.unitalen.com.cn/xhtml/report/17111648-1.htm) 
+56. [WIPO](https://www.wipo.int/portal/zh/)
+57. [欧洲专利局](https://www.epo.org/)
+58. [美国专利商标局](https://www.uspto.gov/)
+59. [HimmPat](https://himmpat.com/) 
 
 ### 书籍
 
