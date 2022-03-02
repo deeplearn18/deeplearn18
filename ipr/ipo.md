@@ -359,5 +359,6 @@ SEC进行发行审核，交易所进行上市审核。发行人递交S-1/F-1后�
 ## 参考
 
 1. [汉盛](https://www.hanshenglaw.cn/CN/01.aspx)
+2. [中国科创板企业诉讼分析报告（2019-2021）正式发布](https://mp.weixin.qq.com/s/mG_KW-9TBas7ipt-iJnOAw)
 
 [返回主页](/)
