@@ -122,5 +122,6 @@
 ## 参考
 
 1. [技术自由实施尽职调查及专利侵权风险评估报告工作模板](https://mp.weixin.qq.com/s/1rlzND1TZoerBNQBfLKYwg)
+2. [美国、欧盟对俄罗斯最新经济制裁和出口管制概述](https://mp.weixin.qq.com/s/IDIyuFKaj35WPb5V0NH3nA)
 
 [返回主页](/)
